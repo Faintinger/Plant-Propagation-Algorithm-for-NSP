@@ -1,0 +1,3796 @@
+Read File ------------ 
+4	4	4	4
+2	1	1	0	2	0	1	0
+1	1	1	0	0	0	1	0
+2	1	1	0	3	0	0	0
+2	1	1	0	0	1	1	0
+2	4	4	4	1	1	1	2	3	3	2	2	4	2	3	1
+1	2	2	2	1	2	3	3	4	2	4	4	4	2	4	4
+3	4	4	4	1	4	4	4	4	2	4	4	4	2	4	4
+4	2	4	4	4	2	4	4	1	2	3	4	3	3	3	3
+1	100	1
+2	100	1
+3	150	2
+4	200	3
+
+New Population ------------ 
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Generation Population ------------ 1
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.96875 Penalty = 0.0703125
+Preferences = 76.5625
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.96875 Penalty = 0.0703125
+Preferences = 76.5625
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.96875 Penalty = 0.0703125
+Preferences = 76.5625
+Skill = 100
+Generation Population ------------ 2
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.96875 Penalty = 0.0703125
+Preferences = 76.5625
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.96875 Penalty = 0.0703125
+Preferences = 76.5625
+Skill = 100
+Generation Population ------------ 3
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 2, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 33.4375 Penalty = 0.665625
+Preferences = 78.125
+Skill = 100
+Generation Population ------------ 4
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+Generation Population ------------ 5
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 34.375 Penalty = 0.65625
+Preferences = 81.25
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 2, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 34.375 Penalty = 0.65625
+Preferences = 81.25
+Skill = 100
+Generation Population ------------ 6
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+Generation Population ------------ 7
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+Generation Population ------------ 8
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 34.375 Penalty = 0.65625
+Preferences = 81.25
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 34.375 Penalty = 0.65625
+Preferences = 81.25
+Skill = 100
+Generation Population ------------ 9
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+Generation Population ------------ 10
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+Generation Population ------------ 11
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+Generation Population ------------ 12
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+Generation Population ------------ 13
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+Generation Population ------------ 14
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+Generation Population ------------ 15
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+Generation Population ------------ 16
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 34.375 Penalty = 0.65625
+Preferences = 81.25
+Skill = 100
+Generation Population ------------ 17
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 34.375 Penalty = 0.65625
+Preferences = 81.25
+Skill = 100
+Generation Population ------------ 18
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+Generation Population ------------ 19
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+Generation Population ------------ 20
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+Final Population ------------ 
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 93.90625 Penalty = 0.0609375
+Preferences = 79.6875
+Skill = 100
+Read File ------------ 
+4	4	4	4
+2	1	1	0	2	0	1	0
+1	1	1	0	0	0	1	0
+2	1	1	0	3	0	0	0
+2	1	1	0	0	1	1	0
+2	4	4	4	1	1	1	2	3	3	2	2	4	2	3	1
+1	2	2	2	1	2	3	3	4	2	4	4	4	2	4	4
+3	4	4	4	1	4	4	4	4	2	4	4	4	2	4	4
+4	2	4	4	4	2	4	4	1	2	3	4	3	3	3	3
+1	100	1
+2	100	1
+3	150	2
+4	200	3
+
+New Population ------------ 
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Generation Population ------------ 1
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 92.5 Penalty = 0.075
+Preferences = 75.0
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 92.5 Penalty = 0.075
+Preferences = 75.0
+Skill = 100
+Generation Population ------------ 2
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 92.5 Penalty = 0.075
+Preferences = 75.0
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 92.5 Penalty = 0.075
+Preferences = 75.0
+Skill = 100
+Generation Population ------------ 3
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 92.5 Penalty = 0.075
+Preferences = 75.0
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 92.5 Penalty = 0.075
+Preferences = 75.0
+Skill = 100
+Generation Population ------------ 4
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 32.50000000000001 Penalty = 0.6749999999999999
+Preferences = 75.0
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 3, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 32.50000000000001 Penalty = 0.6749999999999999
+Preferences = 75.0
+Skill = 100
+Generation Population ------------ 5
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 32.50000000000001 Penalty = 0.6749999999999999
+Preferences = 75.0
+Skill = 100
+Generation Population ------------ 6
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 2, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 32.50000000000001 Penalty = 0.6749999999999999
+Preferences = 75.0
+Skill = 100
+Generation Population ------------ 7
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+Generation Population ------------ 8
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 2, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 32.50000000000001 Penalty = 0.6749999999999999
+Preferences = 75.0
+Skill = 100
+Generation Population ------------ 9
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+Generation Population ------------ 10
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+Generation Population ------------ 11
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 32.50000000000001 Penalty = 0.6749999999999999
+Preferences = 75.0
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 32.50000000000001 Penalty = 0.6749999999999999
+Preferences = 75.0
+Skill = 100
+Generation Population ------------ 12
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+Generation Population ------------ 13
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+Generation Population ------------ 14
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+Generation Population ------------ 15
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+Generation Population ------------ 16
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+Generation Population ------------ 17
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 32.50000000000001 Penalty = 0.6749999999999999
+Preferences = 75.0
+Skill = 100
+Generation Population ------------ 18
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+Generation Population ------------ 19
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 32.50000000000001 Penalty = 0.6749999999999999
+Preferences = 75.0
+Skill = 100
+Generation Population ------------ 20
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+Final Population ------------ 
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+Read File ------------ 
+4	4	4	4
+2	1	1	0	2	0	1	0
+1	1	1	0	0	0	1	0
+2	1	1	0	3	0	0	0
+2	1	1	0	0	1	1	0
+2	4	4	4	1	1	1	2	3	3	2	2	4	2	3	1
+1	2	2	2	1	2	3	3	4	2	4	4	4	2	4	4
+3	4	4	4	1	4	4	4	4	2	4	4	4	2	4	4
+4	2	4	4	4	2	4	4	1	2	3	4	3	3	3	3
+1	100	1
+2	100	1
+3	150	2
+4	200	3
+
+New Population ------------ 
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Generation Population ------------ 1
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 34.84375000000001 Penalty = 0.6515624999999999
+Preferences = 82.8125
+Skill = 100
+Generation Population ------------ 2
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+Generation Population ------------ 3
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+Generation Population ------------ 4
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+Generation Population ------------ 5
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 34.84375000000001 Penalty = 0.6515624999999999
+Preferences = 82.8125
+Skill = 100
+Generation Population ------------ 6
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+Generation Population ------------ 7
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+Generation Population ------------ 8
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+Generation Population ------------ 9
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+Generation Population ------------ 10
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 34.84375000000001 Penalty = 0.6515624999999999
+Preferences = 82.8125
+Skill = 100
+Generation Population ------------ 11
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 2, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 91.09375 Penalty = 0.0890625
+Preferences = 70.3125
+Skill = 100
+Generation Population ------------ 12
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+Generation Population ------------ 13
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 92.03125 Penalty = 0.0796875
+Preferences = 73.4375
+Skill = 100
+Generation Population ------------ 14
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+Generation Population ------------ 15
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+Generation Population ------------ 16
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 34.84375000000001 Penalty = 0.6515624999999999
+Preferences = 82.8125
+Skill = 100
+Generation Population ------------ 17
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 34.84375000000001 Penalty = 0.6515624999999999
+Preferences = 82.8125
+Skill = 100
+Generation Population ------------ 18
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+Generation Population ------------ 19
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+Generation Population ------------ 20
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 17600.0
+Coverage = 34.84375000000001 Penalty = 0.6515624999999999
+Preferences = 82.8125
+Skill = 100
+Final Population ------------ 
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+Best Populations ------------ 
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 3, 480.0mins 0lvl | 
+day 2	7-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	8-Shift, shift 4, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 1, 480.0mins 0lvl | 
+day 3	11-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16400.0
+Coverage = 93.4375 Penalty = 0.065625
+Preferences = 78.125
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 3, 480.0mins 0lvl | 
+day 3	10-Shift, shift 2, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	13-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	7-Shift, shift 1, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	14-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	5-Shift, shift 2, 480.0mins 0lvl | 
+day 3	12-Shift, shift 1, 480.0mins 0lvl | 
+day 4	16-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 33.90625000000001 Penalty = 0.6609375
+Preferences = 79.6875
+Skill = 100
+1 - 1 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	5-Shift, shift 1, 480.0mins 0lvl | 
+day 3	12-Shift, shift 2, 480.0mins 0lvl | 
+day 4	13-Shift, shift 2, 480.0mins 0lvl | 
+2 - 1 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	7-Shift, shift 4, 480.0mins 0lvl | 
+day 3	11-Shift, shift 1, 480.0mins 0lvl | 
+day 4	14-Shift, shift 1, 480.0mins 0lvl | 
+3 - 2 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	6-Shift, shift 3, 480.0mins 0lvl | 
+day 3	9-Shift, shift 3, 480.0mins 0lvl | 
+day 4	16-Shift, shift 3, 480.0mins 0lvl | 
+4 - 3 lvl hours: 8.0
+day 1	4-Shift, shift 3, 480.0mins 0lvl | 
+day 2	8-Shift, shift 2, 480.0mins 0lvl | 
+day 3	10-Shift, shift 1, 480.0mins 0lvl | 
+day 4	15-Shift, shift 1, 480.0mins 0lvl | 
+Cost = 16800.0
+Coverage = 32.03125 Penalty = 0.6796875
+Preferences = 73.4375
+Skill = 100

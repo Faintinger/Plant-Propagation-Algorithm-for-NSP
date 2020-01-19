@@ -1,0 +1,3016 @@
+Best Populations ------------ 
+1 - 0 lvl hours: 8.0
+day 1	2-Shift, shift 3, 480.0mins 0lvl | 
+day 2	88-Shift, shift 2, 480.0mins 0lvl | 
+day 3	164-Shift, shift 1, 480.0mins 0lvl | 
+day 4	226-Shift, shift 1, 480.0mins 0lvl | 
+day 5	306-Shift, shift 4, 480.0mins 0lvl | 
+day 6	382-Shift, shift 3, 480.0mins 0lvl | 
+day 7	456-Shift, shift 3, 480.0mins 0lvl | 
+2 - 0 lvl hours: 8.0
+day 1	30-Shift, shift 3, 480.0mins 0lvl | 
+day 2	128-Shift, shift 2, 480.0mins 0lvl | 
+day 3	204-Shift, shift 1, 480.0mins 0lvl | 
+day 4	228-Shift, shift 2, 480.0mins 0lvl | 
+day 5	343-Shift, shift 4, 480.0mins 0lvl | 
+day 6	422-Shift, shift 4, 480.0mins 0lvl | 
+day 7	465-Shift, shift 1, 480.0mins 0lvl | 
+3 - 0 lvl hours: 8.0
+day 1	38-Shift, shift 3, 480.0mins 0lvl | 
+day 2	100-Shift, shift 4, 480.0mins 0lvl | 
+day 3	154-Shift, shift 3, 480.0mins 0lvl | 
+day 4	281-Shift, shift 4, 480.0mins 0lvl | 
+day 5	348-Shift, shift 3, 480.0mins 0lvl | 
+day 6	428-Shift, shift 2, 480.0mins 0lvl | 
+day 7	502-Shift, shift 2, 480.0mins 0lvl | 
+4 - 0 lvl hours: 8.0
+day 1	69-Shift, shift 4, 480.0mins 0lvl | 
+day 2	144-Shift, shift 1, 480.0mins 0lvl | 
+day 3	194-Shift, shift 4, 480.0mins 0lvl | 
+day 4	239-Shift, shift 3, 480.0mins 0lvl | 
+day 5	371-Shift, shift 2, 480.0mins 0lvl | 
+day 6	416-Shift, shift 2, 480.0mins 0lvl | 
+day 7	521-Shift, shift 2, 480.0mins 0lvl | 
+5 - 0 lvl hours: 8.0
+day 1	43-Shift, shift 3, 480.0mins 0lvl | 
+day 2	134-Shift, shift 2, 480.0mins 0lvl | 
+day 3	213-Shift, shift 2, 480.0mins 0lvl | 
+day 4	233-Shift, shift 4, 480.0mins 0lvl | 
+day 5	308-Shift, shift 1, 480.0mins 0lvl | 
+day 6	434-Shift, shift 2, 480.0mins 0lvl | 
+day 7	507-Shift, shift 3, 480.0mins 0lvl | 
+6 - 0 lvl hours: 8.0
+day 1	26-Shift, shift 1, 480.0mins 0lvl | 
+day 2	95-Shift, shift 2, 480.0mins 0lvl | 
+day 3	153-Shift, shift 2, 480.0mins 0lvl | 
+day 4	272-Shift, shift 2, 480.0mins 0lvl | 
+day 5	341-Shift, shift 3, 480.0mins 0lvl | 
+day 6	418-Shift, shift 4, 480.0mins 0lvl | 
+day 7	495-Shift, shift 3, 480.0mins 0lvl | 
+7 - 0 lvl hours: 8.0
+day 1	62-Shift, shift 4, 480.0mins 0lvl | 
+day 2	119-Shift, shift 3, 480.0mins 0lvl | 
+day 3	206-Shift, shift 3, 480.0mins 0lvl | 
+day 4	259-Shift, shift 3, 480.0mins 0lvl | 
+day 5	367-Shift, shift 4, 480.0mins 0lvl | 
+day 6	433-Shift, shift 2, 480.0mins 0lvl | 
+day 7	453-Shift, shift 4, 480.0mins 0lvl | 
+8 - 0 lvl hours: 8.0
+day 1	68-Shift, shift 2, 480.0mins 0lvl | 
+day 2	143-Shift, shift 2, 480.0mins 0lvl | 
+day 3	187-Shift, shift 4, 480.0mins 0lvl | 
+day 4	275-Shift, shift 1, 480.0mins 0lvl | 
+day 5	337-Shift, shift 1, 480.0mins 0lvl | 
+day 6	420-Shift, shift 4, 480.0mins 0lvl | 
+day 7	520-Shift, shift 1, 480.0mins 0lvl | 
+9 - 0 lvl hours: 8.0
+day 1	74-Shift, shift 1, 480.0mins 0lvl | 
+day 2	149-Shift, shift 1, 480.0mins 0lvl | 
+day 3	223-Shift, shift 4, 480.0mins 0lvl | 
+day 4	289-Shift, shift 4, 480.0mins 0lvl | 
+day 5	317-Shift, shift 2, 480.0mins 0lvl | 
+day 6	447-Shift, shift 1, 480.0mins 0lvl | 
+day 7	525-Shift, shift 2, 480.0mins 0lvl | 
+10 - 0 lvl hours: 8.0
+day 1	14-Shift, shift 2, 480.0mins 0lvl | 
+day 2	116-Shift, shift 1, 480.0mins 0lvl | 
+day 3	184-Shift, shift 2, 480.0mins 0lvl | 
+day 4	244-Shift, shift 1, 480.0mins 0lvl | 
+day 5	327-Shift, shift 4, 480.0mins 0lvl | 
+day 6	409-Shift, shift 2, 480.0mins 0lvl | 
+day 7	489-Shift, shift 2, 480.0mins 0lvl | 
+11 - 0 lvl hours: 8.0
+day 1	17-Shift, shift 4, 480.0mins 0lvl | 
+day 2	118-Shift, shift 1, 480.0mins 0lvl | 
+day 3	192-Shift, shift 4, 480.0mins 0lvl | 
+day 4	261-Shift, shift 3, 480.0mins 0lvl | 
+day 5	334-Shift, shift 4, 480.0mins 0lvl | 
+day 6	406-Shift, shift 3, 480.0mins 0lvl | 
+day 7	491-Shift, shift 2, 480.0mins 0lvl | 
+12 - 0 lvl hours: 8.0
+day 1	34-Shift, shift 4, 480.0mins 0lvl | 
+day 2	91-Shift, shift 2, 480.0mins 0lvl | 
+day 3	207-Shift, shift 3, 480.0mins 0lvl | 
+day 4	278-Shift, shift 4, 480.0mins 0lvl | 
+day 5	345-Shift, shift 3, 480.0mins 0lvl | 
+day 6	425-Shift, shift 3, 480.0mins 0lvl | 
+day 7	462-Shift, shift 2, 480.0mins 0lvl | 
+13 - 0 lvl hours: 8.0
+day 1	53-Shift, shift 4, 480.0mins 0lvl | 
+day 2	84-Shift, shift 1, 480.0mins 0lvl | 
+day 3	217-Shift, shift 1, 480.0mins 0lvl | 
+day 4	234-Shift, shift 3, 480.0mins 0lvl | 
+day 5	362-Shift, shift 3, 480.0mins 0lvl | 
+day 6	441-Shift, shift 3, 480.0mins 0lvl | 
+day 7	513-Shift, shift 3, 480.0mins 0lvl | 
+14 - 0 lvl hours: 8.0
+day 1	22-Shift, shift 4, 480.0mins 0lvl | 
+day 2	87-Shift, shift 2, 480.0mins 0lvl | 
+day 3	200-Shift, shift 2, 480.0mins 0lvl | 
+day 4	266-Shift, shift 4, 480.0mins 0lvl | 
+day 5	338-Shift, shift 4, 480.0mins 0lvl | 
+day 6	414-Shift, shift 4, 480.0mins 0lvl | 
+day 7	460-Shift, shift 4, 480.0mins 0lvl | 
+15 - 0 lvl hours: 8.0
+day 1	67-Shift, shift 2, 480.0mins 0lvl | 
+day 2	142-Shift, shift 3, 480.0mins 0lvl | 
+day 3	167-Shift, shift 4, 480.0mins 0lvl | 
+day 4	245-Shift, shift 2, 480.0mins 0lvl | 
+day 5	307-Shift, shift 4, 480.0mins 0lvl | 
+day 6	450-Shift, shift 4, 480.0mins 0lvl | 
+day 7	472-Shift, shift 4, 480.0mins 0lvl | 
+16 - 0 lvl hours: 8.0
+day 1	49-Shift, shift 3, 480.0mins 0lvl | 
+day 2	138-Shift, shift 3, 480.0mins 0lvl | 
+day 3	191-Shift, shift 3, 480.0mins 0lvl | 
+day 4	293-Shift, shift 2, 480.0mins 0lvl | 
+day 5	359-Shift, shift 1, 480.0mins 0lvl | 
+day 6	383-Shift, shift 1, 480.0mins 0lvl | 
+day 7	511-Shift, shift 2, 480.0mins 0lvl | 
+17 - 0 lvl hours: 8.0
+day 1	27-Shift, shift 1, 480.0mins 0lvl | 
+day 2	126-Shift, shift 4, 480.0mins 0lvl | 
+day 3	185-Shift, shift 2, 480.0mins 0lvl | 
+day 4	267-Shift, shift 1, 480.0mins 0lvl | 
+day 5	303-Shift, shift 2, 480.0mins 0lvl | 
+day 6	376-Shift, shift 2, 480.0mins 0lvl | 
+day 7	496-Shift, shift 3, 480.0mins 0lvl | 
+18 - 0 lvl hours: 8.0
+day 1	18-Shift, shift 1, 480.0mins 0lvl | 
+day 2	122-Shift, shift 2, 480.0mins 0lvl | 
+day 3	196-Shift, shift 4, 480.0mins 0lvl | 
+day 4	264-Shift, shift 4, 480.0mins 0lvl | 
+day 5	331-Shift, shift 1, 480.0mins 0lvl | 
+day 6	389-Shift, shift 1, 480.0mins 0lvl | 
+day 7	452-Shift, shift 4, 480.0mins 0lvl | 
+19 - 0 lvl hours: 8.0
+day 1	51-Shift, shift 3, 480.0mins 0lvl | 
+day 2	79-Shift, shift 4, 480.0mins 0lvl | 
+day 3	179-Shift, shift 4, 480.0mins 0lvl | 
+day 4	265-Shift, shift 1, 480.0mins 0lvl | 
+day 5	336-Shift, shift 1, 480.0mins 0lvl | 
+day 6	440-Shift, shift 3, 480.0mins 0lvl | 
+day 7	509-Shift, shift 1, 480.0mins 0lvl | 
+20 - 0 lvl hours: 8.0
+day 1	19-Shift, shift 3, 480.0mins 0lvl | 
+day 2	123-Shift, shift 3, 480.0mins 0lvl | 
+day 3	197-Shift, shift 1, 480.0mins 0lvl | 
+day 4	231-Shift, shift 1, 480.0mins 0lvl | 
+day 5	325-Shift, shift 1, 480.0mins 0lvl | 
+day 6	394-Shift, shift 4, 480.0mins 0lvl | 
+day 7	458-Shift, shift 1, 480.0mins 0lvl | 
+21 - 0 lvl hours: 8.0
+day 1	16-Shift, shift 4, 480.0mins 0lvl | 
+day 2	104-Shift, shift 4, 480.0mins 0lvl | 
+day 3	190-Shift, shift 2, 480.0mins 0lvl | 
+day 4	257-Shift, shift 2, 480.0mins 0lvl | 
+day 5	329-Shift, shift 4, 480.0mins 0lvl | 
+day 6	412-Shift, shift 3, 480.0mins 0lvl | 
+day 7	492-Shift, shift 2, 480.0mins 0lvl | 
+22 - 0 lvl hours: 8.0
+day 1	61-Shift, shift 3, 480.0mins 0lvl | 
+day 2	115-Shift, shift 3, 480.0mins 0lvl | 
+day 3	221-Shift, shift 3, 480.0mins 0lvl | 
+day 4	269-Shift, shift 2, 480.0mins 0lvl | 
+day 5	352-Shift, shift 2, 480.0mins 0lvl | 
+day 6	386-Shift, shift 3, 480.0mins 0lvl | 
+day 7	518-Shift, shift 1, 480.0mins 0lvl | 
+23 - 0 lvl hours: 8.0
+day 1	32-Shift, shift 4, 480.0mins 0lvl | 
+day 2	130-Shift, shift 2, 480.0mins 0lvl | 
+day 3	176-Shift, shift 4, 480.0mins 0lvl | 
+day 4	248-Shift, shift 1, 480.0mins 0lvl | 
+day 5	326-Shift, shift 3, 480.0mins 0lvl | 
+day 6	388-Shift, shift 3, 480.0mins 0lvl | 
+day 7	499-Shift, shift 1, 480.0mins 0lvl | 
+24 - 0 lvl hours: 8.0
+day 1	23-Shift, shift 2, 480.0mins 0lvl | 
+day 2	92-Shift, shift 4, 480.0mins 0lvl | 
+day 3	202-Shift, shift 2, 480.0mins 0lvl | 
+day 4	268-Shift, shift 3, 480.0mins 0lvl | 
+day 5	318-Shift, shift 4, 480.0mins 0lvl | 
+day 6	395-Shift, shift 1, 480.0mins 0lvl | 
+day 7	466-Shift, shift 2, 480.0mins 0lvl | 
+25 - 0 lvl hours: 8.0
+day 1	63-Shift, shift 3, 480.0mins 0lvl | 
+day 2	120-Shift, shift 3, 480.0mins 0lvl | 
+day 3	195-Shift, shift 2, 480.0mins 0lvl | 
+day 4	284-Shift, shift 1, 480.0mins 0lvl | 
+day 5	350-Shift, shift 1, 480.0mins 0lvl | 
+day 6	421-Shift, shift 1, 480.0mins 0lvl | 
+day 7	486-Shift, shift 3, 480.0mins 0lvl | 
+26 - 0 lvl hours: 8.0
+day 1	20-Shift, shift 1, 480.0mins 0lvl | 
+day 2	124-Shift, shift 4, 480.0mins 0lvl | 
+day 3	199-Shift, shift 3, 480.0mins 0lvl | 
+day 4	246-Shift, shift 2, 480.0mins 0lvl | 
+day 5	332-Shift, shift 4, 480.0mins 0lvl | 
+day 6	413-Shift, shift 3, 480.0mins 0lvl | 
+day 7	479-Shift, shift 2, 480.0mins 0lvl | 
+27 - 0 lvl hours: 8.0
+day 1	71-Shift, shift 1, 480.0mins 0lvl | 
+day 2	145-Shift, shift 3, 480.0mins 0lvl | 
+day 3	219-Shift, shift 2, 480.0mins 0lvl | 
+day 4	263-Shift, shift 1, 480.0mins 0lvl | 
+day 5	302-Shift, shift 1, 480.0mins 0lvl | 
+day 6	410-Shift, shift 4, 480.0mins 0lvl | 
+day 7	523-Shift, shift 4, 480.0mins 0lvl | 
+28 - 0 lvl hours: 8.0
+day 1	29-Shift, shift 4, 480.0mins 0lvl | 
+day 2	86-Shift, shift 4, 480.0mins 0lvl | 
+day 3	173-Shift, shift 4, 480.0mins 0lvl | 
+day 4	274-Shift, shift 2, 480.0mins 0lvl | 
+day 5	309-Shift, shift 1, 480.0mins 0lvl | 
+day 6	391-Shift, shift 1, 480.0mins 0lvl | 
+day 7	497-Shift, shift 3, 480.0mins 0lvl | 
+29 - 0 lvl hours: 8.0
+day 1	37-Shift, shift 3, 480.0mins 0lvl | 
+day 2	99-Shift, shift 3, 480.0mins 0lvl | 
+day 3	210-Shift, shift 3, 480.0mins 0lvl | 
+day 4	280-Shift, shift 1, 480.0mins 0lvl | 
+day 5	347-Shift, shift 4, 480.0mins 0lvl | 
+day 6	427-Shift, shift 2, 480.0mins 0lvl | 
+day 7	473-Shift, shift 3, 480.0mins 0lvl | 
+30 - 0 lvl hours: 8.0
+day 1	12-Shift, shift 4, 480.0mins 0lvl | 
+day 2	107-Shift, shift 2, 480.0mins 0lvl | 
+day 3	182-Shift, shift 4, 480.0mins 0lvl | 
+day 4	254-Shift, shift 2, 480.0mins 0lvl | 
+day 5	323-Shift, shift 4, 480.0mins 0lvl | 
+day 6	403-Shift, shift 3, 480.0mins 0lvl | 
+day 7	487-Shift, shift 2, 480.0mins 0lvl | 
+31 - 0 lvl hours: 8.0
+day 1	25-Shift, shift 2, 480.0mins 0lvl | 
+day 2	82-Shift, shift 2, 480.0mins 0lvl | 
+day 3	151-Shift, shift 4, 480.0mins 0lvl | 
+day 4	271-Shift, shift 4, 480.0mins 0lvl | 
+day 5	340-Shift, shift 4, 480.0mins 0lvl | 
+day 6	417-Shift, shift 2, 480.0mins 0lvl | 
+day 7	493-Shift, shift 1, 480.0mins 0lvl | 
+32 - 0 lvl hours: 8.0
+day 1	36-Shift, shift 3, 480.0mins 0lvl | 
+day 2	132-Shift, shift 1, 480.0mins 0lvl | 
+day 3	155-Shift, shift 2, 480.0mins 0lvl | 
+day 4	255-Shift, shift 2, 480.0mins 0lvl | 
+day 5	304-Shift, shift 2, 480.0mins 0lvl | 
+day 6	380-Shift, shift 3, 480.0mins 0lvl | 
+day 7	482-Shift, shift 3, 480.0mins 0lvl | 
+33 - 0 lvl hours: 8.0
+day 1	58-Shift, shift 4, 480.0mins 0lvl | 
+day 2	112-Shift, shift 3, 480.0mins 0lvl | 
+day 3	209-Shift, shift 3, 480.0mins 0lvl | 
+day 4	295-Shift, shift 1, 480.0mins 0lvl | 
+day 5	365-Shift, shift 2, 480.0mins 0lvl | 
+day 6	445-Shift, shift 1, 480.0mins 0lvl | 
+day 7	467-Shift, shift 4, 480.0mins 0lvl | 
+34 - 0 lvl hours: 8.0
+day 1	7-Shift, shift 2, 480.0mins 0lvl | 
+day 2	96-Shift, shift 3, 480.0mins 0lvl | 
+day 3	177-Shift, shift 1, 480.0mins 0lvl | 
+day 4	241-Shift, shift 2, 480.0mins 0lvl | 
+day 5	315-Shift, shift 4, 480.0mins 0lvl | 
+day 6	396-Shift, shift 3, 480.0mins 0lvl | 
+day 7	476-Shift, shift 2, 480.0mins 0lvl | 
+35 - 0 lvl hours: 8.0
+day 1	45-Shift, shift 2, 480.0mins 0lvl | 
+day 2	135-Shift, shift 4, 480.0mins 0lvl | 
+day 3	161-Shift, shift 2, 480.0mins 0lvl | 
+day 4	290-Shift, shift 3, 480.0mins 0lvl | 
+day 5	355-Shift, shift 2, 480.0mins 0lvl | 
+day 6	398-Shift, shift 4, 480.0mins 0lvl | 
+day 7	510-Shift, shift 4, 480.0mins 0lvl | 
+36 - 0 lvl hours: 8.0
+day 1	39-Shift, shift 3, 480.0mins 0lvl | 
+day 2	109-Shift, shift 2, 480.0mins 0lvl | 
+day 3	211-Shift, shift 4, 480.0mins 0lvl | 
+day 4	282-Shift, shift 4, 480.0mins 0lvl | 
+day 5	349-Shift, shift 2, 480.0mins 0lvl | 
+day 6	430-Shift, shift 2, 480.0mins 0lvl | 
+day 7	503-Shift, shift 2, 480.0mins 0lvl | 
+37 - 0 lvl hours: 8.0
+day 1	59-Shift, shift 3, 480.0mins 0lvl | 
+day 2	113-Shift, shift 4, 480.0mins 0lvl | 
+day 3	157-Shift, shift 1, 480.0mins 0lvl | 
+day 4	296-Shift, shift 3, 480.0mins 0lvl | 
+day 5	366-Shift, shift 2, 480.0mins 0lvl | 
+day 6	397-Shift, shift 1, 480.0mins 0lvl | 
+day 7	480-Shift, shift 2, 480.0mins 0lvl | 
+38 - 0 lvl hours: 8.0
+day 1	11-Shift, shift 2, 480.0mins 0lvl | 
+day 2	77-Shift, shift 1, 480.0mins 0lvl | 
+day 3	181-Shift, shift 4, 480.0mins 0lvl | 
+day 4	227-Shift, shift 3, 480.0mins 0lvl | 
+day 5	301-Shift, shift 1, 480.0mins 0lvl | 
+day 6	405-Shift, shift 2, 480.0mins 0lvl | 
+day 7	469-Shift, shift 3, 480.0mins 0lvl | 
+39 - 0 lvl hours: 8.0
+day 1	21-Shift, shift 3, 480.0mins 0lvl | 
+day 2	105-Shift, shift 4, 480.0mins 0lvl | 
+day 3	198-Shift, shift 2, 480.0mins 0lvl | 
+day 4	258-Shift, shift 3, 480.0mins 0lvl | 
+day 5	333-Shift, shift 2, 480.0mins 0lvl | 
+day 6	407-Shift, shift 2, 480.0mins 0lvl | 
+day 7	474-Shift, shift 4, 480.0mins 0lvl | 
+40 - 0 lvl hours: 8.0
+day 1	9-Shift, shift 3, 480.0mins 0lvl | 
+day 2	103-Shift, shift 4, 480.0mins 0lvl | 
+day 3	178-Shift, shift 4, 480.0mins 0lvl | 
+day 4	251-Shift, shift 4, 480.0mins 0lvl | 
+day 5	319-Shift, shift 1, 480.0mins 0lvl | 
+day 6	378-Shift, shift 4, 480.0mins 0lvl | 
+day 7	478-Shift, shift 1, 480.0mins 0lvl | 
+41 - 0 lvl hours: 8.0
+day 1	40-Shift, shift 3, 480.0mins 0lvl | 
+day 2	121-Shift, shift 4, 480.0mins 0lvl | 
+day 3	214-Shift, shift 4, 480.0mins 0lvl | 
+day 4	283-Shift, shift 1, 480.0mins 0lvl | 
+day 5	351-Shift, shift 1, 480.0mins 0lvl | 
+day 6	431-Shift, shift 2, 480.0mins 0lvl | 
+day 7	505-Shift, shift 3, 480.0mins 0lvl | 
+42 - 0 lvl hours: 8.0
+day 1	41-Shift, shift 4, 480.0mins 0lvl | 
+day 2	133-Shift, shift 3, 480.0mins 0lvl | 
+day 3	218-Shift, shift 2, 480.0mins 0lvl | 
+day 4	286-Shift, shift 4, 480.0mins 0lvl | 
+day 5	353-Shift, shift 1, 480.0mins 0lvl | 
+day 6	432-Shift, shift 4, 480.0mins 0lvl | 
+day 7	506-Shift, shift 1, 480.0mins 0lvl | 
+43 - 0 lvl hours: 8.0
+day 1	75-Shift, shift 4, 480.0mins 0lvl | 
+day 2	150-Shift, shift 4, 480.0mins 0lvl | 
+day 3	225-Shift, shift 3, 480.0mins 0lvl | 
+day 4	300-Shift, shift 3, 480.0mins 0lvl | 
+day 5	375-Shift, shift 2, 480.0mins 0lvl | 
+day 6	443-Shift, shift 4, 480.0mins 0lvl | 
+day 7	455-Shift, shift 4, 480.0mins 0lvl | 
+44 - 0 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	93-Shift, shift 1, 480.0mins 0lvl | 
+day 3	166-Shift, shift 3, 480.0mins 0lvl | 
+day 4	236-Shift, shift 3, 480.0mins 0lvl | 
+day 5	311-Shift, shift 3, 480.0mins 0lvl | 
+day 6	390-Shift, shift 2, 480.0mins 0lvl | 
+day 7	463-Shift, shift 1, 480.0mins 0lvl | 
+45 - 0 lvl hours: 8.0
+day 1	15-Shift, shift 3, 480.0mins 0lvl | 
+day 2	117-Shift, shift 1, 480.0mins 0lvl | 
+day 3	189-Shift, shift 3, 480.0mins 0lvl | 
+day 4	253-Shift, shift 1, 480.0mins 0lvl | 
+day 5	330-Shift, shift 3, 480.0mins 0lvl | 
+day 6	411-Shift, shift 1, 480.0mins 0lvl | 
+day 7	490-Shift, shift 4, 480.0mins 0lvl | 
+46 - 0 lvl hours: 8.0
+day 1	28-Shift, shift 2, 480.0mins 0lvl | 
+day 2	127-Shift, shift 3, 480.0mins 0lvl | 
+day 3	203-Shift, shift 4, 480.0mins 0lvl | 
+day 4	243-Shift, shift 4, 480.0mins 0lvl | 
+day 5	342-Shift, shift 3, 480.0mins 0lvl | 
+day 6	419-Shift, shift 4, 480.0mins 0lvl | 
+day 7	470-Shift, shift 4, 480.0mins 0lvl | 
+47 - 0 lvl hours: 8.0
+day 1	31-Shift, shift 1, 480.0mins 0lvl | 
+day 2	80-Shift, shift 1, 480.0mins 0lvl | 
+day 3	205-Shift, shift 1, 480.0mins 0lvl | 
+day 4	273-Shift, shift 4, 480.0mins 0lvl | 
+day 5	328-Shift, shift 3, 480.0mins 0lvl | 
+day 6	424-Shift, shift 4, 480.0mins 0lvl | 
+day 7	498-Shift, shift 3, 480.0mins 0lvl | 
+48 - 0 lvl hours: 8.0
+day 1	1-Shift, shift 2, 480.0mins 0lvl | 
+day 2	85-Shift, shift 1, 480.0mins 0lvl | 
+day 3	162-Shift, shift 3, 480.0mins 0lvl | 
+day 4	237-Shift, shift 3, 480.0mins 0lvl | 
+day 5	305-Shift, shift 4, 480.0mins 0lvl | 
+day 6	381-Shift, shift 4, 480.0mins 0lvl | 
+day 7	451-Shift, shift 1, 480.0mins 0lvl | 
+49 - 0 lvl hours: 8.0
+day 1	72-Shift, shift 4, 480.0mins 0lvl | 
+day 2	147-Shift, shift 3, 480.0mins 0lvl | 
+day 3	224-Shift, shift 1, 480.0mins 0lvl | 
+day 4	252-Shift, shift 2, 480.0mins 0lvl | 
+day 5	373-Shift, shift 3, 480.0mins 0lvl | 
+day 6	400-Shift, shift 4, 480.0mins 0lvl | 
+day 7	504-Shift, shift 2, 480.0mins 0lvl | 
+50 - 0 lvl hours: 8.0
+day 1	47-Shift, shift 2, 480.0mins 0lvl | 
+day 2	110-Shift, shift 2, 480.0mins 0lvl | 
+day 3	169-Shift, shift 1, 480.0mins 0lvl | 
+day 4	292-Shift, shift 3, 480.0mins 0lvl | 
+day 5	357-Shift, shift 1, 480.0mins 0lvl | 
+day 6	399-Shift, shift 4, 480.0mins 0lvl | 
+day 7	475-Shift, shift 2, 480.0mins 0lvl | 
+51 - 0 lvl hours: 8.0
+day 1	64-Shift, shift 3, 480.0mins 0lvl | 
+day 2	139-Shift, shift 2, 480.0mins 0lvl | 
+day 3	175-Shift, shift 1, 480.0mins 0lvl | 
+day 4	297-Shift, shift 1, 480.0mins 0lvl | 
+day 5	368-Shift, shift 1, 480.0mins 0lvl | 
+day 6	448-Shift, shift 3, 480.0mins 0lvl | 
+day 7	471-Shift, shift 2, 480.0mins 0lvl | 
+52 - 0 lvl hours: 8.0
+day 1	44-Shift, shift 4, 480.0mins 0lvl | 
+day 2	129-Shift, shift 4, 480.0mins 0lvl | 
+day 3	174-Shift, shift 3, 480.0mins 0lvl | 
+day 4	287-Shift, shift 3, 480.0mins 0lvl | 
+day 5	354-Shift, shift 3, 480.0mins 0lvl | 
+day 6	436-Shift, shift 3, 480.0mins 0lvl | 
+day 7	484-Shift, shift 1, 480.0mins 0lvl | 
+53 - 0 lvl hours: 8.0
+day 1	50-Shift, shift 2, 480.0mins 0lvl | 
+day 2	78-Shift, shift 2, 480.0mins 0lvl | 
+day 3	216-Shift, shift 4, 480.0mins 0lvl | 
+day 4	294-Shift, shift 1, 480.0mins 0lvl | 
+day 5	335-Shift, shift 2, 480.0mins 0lvl | 
+day 6	439-Shift, shift 2, 480.0mins 0lvl | 
+day 7	494-Shift, shift 2, 480.0mins 0lvl | 
+54 - 0 lvl hours: 8.0
+day 1	13-Shift, shift 1, 480.0mins 0lvl | 
+day 2	108-Shift, shift 3, 480.0mins 0lvl | 
+day 3	188-Shift, shift 2, 480.0mins 0lvl | 
+day 4	260-Shift, shift 4, 480.0mins 0lvl | 
+day 5	324-Shift, shift 4, 480.0mins 0lvl | 
+day 6	408-Shift, shift 3, 480.0mins 0lvl | 
+day 7	488-Shift, shift 2, 480.0mins 0lvl | 
+55 - 0 lvl hours: 8.0
+day 1	52-Shift, shift 3, 480.0mins 0lvl | 
+day 2	83-Shift, shift 3, 480.0mins 0lvl | 
+day 3	160-Shift, shift 4, 480.0mins 0lvl | 
+day 4	232-Shift, shift 4, 480.0mins 0lvl | 
+day 5	360-Shift, shift 3, 480.0mins 0lvl | 
+day 6	435-Shift, shift 2, 480.0mins 0lvl | 
+day 7	512-Shift, shift 3, 480.0mins 0lvl | 
+56 - 0 lvl hours: 8.0
+day 1	70-Shift, shift 3, 480.0mins 0lvl | 
+day 2	146-Shift, shift 2, 480.0mins 0lvl | 
+day 3	201-Shift, shift 1, 480.0mins 0lvl | 
+day 4	229-Shift, shift 4, 480.0mins 0lvl | 
+day 5	372-Shift, shift 1, 480.0mins 0lvl | 
+day 6	384-Shift, shift 3, 480.0mins 0lvl | 
+day 7	522-Shift, shift 4, 480.0mins 0lvl | 
+57 - 0 lvl hours: 8.0
+day 1	42-Shift, shift 2, 480.0mins 0lvl | 
+day 2	106-Shift, shift 3, 480.0mins 0lvl | 
+day 3	193-Shift, shift 3, 480.0mins 0lvl | 
+day 4	288-Shift, shift 1, 480.0mins 0lvl | 
+day 5	321-Shift, shift 3, 480.0mins 0lvl | 
+day 6	402-Shift, shift 2, 480.0mins 0lvl | 
+day 7	454-Shift, shift 1, 480.0mins 0lvl | 
+58 - 0 lvl hours: 8.0
+day 1	57-Shift, shift 1, 480.0mins 0lvl | 
+day 2	111-Shift, shift 3, 480.0mins 0lvl | 
+day 3	212-Shift, shift 2, 480.0mins 0lvl | 
+day 4	285-Shift, shift 3, 480.0mins 0lvl | 
+day 5	364-Shift, shift 4, 480.0mins 0lvl | 
+day 6	379-Shift, shift 3, 480.0mins 0lvl | 
+day 7	459-Shift, shift 2, 480.0mins 0lvl | 
+59 - 0 lvl hours: 8.0
+day 1	48-Shift, shift 1, 480.0mins 0lvl | 
+day 2	137-Shift, shift 3, 480.0mins 0lvl | 
+day 3	170-Shift, shift 2, 480.0mins 0lvl | 
+day 4	262-Shift, shift 3, 480.0mins 0lvl | 
+day 5	358-Shift, shift 3, 480.0mins 0lvl | 
+day 6	438-Shift, shift 4, 480.0mins 0lvl | 
+day 7	508-Shift, shift 1, 480.0mins 0lvl | 
+60 - 0 lvl hours: 8.0
+day 1	3-Shift, shift 4, 480.0mins 0lvl | 
+day 2	90-Shift, shift 2, 480.0mins 0lvl | 
+day 3	165-Shift, shift 1, 480.0mins 0lvl | 
+day 4	230-Shift, shift 4, 480.0mins 0lvl | 
+day 5	310-Shift, shift 2, 480.0mins 0lvl | 
+day 6	387-Shift, shift 2, 480.0mins 0lvl | 
+day 7	461-Shift, shift 4, 480.0mins 0lvl | 
+61 - 0 lvl hours: 8.0
+day 1	60-Shift, shift 2, 480.0mins 0lvl | 
+day 2	114-Shift, shift 4, 480.0mins 0lvl | 
+day 3	152-Shift, shift 1, 480.0mins 0lvl | 
+day 4	298-Shift, shift 3, 480.0mins 0lvl | 
+day 5	322-Shift, shift 3, 480.0mins 0lvl | 
+day 6	429-Shift, shift 3, 480.0mins 0lvl | 
+day 7	517-Shift, shift 4, 480.0mins 0lvl | 
+62 - 0 lvl hours: 8.0
+day 1	24-Shift, shift 3, 480.0mins 0lvl | 
+day 2	125-Shift, shift 3, 480.0mins 0lvl | 
+day 3	183-Shift, shift 1, 480.0mins 0lvl | 
+day 4	270-Shift, shift 2, 480.0mins 0lvl | 
+day 5	339-Shift, shift 4, 480.0mins 0lvl | 
+day 6	415-Shift, shift 2, 480.0mins 0lvl | 
+day 7	483-Shift, shift 2, 480.0mins 0lvl | 
+63 - 0 lvl hours: 8.0
+day 1	65-Shift, shift 4, 480.0mins 0lvl | 
+day 2	140-Shift, shift 4, 480.0mins 0lvl | 
+day 3	156-Shift, shift 2, 480.0mins 0lvl | 
+day 4	299-Shift, shift 3, 480.0mins 0lvl | 
+day 5	369-Shift, shift 1, 480.0mins 0lvl | 
+day 6	446-Shift, shift 4, 480.0mins 0lvl | 
+day 7	481-Shift, shift 4, 480.0mins 0lvl | 
+64 - 0 lvl hours: 8.0
+day 1	35-Shift, shift 2, 480.0mins 0lvl | 
+day 2	131-Shift, shift 4, 480.0mins 0lvl | 
+day 3	171-Shift, shift 1, 480.0mins 0lvl | 
+day 4	279-Shift, shift 2, 480.0mins 0lvl | 
+day 5	346-Shift, shift 2, 480.0mins 0lvl | 
+day 6	426-Shift, shift 4, 480.0mins 0lvl | 
+day 7	501-Shift, shift 1, 480.0mins 0lvl | 
+65 - 0 lvl hours: 8.0
+day 1	73-Shift, shift 3, 480.0mins 0lvl | 
+day 2	148-Shift, shift 1, 480.0mins 0lvl | 
+day 3	222-Shift, shift 4, 480.0mins 0lvl | 
+day 4	276-Shift, shift 4, 480.0mins 0lvl | 
+day 5	374-Shift, shift 2, 480.0mins 0lvl | 
+day 6	392-Shift, shift 2, 480.0mins 0lvl | 
+day 7	524-Shift, shift 4, 480.0mins 0lvl | 
+66 - 0 lvl hours: 8.0
+day 1	55-Shift, shift 4, 480.0mins 0lvl | 
+day 2	98-Shift, shift 1, 480.0mins 0lvl | 
+day 3	220-Shift, shift 4, 480.0mins 0lvl | 
+day 4	256-Shift, shift 3, 480.0mins 0lvl | 
+day 5	314-Shift, shift 4, 480.0mins 0lvl | 
+day 6	385-Shift, shift 3, 480.0mins 0lvl | 
+day 7	515-Shift, shift 1, 480.0mins 0lvl | 
+67 - 0 lvl hours: 8.0
+day 1	8-Shift, shift 3, 480.0mins 0lvl | 
+day 2	97-Shift, shift 1, 480.0mins 0lvl | 
+day 3	159-Shift, shift 4, 480.0mins 0lvl | 
+day 4	249-Shift, shift 4, 480.0mins 0lvl | 
+day 5	316-Shift, shift 3, 480.0mins 0lvl | 
+day 6	401-Shift, shift 2, 480.0mins 0lvl | 
+day 7	477-Shift, shift 1, 480.0mins 0lvl | 
+68 - 0 lvl hours: 8.0
+day 1	54-Shift, shift 3, 480.0mins 0lvl | 
+day 2	89-Shift, shift 2, 480.0mins 0lvl | 
+day 3	158-Shift, shift 4, 480.0mins 0lvl | 
+day 4	247-Shift, shift 4, 480.0mins 0lvl | 
+day 5	361-Shift, shift 2, 480.0mins 0lvl | 
+day 6	442-Shift, shift 2, 480.0mins 0lvl | 
+day 7	514-Shift, shift 4, 480.0mins 0lvl | 
+69 - 0 lvl hours: 8.0
+day 1	5-Shift, shift 2, 480.0mins 0lvl | 
+day 2	76-Shift, shift 2, 480.0mins 0lvl | 
+day 3	168-Shift, shift 1, 480.0mins 0lvl | 
+day 4	238-Shift, shift 2, 480.0mins 0lvl | 
+day 5	312-Shift, shift 4, 480.0mins 0lvl | 
+day 6	377-Shift, shift 2, 480.0mins 0lvl | 
+day 7	464-Shift, shift 1, 480.0mins 0lvl | 
+70 - 0 lvl hours: 8.0
+day 1	6-Shift, shift 2, 480.0mins 0lvl | 
+day 2	94-Shift, shift 3, 480.0mins 0lvl | 
+day 3	172-Shift, shift 4, 480.0mins 0lvl | 
+day 4	240-Shift, shift 4, 480.0mins 0lvl | 
+day 5	313-Shift, shift 1, 480.0mins 0lvl | 
+day 6	393-Shift, shift 2, 480.0mins 0lvl | 
+day 7	468-Shift, shift 3, 480.0mins 0lvl | 
+71 - 0 lvl hours: 8.0
+day 1	33-Shift, shift 4, 480.0mins 0lvl | 
+day 2	81-Shift, shift 2, 480.0mins 0lvl | 
+day 3	208-Shift, shift 4, 480.0mins 0lvl | 
+day 4	277-Shift, shift 2, 480.0mins 0lvl | 
+day 5	344-Shift, shift 2, 480.0mins 0lvl | 
+day 6	423-Shift, shift 4, 480.0mins 0lvl | 
+day 7	500-Shift, shift 1, 480.0mins 0lvl | 
+72 - 0 lvl hours: 8.0
+day 1	10-Shift, shift 4, 480.0mins 0lvl | 
+day 2	102-Shift, shift 3, 480.0mins 0lvl | 
+day 3	180-Shift, shift 3, 480.0mins 0lvl | 
+day 4	250-Shift, shift 2, 480.0mins 0lvl | 
+day 5	320-Shift, shift 1, 480.0mins 0lvl | 
+day 6	404-Shift, shift 4, 480.0mins 0lvl | 
+day 7	485-Shift, shift 1, 480.0mins 0lvl | 
+73 - 0 lvl hours: 8.0
+day 1	56-Shift, shift 3, 480.0mins 0lvl | 
+day 2	101-Shift, shift 2, 480.0mins 0lvl | 
+day 3	186-Shift, shift 1, 480.0mins 0lvl | 
+day 4	242-Shift, shift 4, 480.0mins 0lvl | 
+day 5	363-Shift, shift 4, 480.0mins 0lvl | 
+day 6	444-Shift, shift 1, 480.0mins 0lvl | 
+day 7	516-Shift, shift 3, 480.0mins 0lvl | 
+74 - 0 lvl hours: 8.0
+day 1	46-Shift, shift 4, 480.0mins 0lvl | 
+day 2	136-Shift, shift 1, 480.0mins 0lvl | 
+day 3	215-Shift, shift 1, 480.0mins 0lvl | 
+day 4	291-Shift, shift 4, 480.0mins 0lvl | 
+day 5	356-Shift, shift 1, 480.0mins 0lvl | 
+day 6	437-Shift, shift 3, 480.0mins 0lvl | 
+day 7	457-Shift, shift 1, 480.0mins 0lvl | 
+75 - 0 lvl hours: 8.0
+day 1	66-Shift, shift 3, 480.0mins 0lvl | 
+day 2	141-Shift, shift 1, 480.0mins 0lvl | 
+day 3	163-Shift, shift 4, 480.0mins 0lvl | 
+day 4	235-Shift, shift 2, 480.0mins 0lvl | 
+day 5	370-Shift, shift 2, 480.0mins 0lvl | 
+day 6	449-Shift, shift 3, 480.0mins 0lvl | 
+day 7	519-Shift, shift 3, 480.0mins 0lvl | 
+Cost = 3048.0
+Coverage = 59.38095238095238 Penalty = 0.4061904761904762
+Preferences = 59.38095238095238
+1 - 0 lvl hours: 8.0
+day 1	72-Shift, shift 3, 480.0mins 0lvl | 
+day 2	147-Shift, shift 2, 480.0mins 0lvl | 
+day 3	199-Shift, shift 2, 480.0mins 0lvl | 
+day 4	300-Shift, shift 1, 480.0mins 0lvl | 
+day 5	306-Shift, shift 4, 480.0mins 0lvl | 
+day 6	432-Shift, shift 2, 480.0mins 0lvl | 
+day 7	493-Shift, shift 3, 480.0mins 0lvl | 
+2 - 0 lvl hours: 8.0
+day 1	50-Shift, shift 4, 480.0mins 0lvl | 
+day 2	116-Shift, shift 2, 480.0mins 0lvl | 
+day 3	208-Shift, shift 2, 480.0mins 0lvl | 
+day 4	291-Shift, shift 2, 480.0mins 0lvl | 
+day 5	365-Shift, shift 1, 480.0mins 0lvl | 
+day 6	387-Shift, shift 1, 480.0mins 0lvl | 
+day 7	468-Shift, shift 2, 480.0mins 0lvl | 
+3 - 0 lvl hours: 8.0
+day 1	7-Shift, shift 4, 480.0mins 0lvl | 
+day 2	105-Shift, shift 3, 480.0mins 0lvl | 
+day 3	179-Shift, shift 2, 480.0mins 0lvl | 
+day 4	253-Shift, shift 4, 480.0mins 0lvl | 
+day 5	325-Shift, shift 1, 480.0mins 0lvl | 
+day 6	402-Shift, shift 1, 480.0mins 0lvl | 
+day 7	476-Shift, shift 2, 480.0mins 0lvl | 
+4 - 0 lvl hours: 8.0
+day 1	63-Shift, shift 4, 480.0mins 0lvl | 
+day 2	117-Shift, shift 3, 480.0mins 0lvl | 
+day 3	220-Shift, shift 2, 480.0mins 0lvl | 
+day 4	242-Shift, shift 3, 480.0mins 0lvl | 
+day 5	370-Shift, shift 3, 480.0mins 0lvl | 
+day 6	445-Shift, shift 3, 480.0mins 0lvl | 
+day 7	454-Shift, shift 4, 480.0mins 0lvl | 
+5 - 0 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	87-Shift, shift 4, 480.0mins 0lvl | 
+day 3	158-Shift, shift 3, 480.0mins 0lvl | 
+day 4	237-Shift, shift 2, 480.0mins 0lvl | 
+day 5	320-Shift, shift 4, 480.0mins 0lvl | 
+day 6	388-Shift, shift 4, 480.0mins 0lvl | 
+day 7	466-Shift, shift 4, 480.0mins 0lvl | 
+6 - 0 lvl hours: 8.0
+day 1	58-Shift, shift 4, 480.0mins 0lvl | 
+day 2	103-Shift, shift 2, 480.0mins 0lvl | 
+day 3	202-Shift, shift 2, 480.0mins 0lvl | 
+day 4	227-Shift, shift 2, 480.0mins 0lvl | 
+day 5	345-Shift, shift 2, 480.0mins 0lvl | 
+day 6	443-Shift, shift 3, 480.0mins 0lvl | 
+day 7	518-Shift, shift 1, 480.0mins 0lvl | 
+7 - 0 lvl hours: 8.0
+day 1	49-Shift, shift 4, 480.0mins 0lvl | 
+day 2	83-Shift, shift 4, 480.0mins 0lvl | 
+day 3	172-Shift, shift 4, 480.0mins 0lvl | 
+day 4	290-Shift, shift 3, 480.0mins 0lvl | 
+day 5	364-Shift, shift 4, 480.0mins 0lvl | 
+day 6	438-Shift, shift 2, 480.0mins 0lvl | 
+day 7	451-Shift, shift 3, 480.0mins 0lvl | 
+8 - 0 lvl hours: 8.0
+day 1	27-Shift, shift 2, 480.0mins 0lvl | 
+day 2	131-Shift, shift 4, 480.0mins 0lvl | 
+day 3	190-Shift, shift 3, 480.0mins 0lvl | 
+day 4	241-Shift, shift 1, 480.0mins 0lvl | 
+day 5	337-Shift, shift 3, 480.0mins 0lvl | 
+day 6	381-Shift, shift 4, 480.0mins 0lvl | 
+day 7	465-Shift, shift 3, 480.0mins 0lvl | 
+9 - 0 lvl hours: 8.0
+day 1	22-Shift, shift 1, 480.0mins 0lvl | 
+day 2	126-Shift, shift 3, 480.0mins 0lvl | 
+day 3	187-Shift, shift 2, 480.0mins 0lvl | 
+day 4	270-Shift, shift 4, 480.0mins 0lvl | 
+day 5	316-Shift, shift 4, 480.0mins 0lvl | 
+day 6	399-Shift, shift 3, 480.0mins 0lvl | 
+day 7	497-Shift, shift 3, 480.0mins 0lvl | 
+10 - 0 lvl hours: 8.0
+day 1	21-Shift, shift 1, 480.0mins 0lvl | 
+day 2	122-Shift, shift 3, 480.0mins 0lvl | 
+day 3	162-Shift, shift 3, 480.0mins 0lvl | 
+day 4	268-Shift, shift 1, 480.0mins 0lvl | 
+day 5	344-Shift, shift 2, 480.0mins 0lvl | 
+day 6	401-Shift, shift 1, 480.0mins 0lvl | 
+day 7	464-Shift, shift 1, 480.0mins 0lvl | 
+11 - 0 lvl hours: 8.0
+day 1	55-Shift, shift 2, 480.0mins 0lvl | 
+day 2	98-Shift, shift 2, 480.0mins 0lvl | 
+day 3	212-Shift, shift 3, 480.0mins 0lvl | 
+day 4	287-Shift, shift 2, 480.0mins 0lvl | 
+day 5	354-Shift, shift 1, 480.0mins 0lvl | 
+day 6	440-Shift, shift 4, 480.0mins 0lvl | 
+day 7	491-Shift, shift 4, 480.0mins 0lvl | 
+12 - 0 lvl hours: 8.0
+day 1	6-Shift, shift 3, 480.0mins 0lvl | 
+day 2	93-Shift, shift 1, 480.0mins 0lvl | 
+day 3	177-Shift, shift 3, 480.0mins 0lvl | 
+day 4	252-Shift, shift 3, 480.0mins 0lvl | 
+day 5	308-Shift, shift 3, 480.0mins 0lvl | 
+day 6	400-Shift, shift 3, 480.0mins 0lvl | 
+day 7	456-Shift, shift 2, 480.0mins 0lvl | 
+13 - 0 lvl hours: 8.0
+day 1	61-Shift, shift 1, 480.0mins 0lvl | 
+day 2	109-Shift, shift 2, 480.0mins 0lvl | 
+day 3	215-Shift, shift 2, 480.0mins 0lvl | 
+day 4	263-Shift, shift 3, 480.0mins 0lvl | 
+day 5	357-Shift, shift 1, 480.0mins 0lvl | 
+day 6	425-Shift, shift 4, 480.0mins 0lvl | 
+day 7	524-Shift, shift 4, 480.0mins 0lvl | 
+14 - 0 lvl hours: 8.0
+day 1	11-Shift, shift 1, 480.0mins 0lvl | 
+day 2	102-Shift, shift 1, 480.0mins 0lvl | 
+day 3	166-Shift, shift 3, 480.0mins 0lvl | 
+day 4	244-Shift, shift 3, 480.0mins 0lvl | 
+day 5	311-Shift, shift 1, 480.0mins 0lvl | 
+day 6	408-Shift, shift 1, 480.0mins 0lvl | 
+day 7	470-Shift, shift 4, 480.0mins 0lvl | 
+15 - 0 lvl hours: 8.0
+day 1	23-Shift, shift 3, 480.0mins 0lvl | 
+day 2	127-Shift, shift 2, 480.0mins 0lvl | 
+day 3	173-Shift, shift 3, 480.0mins 0lvl | 
+day 4	251-Shift, shift 1, 480.0mins 0lvl | 
+day 5	343-Shift, shift 2, 480.0mins 0lvl | 
+day 6	421-Shift, shift 3, 480.0mins 0lvl | 
+day 7	496-Shift, shift 3, 480.0mins 0lvl | 
+16 - 0 lvl hours: 8.0
+day 1	53-Shift, shift 3, 480.0mins 0lvl | 
+day 2	95-Shift, shift 2, 480.0mins 0lvl | 
+day 3	175-Shift, shift 3, 480.0mins 0lvl | 
+day 4	294-Shift, shift 4, 480.0mins 0lvl | 
+day 5	359-Shift, shift 2, 480.0mins 0lvl | 
+day 6	390-Shift, shift 4, 480.0mins 0lvl | 
+day 7	499-Shift, shift 4, 480.0mins 0lvl | 
+17 - 0 lvl hours: 8.0
+day 1	17-Shift, shift 1, 480.0mins 0lvl | 
+day 2	119-Shift, shift 4, 480.0mins 0lvl | 
+day 3	183-Shift, shift 2, 480.0mins 0lvl | 
+day 4	229-Shift, shift 4, 480.0mins 0lvl | 
+day 5	309-Shift, shift 3, 480.0mins 0lvl | 
+day 6	393-Shift, shift 2, 480.0mins 0lvl | 
+day 7	462-Shift, shift 2, 480.0mins 0lvl | 
+18 - 0 lvl hours: 8.0
+day 1	26-Shift, shift 3, 480.0mins 0lvl | 
+day 2	130-Shift, shift 3, 480.0mins 0lvl | 
+day 3	164-Shift, shift 4, 480.0mins 0lvl | 
+day 4	256-Shift, shift 3, 480.0mins 0lvl | 
+day 5	347-Shift, shift 2, 480.0mins 0lvl | 
+day 6	407-Shift, shift 1, 480.0mins 0lvl | 
+day 7	460-Shift, shift 4, 480.0mins 0lvl | 
+19 - 0 lvl hours: 8.0
+day 1	28-Shift, shift 1, 480.0mins 0lvl | 
+day 2	132-Shift, shift 3, 480.0mins 0lvl | 
+day 3	191-Shift, shift 3, 480.0mins 0lvl | 
+day 4	232-Shift, shift 4, 480.0mins 0lvl | 
+day 5	334-Shift, shift 1, 480.0mins 0lvl | 
+day 6	389-Shift, shift 1, 480.0mins 0lvl | 
+day 7	463-Shift, shift 2, 480.0mins 0lvl | 
+20 - 0 lvl hours: 8.0
+day 1	44-Shift, shift 2, 480.0mins 0lvl | 
+day 2	142-Shift, shift 2, 480.0mins 0lvl | 
+day 3	165-Shift, shift 4, 480.0mins 0lvl | 
+day 4	239-Shift, shift 3, 480.0mins 0lvl | 
+day 5	358-Shift, shift 2, 480.0mins 0lvl | 
+day 6	418-Shift, shift 4, 480.0mins 0lvl | 
+day 7	472-Shift, shift 4, 480.0mins 0lvl | 
+21 - 0 lvl hours: 8.0
+day 1	73-Shift, shift 4, 480.0mins 0lvl | 
+day 2	148-Shift, shift 4, 480.0mins 0lvl | 
+day 3	211-Shift, shift 4, 480.0mins 0lvl | 
+day 4	278-Shift, shift 4, 480.0mins 0lvl | 
+day 5	374-Shift, shift 1, 480.0mins 0lvl | 
+day 6	430-Shift, shift 2, 480.0mins 0lvl | 
+day 7	500-Shift, shift 4, 480.0mins 0lvl | 
+22 - 0 lvl hours: 8.0
+day 1	19-Shift, shift 1, 480.0mins 0lvl | 
+day 2	121-Shift, shift 3, 480.0mins 0lvl | 
+day 3	184-Shift, shift 4, 480.0mins 0lvl | 
+day 4	266-Shift, shift 4, 480.0mins 0lvl | 
+day 5	341-Shift, shift 2, 480.0mins 0lvl | 
+day 6	417-Shift, shift 3, 480.0mins 0lvl | 
+day 7	490-Shift, shift 2, 480.0mins 0lvl | 
+23 - 0 lvl hours: 8.0
+day 1	38-Shift, shift 4, 480.0mins 0lvl | 
+day 2	137-Shift, shift 2, 480.0mins 0lvl | 
+day 3	193-Shift, shift 2, 480.0mins 0lvl | 
+day 4	281-Shift, shift 4, 480.0mins 0lvl | 
+day 5	355-Shift, shift 2, 480.0mins 0lvl | 
+day 6	406-Shift, shift 4, 480.0mins 0lvl | 
+day 7	510-Shift, shift 2, 480.0mins 0lvl | 
+24 - 0 lvl hours: 8.0
+day 1	69-Shift, shift 3, 480.0mins 0lvl | 
+day 2	144-Shift, shift 4, 480.0mins 0lvl | 
+day 3	204-Shift, shift 2, 480.0mins 0lvl | 
+day 4	296-Shift, shift 2, 480.0mins 0lvl | 
+day 5	317-Shift, shift 2, 480.0mins 0lvl | 
+day 6	449-Shift, shift 3, 480.0mins 0lvl | 
+day 7	502-Shift, shift 4, 480.0mins 0lvl | 
+25 - 0 lvl hours: 8.0
+day 1	48-Shift, shift 4, 480.0mins 0lvl | 
+day 2	76-Shift, shift 2, 480.0mins 0lvl | 
+day 3	192-Shift, shift 3, 480.0mins 0lvl | 
+day 4	289-Shift, shift 3, 480.0mins 0lvl | 
+day 5	360-Shift, shift 4, 480.0mins 0lvl | 
+day 6	437-Shift, shift 4, 480.0mins 0lvl | 
+day 7	522-Shift, shift 2, 480.0mins 0lvl | 
+26 - 0 lvl hours: 8.0
+day 1	39-Shift, shift 1, 480.0mins 0lvl | 
+day 2	138-Shift, shift 4, 480.0mins 0lvl | 
+day 3	160-Shift, shift 3, 480.0mins 0lvl | 
+day 4	283-Shift, shift 2, 480.0mins 0lvl | 
+day 5	351-Shift, shift 1, 480.0mins 0lvl | 
+day 6	392-Shift, shift 2, 480.0mins 0lvl | 
+day 7	511-Shift, shift 1, 480.0mins 0lvl | 
+27 - 0 lvl hours: 8.0
+day 1	30-Shift, shift 3, 480.0mins 0lvl | 
+day 2	134-Shift, shift 3, 480.0mins 0lvl | 
+day 3	195-Shift, shift 4, 480.0mins 0lvl | 
+day 4	273-Shift, shift 2, 480.0mins 0lvl | 
+day 5	348-Shift, shift 3, 480.0mins 0lvl | 
+day 6	380-Shift, shift 2, 480.0mins 0lvl | 
+day 7	492-Shift, shift 4, 480.0mins 0lvl | 
+28 - 0 lvl hours: 8.0
+day 1	12-Shift, shift 1, 480.0mins 0lvl | 
+day 2	106-Shift, shift 4, 480.0mins 0lvl | 
+day 3	151-Shift, shift 2, 480.0mins 0lvl | 
+day 4	258-Shift, shift 4, 480.0mins 0lvl | 
+day 5	323-Shift, shift 4, 480.0mins 0lvl | 
+day 6	410-Shift, shift 4, 480.0mins 0lvl | 
+day 7	482-Shift, shift 2, 480.0mins 0lvl | 
+29 - 0 lvl hours: 8.0
+day 1	68-Shift, shift 4, 480.0mins 0lvl | 
+day 2	140-Shift, shift 3, 480.0mins 0lvl | 
+day 3	163-Shift, shift 4, 480.0mins 0lvl | 
+day 4	261-Shift, shift 4, 480.0mins 0lvl | 
+day 5	336-Shift, shift 4, 480.0mins 0lvl | 
+day 6	448-Shift, shift 4, 480.0mins 0lvl | 
+day 7	458-Shift, shift 2, 480.0mins 0lvl | 
+30 - 0 lvl hours: 8.0
+day 1	45-Shift, shift 3, 480.0mins 0lvl | 
+day 2	91-Shift, shift 4, 480.0mins 0lvl | 
+day 3	205-Shift, shift 3, 480.0mins 0lvl | 
+day 4	288-Shift, shift 2, 480.0mins 0lvl | 
+day 5	361-Shift, shift 2, 480.0mins 0lvl | 
+day 6	436-Shift, shift 3, 480.0mins 0lvl | 
+day 7	519-Shift, shift 4, 480.0mins 0lvl | 
+31 - 0 lvl hours: 8.0
+day 1	51-Shift, shift 1, 480.0mins 0lvl | 
+day 2	88-Shift, shift 3, 480.0mins 0lvl | 
+day 3	209-Shift, shift 4, 480.0mins 0lvl | 
+day 4	292-Shift, shift 4, 480.0mins 0lvl | 
+day 5	366-Shift, shift 4, 480.0mins 0lvl | 
+day 6	439-Shift, shift 1, 480.0mins 0lvl | 
+day 7	513-Shift, shift 2, 480.0mins 0lvl | 
+32 - 0 lvl hours: 8.0
+day 1	31-Shift, shift 3, 480.0mins 0lvl | 
+day 2	123-Shift, shift 4, 480.0mins 0lvl | 
+day 3	194-Shift, shift 2, 480.0mins 0lvl | 
+day 4	274-Shift, shift 1, 480.0mins 0lvl | 
+day 5	349-Shift, shift 1, 480.0mins 0lvl | 
+day 6	413-Shift, shift 3, 480.0mins 0lvl | 
+day 7	459-Shift, shift 2, 480.0mins 0lvl | 
+33 - 0 lvl hours: 8.0
+day 1	47-Shift, shift 2, 480.0mins 0lvl | 
+day 2	143-Shift, shift 1, 480.0mins 0lvl | 
+day 3	207-Shift, shift 1, 480.0mins 0lvl | 
+day 4	234-Shift, shift 3, 480.0mins 0lvl | 
+day 5	362-Shift, shift 1, 480.0mins 0lvl | 
+day 6	427-Shift, shift 1, 480.0mins 0lvl | 
+day 7	469-Shift, shift 1, 480.0mins 0lvl | 
+34 - 0 lvl hours: 8.0
+day 1	18-Shift, shift 4, 480.0mins 0lvl | 
+day 2	120-Shift, shift 4, 480.0mins 0lvl | 
+day 3	185-Shift, shift 3, 480.0mins 0lvl | 
+day 4	238-Shift, shift 1, 480.0mins 0lvl | 
+day 5	327-Shift, shift 3, 480.0mins 0lvl | 
+day 6	416-Shift, shift 2, 480.0mins 0lvl | 
+day 7	480-Shift, shift 4, 480.0mins 0lvl | 
+35 - 0 lvl hours: 8.0
+day 1	33-Shift, shift 3, 480.0mins 0lvl | 
+day 2	113-Shift, shift 4, 480.0mins 0lvl | 
+day 3	182-Shift, shift 2, 480.0mins 0lvl | 
+day 4	275-Shift, shift 4, 480.0mins 0lvl | 
+day 5	330-Shift, shift 4, 480.0mins 0lvl | 
+day 6	426-Shift, shift 4, 480.0mins 0lvl | 
+day 7	504-Shift, shift 1, 480.0mins 0lvl | 
+36 - 0 lvl hours: 8.0
+day 1	46-Shift, shift 3, 480.0mins 0lvl | 
+day 2	129-Shift, shift 3, 480.0mins 0lvl | 
+day 3	188-Shift, shift 4, 480.0mins 0lvl | 
+day 4	236-Shift, shift 3, 480.0mins 0lvl | 
+day 5	340-Shift, shift 4, 480.0mins 0lvl | 
+day 6	396-Shift, shift 2, 480.0mins 0lvl | 
+day 7	512-Shift, shift 4, 480.0mins 0lvl | 
+37 - 0 lvl hours: 8.0
+day 1	43-Shift, shift 3, 480.0mins 0lvl | 
+day 2	81-Shift, shift 3, 480.0mins 0lvl | 
+day 3	154-Shift, shift 4, 480.0mins 0lvl | 
+day 4	286-Shift, shift 2, 480.0mins 0lvl | 
+day 5	356-Shift, shift 2, 480.0mins 0lvl | 
+day 6	419-Shift, shift 1, 480.0mins 0lvl | 
+day 7	520-Shift, shift 1, 480.0mins 0lvl | 
+38 - 0 lvl hours: 8.0
+day 1	70-Shift, shift 1, 480.0mins 0lvl | 
+day 2	145-Shift, shift 4, 480.0mins 0lvl | 
+day 3	153-Shift, shift 3, 480.0mins 0lvl | 
+day 4	282-Shift, shift 2, 480.0mins 0lvl | 
+day 5	373-Shift, shift 4, 480.0mins 0lvl | 
+day 6	385-Shift, shift 2, 480.0mins 0lvl | 
+day 7	474-Shift, shift 2, 480.0mins 0lvl | 
+39 - 0 lvl hours: 8.0
+day 1	34-Shift, shift 2, 480.0mins 0lvl | 
+day 2	136-Shift, shift 3, 480.0mins 0lvl | 
+day 3	169-Shift, shift 2, 480.0mins 0lvl | 
+day 4	248-Shift, shift 1, 480.0mins 0lvl | 
+day 5	305-Shift, shift 3, 480.0mins 0lvl | 
+day 6	409-Shift, shift 4, 480.0mins 0lvl | 
+day 7	467-Shift, shift 2, 480.0mins 0lvl | 
+40 - 0 lvl hours: 8.0
+day 1	37-Shift, shift 1, 480.0mins 0lvl | 
+day 2	128-Shift, shift 1, 480.0mins 0lvl | 
+day 3	200-Shift, shift 3, 480.0mins 0lvl | 
+day 4	280-Shift, shift 1, 480.0mins 0lvl | 
+day 5	329-Shift, shift 4, 480.0mins 0lvl | 
+day 6	431-Shift, shift 3, 480.0mins 0lvl | 
+day 7	509-Shift, shift 1, 480.0mins 0lvl | 
+41 - 0 lvl hours: 8.0
+day 1	60-Shift, shift 4, 480.0mins 0lvl | 
+day 2	108-Shift, shift 4, 480.0mins 0lvl | 
+day 3	218-Shift, shift 4, 480.0mins 0lvl | 
+day 4	293-Shift, shift 2, 480.0mins 0lvl | 
+day 5	368-Shift, shift 1, 480.0mins 0lvl | 
+day 6	444-Shift, shift 4, 480.0mins 0lvl | 
+day 7	523-Shift, shift 1, 480.0mins 0lvl | 
+42 - 0 lvl hours: 8.0
+day 1	16-Shift, shift 2, 480.0mins 0lvl | 
+day 2	115-Shift, shift 3, 480.0mins 0lvl | 
+day 3	157-Shift, shift 3, 480.0mins 0lvl | 
+day 4	265-Shift, shift 1, 480.0mins 0lvl | 
+day 5	339-Shift, shift 1, 480.0mins 0lvl | 
+day 6	414-Shift, shift 3, 480.0mins 0lvl | 
+day 7	485-Shift, shift 3, 480.0mins 0lvl | 
+43 - 0 lvl hours: 8.0
+day 1	5-Shift, shift 1, 480.0mins 0lvl | 
+day 2	89-Shift, shift 4, 480.0mins 0lvl | 
+day 3	170-Shift, shift 3, 480.0mins 0lvl | 
+day 4	249-Shift, shift 2, 480.0mins 0lvl | 
+day 5	324-Shift, shift 4, 480.0mins 0lvl | 
+day 6	398-Shift, shift 1, 480.0mins 0lvl | 
+day 7	453-Shift, shift 3, 480.0mins 0lvl | 
+44 - 0 lvl hours: 8.0
+day 1	56-Shift, shift 2, 480.0mins 0lvl | 
+day 2	99-Shift, shift 1, 480.0mins 0lvl | 
+day 3	213-Shift, shift 1, 480.0mins 0lvl | 
+day 4	276-Shift, shift 1, 480.0mins 0lvl | 
+day 5	304-Shift, shift 2, 480.0mins 0lvl | 
+day 6	442-Shift, shift 2, 480.0mins 0lvl | 
+day 7	487-Shift, shift 1, 480.0mins 0lvl | 
+45 - 0 lvl hours: 8.0
+day 1	25-Shift, shift 3, 480.0mins 0lvl | 
+day 2	118-Shift, shift 3, 480.0mins 0lvl | 
+day 3	168-Shift, shift 2, 480.0mins 0lvl | 
+day 4	272-Shift, shift 1, 480.0mins 0lvl | 
+day 5	346-Shift, shift 4, 480.0mins 0lvl | 
+day 6	423-Shift, shift 4, 480.0mins 0lvl | 
+day 7	503-Shift, shift 4, 480.0mins 0lvl | 
+46 - 0 lvl hours: 8.0
+day 1	75-Shift, shift 3, 480.0mins 0lvl | 
+day 2	150-Shift, shift 1, 480.0mins 0lvl | 
+day 3	225-Shift, shift 4, 480.0mins 0lvl | 
+day 4	246-Shift, shift 1, 480.0mins 0lvl | 
+day 5	375-Shift, shift 2, 480.0mins 0lvl | 
+day 6	450-Shift, shift 1, 480.0mins 0lvl | 
+day 7	452-Shift, shift 2, 480.0mins 0lvl | 
+47 - 0 lvl hours: 8.0
+day 1	2-Shift, shift 1, 480.0mins 0lvl | 
+day 2	86-Shift, shift 2, 480.0mins 0lvl | 
+day 3	155-Shift, shift 4, 480.0mins 0lvl | 
+day 4	231-Shift, shift 4, 480.0mins 0lvl | 
+day 5	303-Shift, shift 3, 480.0mins 0lvl | 
+day 6	383-Shift, shift 3, 480.0mins 0lvl | 
+day 7	457-Shift, shift 2, 480.0mins 0lvl | 
+48 - 0 lvl hours: 8.0
+day 1	67-Shift, shift 2, 480.0mins 0lvl | 
+day 2	139-Shift, shift 1, 480.0mins 0lvl | 
+day 3	223-Shift, shift 2, 480.0mins 0lvl | 
+day 4	271-Shift, shift 4, 480.0mins 0lvl | 
+day 5	372-Shift, shift 4, 480.0mins 0lvl | 
+day 6	433-Shift, shift 1, 480.0mins 0lvl | 
+day 7	508-Shift, shift 1, 480.0mins 0lvl | 
+49 - 0 lvl hours: 8.0
+day 1	24-Shift, shift 3, 480.0mins 0lvl | 
+day 2	112-Shift, shift 2, 480.0mins 0lvl | 
+day 3	189-Shift, shift 2, 480.0mins 0lvl | 
+day 4	250-Shift, shift 2, 480.0mins 0lvl | 
+day 5	302-Shift, shift 4, 480.0mins 0lvl | 
+day 6	422-Shift, shift 3, 480.0mins 0lvl | 
+day 7	501-Shift, shift 3, 480.0mins 0lvl | 
+50 - 0 lvl hours: 8.0
+day 1	62-Shift, shift 4, 480.0mins 0lvl | 
+day 2	110-Shift, shift 3, 480.0mins 0lvl | 
+day 3	219-Shift, shift 4, 480.0mins 0lvl | 
+day 4	295-Shift, shift 1, 480.0mins 0lvl | 
+day 5	369-Shift, shift 3, 480.0mins 0lvl | 
+day 6	397-Shift, shift 1, 480.0mins 0lvl | 
+day 7	517-Shift, shift 3, 480.0mins 0lvl | 
+51 - 0 lvl hours: 8.0
+day 1	65-Shift, shift 4, 480.0mins 0lvl | 
+day 2	125-Shift, shift 3, 480.0mins 0lvl | 
+day 3	217-Shift, shift 2, 480.0mins 0lvl | 
+day 4	298-Shift, shift 2, 480.0mins 0lvl | 
+day 5	322-Shift, shift 3, 480.0mins 0lvl | 
+day 6	446-Shift, shift 4, 480.0mins 0lvl | 
+day 7	455-Shift, shift 4, 480.0mins 0lvl | 
+52 - 0 lvl hours: 8.0
+day 1	10-Shift, shift 1, 480.0mins 0lvl | 
+day 2	100-Shift, shift 2, 480.0mins 0lvl | 
+day 3	174-Shift, shift 1, 480.0mins 0lvl | 
+day 4	257-Shift, shift 2, 480.0mins 0lvl | 
+day 5	315-Shift, shift 2, 480.0mins 0lvl | 
+day 6	405-Shift, shift 1, 480.0mins 0lvl | 
+day 7	481-Shift, shift 3, 480.0mins 0lvl | 
+53 - 0 lvl hours: 8.0
+day 1	29-Shift, shift 4, 480.0mins 0lvl | 
+day 2	82-Shift, shift 4, 480.0mins 0lvl | 
+day 3	176-Shift, shift 4, 480.0mins 0lvl | 
+day 4	226-Shift, shift 4, 480.0mins 0lvl | 
+day 5	331-Shift, shift 1, 480.0mins 0lvl | 
+day 6	377-Shift, shift 2, 480.0mins 0lvl | 
+day 7	506-Shift, shift 1, 480.0mins 0lvl | 
+54 - 0 lvl hours: 8.0
+day 1	35-Shift, shift 4, 480.0mins 0lvl | 
+day 2	97-Shift, shift 2, 480.0mins 0lvl | 
+day 3	197-Shift, shift 1, 480.0mins 0lvl | 
+day 4	277-Shift, shift 4, 480.0mins 0lvl | 
+day 5	350-Shift, shift 2, 480.0mins 0lvl | 
+day 6	428-Shift, shift 3, 480.0mins 0lvl | 
+day 7	505-Shift, shift 4, 480.0mins 0lvl | 
+55 - 0 lvl hours: 8.0
+day 1	15-Shift, shift 1, 480.0mins 0lvl | 
+day 2	114-Shift, shift 1, 480.0mins 0lvl | 
+day 3	181-Shift, shift 1, 480.0mins 0lvl | 
+day 4	264-Shift, shift 2, 480.0mins 0lvl | 
+day 5	338-Shift, shift 4, 480.0mins 0lvl | 
+day 6	404-Shift, shift 2, 480.0mins 0lvl | 
+day 7	484-Shift, shift 4, 480.0mins 0lvl | 
+56 - 0 lvl hours: 8.0
+day 1	54-Shift, shift 3, 480.0mins 0lvl | 
+day 2	96-Shift, shift 2, 480.0mins 0lvl | 
+day 3	159-Shift, shift 4, 480.0mins 0lvl | 
+day 4	279-Shift, shift 2, 480.0mins 0lvl | 
+day 5	363-Shift, shift 3, 480.0mins 0lvl | 
+day 6	384-Shift, shift 1, 480.0mins 0lvl | 
+day 7	483-Shift, shift 4, 480.0mins 0lvl | 
+57 - 0 lvl hours: 8.0
+day 1	42-Shift, shift 1, 480.0mins 0lvl | 
+day 2	80-Shift, shift 4, 480.0mins 0lvl | 
+day 3	206-Shift, shift 3, 480.0mins 0lvl | 
+day 4	284-Shift, shift 2, 480.0mins 0lvl | 
+day 5	310-Shift, shift 2, 480.0mins 0lvl | 
+day 6	435-Shift, shift 4, 480.0mins 0lvl | 
+day 7	473-Shift, shift 2, 480.0mins 0lvl | 
+58 - 0 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	84-Shift, shift 1, 480.0mins 0lvl | 
+day 3	167-Shift, shift 2, 480.0mins 0lvl | 
+day 4	245-Shift, shift 4, 480.0mins 0lvl | 
+day 5	321-Shift, shift 2, 480.0mins 0lvl | 
+day 6	395-Shift, shift 2, 480.0mins 0lvl | 
+day 7	475-Shift, shift 3, 480.0mins 0lvl | 
+59 - 0 lvl hours: 8.0
+day 1	66-Shift, shift 4, 480.0mins 0lvl | 
+day 2	133-Shift, shift 2, 480.0mins 0lvl | 
+day 3	222-Shift, shift 3, 480.0mins 0lvl | 
+day 4	299-Shift, shift 1, 480.0mins 0lvl | 
+day 5	352-Shift, shift 2, 480.0mins 0lvl | 
+day 6	447-Shift, shift 3, 480.0mins 0lvl | 
+day 7	515-Shift, shift 4, 480.0mins 0lvl | 
+60 - 0 lvl hours: 8.0
+day 1	57-Shift, shift 4, 480.0mins 0lvl | 
+day 2	101-Shift, shift 3, 480.0mins 0lvl | 
+day 3	214-Shift, shift 1, 480.0mins 0lvl | 
+day 4	247-Shift, shift 1, 480.0mins 0lvl | 
+day 5	301-Shift, shift 2, 480.0mins 0lvl | 
+day 6	441-Shift, shift 3, 480.0mins 0lvl | 
+day 7	521-Shift, shift 4, 480.0mins 0lvl | 
+61 - 0 lvl hours: 8.0
+day 1	36-Shift, shift 2, 480.0mins 0lvl | 
+day 2	79-Shift, shift 1, 480.0mins 0lvl | 
+day 3	198-Shift, shift 4, 480.0mins 0lvl | 
+day 4	269-Shift, shift 3, 480.0mins 0lvl | 
+day 5	353-Shift, shift 1, 480.0mins 0lvl | 
+day 6	429-Shift, shift 2, 480.0mins 0lvl | 
+day 7	507-Shift, shift 1, 480.0mins 0lvl | 
+62 - 0 lvl hours: 8.0
+day 1	14-Shift, shift 2, 480.0mins 0lvl | 
+day 2	111-Shift, shift 4, 480.0mins 0lvl | 
+day 3	180-Shift, shift 1, 480.0mins 0lvl | 
+day 4	262-Shift, shift 4, 480.0mins 0lvl | 
+day 5	335-Shift, shift 1, 480.0mins 0lvl | 
+day 6	412-Shift, shift 2, 480.0mins 0lvl | 
+day 7	489-Shift, shift 1, 480.0mins 0lvl | 
+63 - 0 lvl hours: 8.0
+day 1	52-Shift, shift 3, 480.0mins 0lvl | 
+day 2	92-Shift, shift 2, 480.0mins 0lvl | 
+day 3	210-Shift, shift 2, 480.0mins 0lvl | 
+day 4	233-Shift, shift 1, 480.0mins 0lvl | 
+day 5	314-Shift, shift 2, 480.0mins 0lvl | 
+day 6	415-Shift, shift 4, 480.0mins 0lvl | 
+day 7	516-Shift, shift 3, 480.0mins 0lvl | 
+64 - 0 lvl hours: 8.0
+day 1	59-Shift, shift 3, 480.0mins 0lvl | 
+day 2	104-Shift, shift 2, 480.0mins 0lvl | 
+day 3	216-Shift, shift 2, 480.0mins 0lvl | 
+day 4	230-Shift, shift 1, 480.0mins 0lvl | 
+day 5	367-Shift, shift 1, 480.0mins 0lvl | 
+day 6	378-Shift, shift 2, 480.0mins 0lvl | 
+day 7	495-Shift, shift 2, 480.0mins 0lvl | 
+65 - 0 lvl hours: 8.0
+day 1	74-Shift, shift 3, 480.0mins 0lvl | 
+day 2	149-Shift, shift 2, 480.0mins 0lvl | 
+day 3	224-Shift, shift 3, 480.0mins 0lvl | 
+day 4	243-Shift, shift 2, 480.0mins 0lvl | 
+day 5	318-Shift, shift 1, 480.0mins 0lvl | 
+day 6	394-Shift, shift 1, 480.0mins 0lvl | 
+day 7	498-Shift, shift 1, 480.0mins 0lvl | 
+66 - 0 lvl hours: 8.0
+day 1	9-Shift, shift 2, 480.0mins 0lvl | 
+day 2	94-Shift, shift 1, 480.0mins 0lvl | 
+day 3	161-Shift, shift 1, 480.0mins 0lvl | 
+day 4	255-Shift, shift 3, 480.0mins 0lvl | 
+day 5	332-Shift, shift 4, 480.0mins 0lvl | 
+day 6	403-Shift, shift 2, 480.0mins 0lvl | 
+day 7	479-Shift, shift 4, 480.0mins 0lvl | 
+67 - 0 lvl hours: 8.0
+day 1	13-Shift, shift 2, 480.0mins 0lvl | 
+day 2	85-Shift, shift 2, 480.0mins 0lvl | 
+day 3	178-Shift, shift 3, 480.0mins 0lvl | 
+day 4	240-Shift, shift 2, 480.0mins 0lvl | 
+day 5	333-Shift, shift 2, 480.0mins 0lvl | 
+day 6	376-Shift, shift 2, 480.0mins 0lvl | 
+day 7	471-Shift, shift 3, 480.0mins 0lvl | 
+68 - 0 lvl hours: 8.0
+day 1	40-Shift, shift 2, 480.0mins 0lvl | 
+day 2	78-Shift, shift 1, 480.0mins 0lvl | 
+day 3	201-Shift, shift 2, 480.0mins 0lvl | 
+day 4	260-Shift, shift 4, 480.0mins 0lvl | 
+day 5	312-Shift, shift 4, 480.0mins 0lvl | 
+day 6	420-Shift, shift 2, 480.0mins 0lvl | 
+day 7	514-Shift, shift 4, 480.0mins 0lvl | 
+69 - 0 lvl hours: 8.0
+day 1	32-Shift, shift 2, 480.0mins 0lvl | 
+day 2	135-Shift, shift 2, 480.0mins 0lvl | 
+day 3	196-Shift, shift 3, 480.0mins 0lvl | 
+day 4	267-Shift, shift 4, 480.0mins 0lvl | 
+day 5	326-Shift, shift 4, 480.0mins 0lvl | 
+day 6	424-Shift, shift 3, 480.0mins 0lvl | 
+day 7	486-Shift, shift 4, 480.0mins 0lvl | 
+70 - 0 lvl hours: 8.0
+day 1	41-Shift, shift 1, 480.0mins 0lvl | 
+day 2	141-Shift, shift 2, 480.0mins 0lvl | 
+day 3	203-Shift, shift 2, 480.0mins 0lvl | 
+day 4	285-Shift, shift 1, 480.0mins 0lvl | 
+day 5	307-Shift, shift 2, 480.0mins 0lvl | 
+day 6	434-Shift, shift 1, 480.0mins 0lvl | 
+day 7	488-Shift, shift 3, 480.0mins 0lvl | 
+71 - 0 lvl hours: 8.0
+day 1	64-Shift, shift 2, 480.0mins 0lvl | 
+day 2	124-Shift, shift 4, 480.0mins 0lvl | 
+day 3	221-Shift, shift 4, 480.0mins 0lvl | 
+day 4	297-Shift, shift 2, 480.0mins 0lvl | 
+day 5	371-Shift, shift 4, 480.0mins 0lvl | 
+day 6	379-Shift, shift 1, 480.0mins 0lvl | 
+day 7	525-Shift, shift 4, 480.0mins 0lvl | 
+72 - 0 lvl hours: 8.0
+day 1	20-Shift, shift 2, 480.0mins 0lvl | 
+day 2	107-Shift, shift 3, 480.0mins 0lvl | 
+day 3	186-Shift, shift 4, 480.0mins 0lvl | 
+day 4	235-Shift, shift 3, 480.0mins 0lvl | 
+day 5	342-Shift, shift 4, 480.0mins 0lvl | 
+day 6	411-Shift, shift 1, 480.0mins 0lvl | 
+day 7	494-Shift, shift 1, 480.0mins 0lvl | 
+73 - 0 lvl hours: 8.0
+day 1	71-Shift, shift 3, 480.0mins 0lvl | 
+day 2	146-Shift, shift 2, 480.0mins 0lvl | 
+day 3	171-Shift, shift 1, 480.0mins 0lvl | 
+day 4	259-Shift, shift 1, 480.0mins 0lvl | 
+day 5	319-Shift, shift 2, 480.0mins 0lvl | 
+day 6	386-Shift, shift 4, 480.0mins 0lvl | 
+day 7	478-Shift, shift 2, 480.0mins 0lvl | 
+74 - 0 lvl hours: 8.0
+day 1	8-Shift, shift 3, 480.0mins 0lvl | 
+day 2	90-Shift, shift 4, 480.0mins 0lvl | 
+day 3	156-Shift, shift 3, 480.0mins 0lvl | 
+day 4	254-Shift, shift 3, 480.0mins 0lvl | 
+day 5	328-Shift, shift 3, 480.0mins 0lvl | 
+day 6	391-Shift, shift 2, 480.0mins 0lvl | 
+day 7	477-Shift, shift 4, 480.0mins 0lvl | 
+75 - 0 lvl hours: 8.0
+day 1	1-Shift, shift 2, 480.0mins 0lvl | 
+day 2	77-Shift, shift 1, 480.0mins 0lvl | 
+day 3	152-Shift, shift 3, 480.0mins 0lvl | 
+day 4	228-Shift, shift 2, 480.0mins 0lvl | 
+day 5	313-Shift, shift 2, 480.0mins 0lvl | 
+day 6	382-Shift, shift 4, 480.0mins 0lvl | 
+day 7	461-Shift, shift 3, 480.0mins 0lvl | 
+Cost = 3056.0
+Coverage = 59.285714285714285 Penalty = 0.40714285714285714
+Preferences = 59.285714285714285
+1 - 0 lvl hours: 8.0
+day 1	65-Shift, shift 1, 480.0mins 0lvl | 
+day 2	140-Shift, shift 3, 480.0mins 0lvl | 
+day 3	179-Shift, shift 2, 480.0mins 0lvl | 
+day 4	267-Shift, shift 2, 480.0mins 0lvl | 
+day 5	317-Shift, shift 3, 480.0mins 0lvl | 
+day 6	444-Shift, shift 1, 480.0mins 0lvl | 
+day 7	454-Shift, shift 3, 480.0mins 0lvl | 
+2 - 0 lvl hours: 8.0
+day 1	16-Shift, shift 3, 480.0mins 0lvl | 
+day 2	101-Shift, shift 4, 480.0mins 0lvl | 
+day 3	187-Shift, shift 3, 480.0mins 0lvl | 
+day 4	230-Shift, shift 4, 480.0mins 0lvl | 
+day 5	333-Shift, shift 4, 480.0mins 0lvl | 
+day 6	378-Shift, shift 1, 480.0mins 0lvl | 
+day 7	482-Shift, shift 4, 480.0mins 0lvl | 
+3 - 0 lvl hours: 8.0
+day 1	73-Shift, shift 3, 480.0mins 0lvl | 
+day 2	148-Shift, shift 1, 480.0mins 0lvl | 
+day 3	220-Shift, shift 4, 480.0mins 0lvl | 
+day 4	300-Shift, shift 4, 480.0mins 0lvl | 
+day 5	318-Shift, shift 3, 480.0mins 0lvl | 
+day 6	408-Shift, shift 1, 480.0mins 0lvl | 
+day 7	489-Shift, shift 2, 480.0mins 0lvl | 
+4 - 0 lvl hours: 8.0
+day 1	24-Shift, shift 4, 480.0mins 0lvl | 
+day 2	85-Shift, shift 1, 480.0mins 0lvl | 
+day 3	168-Shift, shift 4, 480.0mins 0lvl | 
+day 4	280-Shift, shift 3, 480.0mins 0lvl | 
+day 5	316-Shift, shift 3, 480.0mins 0lvl | 
+day 6	387-Shift, shift 3, 480.0mins 0lvl | 
+day 7	474-Shift, shift 2, 480.0mins 0lvl | 
+5 - 0 lvl hours: 8.0
+day 1	33-Shift, shift 2, 480.0mins 0lvl | 
+day 2	125-Shift, shift 1, 480.0mins 0lvl | 
+day 3	200-Shift, shift 1, 480.0mins 0lvl | 
+day 4	282-Shift, shift 1, 480.0mins 0lvl | 
+day 5	350-Shift, shift 2, 480.0mins 0lvl | 
+day 6	425-Shift, shift 2, 480.0mins 0lvl | 
+day 7	505-Shift, shift 1, 480.0mins 0lvl | 
+6 - 0 lvl hours: 8.0
+day 1	14-Shift, shift 4, 480.0mins 0lvl | 
+day 2	100-Shift, shift 4, 480.0mins 0lvl | 
+day 3	186-Shift, shift 4, 480.0mins 0lvl | 
+day 4	272-Shift, shift 4, 480.0mins 0lvl | 
+day 5	308-Shift, shift 1, 480.0mins 0lvl | 
+day 6	410-Shift, shift 4, 480.0mins 0lvl | 
+day 7	465-Shift, shift 3, 480.0mins 0lvl | 
+7 - 0 lvl hours: 8.0
+day 1	52-Shift, shift 2, 480.0mins 0lvl | 
+day 2	93-Shift, shift 3, 480.0mins 0lvl | 
+day 3	213-Shift, shift 2, 480.0mins 0lvl | 
+day 4	290-Shift, shift 1, 480.0mins 0lvl | 
+day 5	362-Shift, shift 4, 480.0mins 0lvl | 
+day 6	416-Shift, shift 3, 480.0mins 0lvl | 
+day 7	518-Shift, shift 3, 480.0mins 0lvl | 
+8 - 0 lvl hours: 8.0
+day 1	59-Shift, shift 2, 480.0mins 0lvl | 
+day 2	134-Shift, shift 1, 480.0mins 0lvl | 
+day 3	219-Shift, shift 1, 480.0mins 0lvl | 
+day 4	231-Shift, shift 2, 480.0mins 0lvl | 
+day 5	327-Shift, shift 4, 480.0mins 0lvl | 
+day 6	440-Shift, shift 4, 480.0mins 0lvl | 
+day 7	521-Shift, shift 4, 480.0mins 0lvl | 
+9 - 0 lvl hours: 8.0
+day 1	22-Shift, shift 2, 480.0mins 0lvl | 
+day 2	117-Shift, shift 1, 480.0mins 0lvl | 
+day 3	195-Shift, shift 2, 480.0mins 0lvl | 
+day 4	278-Shift, shift 4, 480.0mins 0lvl | 
+day 5	342-Shift, shift 3, 480.0mins 0lvl | 
+day 6	415-Shift, shift 4, 480.0mins 0lvl | 
+day 7	497-Shift, shift 2, 480.0mins 0lvl | 
+10 - 0 lvl hours: 8.0
+day 1	4-Shift, shift 2, 480.0mins 0lvl | 
+day 2	77-Shift, shift 3, 480.0mins 0lvl | 
+day 3	171-Shift, shift 4, 480.0mins 0lvl | 
+day 4	252-Shift, shift 1, 480.0mins 0lvl | 
+day 5	315-Shift, shift 2, 480.0mins 0lvl | 
+day 6	377-Shift, shift 1, 480.0mins 0lvl | 
+day 7	464-Shift, shift 2, 480.0mins 0lvl | 
+11 - 0 lvl hours: 8.0
+day 1	49-Shift, shift 2, 480.0mins 0lvl | 
+day 2	79-Shift, shift 3, 480.0mins 0lvl | 
+day 3	212-Shift, shift 4, 480.0mins 0lvl | 
+day 4	291-Shift, shift 3, 480.0mins 0lvl | 
+day 5	306-Shift, shift 4, 480.0mins 0lvl | 
+day 6	399-Shift, shift 1, 480.0mins 0lvl | 
+day 7	516-Shift, shift 4, 480.0mins 0lvl | 
+12 - 0 lvl hours: 8.0
+day 1	40-Shift, shift 1, 480.0mins 0lvl | 
+day 2	92-Shift, shift 3, 480.0mins 0lvl | 
+day 3	206-Shift, shift 4, 480.0mins 0lvl | 
+day 4	286-Shift, shift 3, 480.0mins 0lvl | 
+day 5	354-Shift, shift 3, 480.0mins 0lvl | 
+day 6	430-Shift, shift 4, 480.0mins 0lvl | 
+day 7	512-Shift, shift 4, 480.0mins 0lvl | 
+13 - 0 lvl hours: 8.0
+day 1	26-Shift, shift 3, 480.0mins 0lvl | 
+day 2	120-Shift, shift 2, 480.0mins 0lvl | 
+day 3	192-Shift, shift 3, 480.0mins 0lvl | 
+day 4	229-Shift, shift 1, 480.0mins 0lvl | 
+day 5	344-Shift, shift 1, 480.0mins 0lvl | 
+day 6	390-Shift, shift 2, 480.0mins 0lvl | 
+day 7	451-Shift, shift 2, 480.0mins 0lvl | 
+14 - 0 lvl hours: 8.0
+day 1	50-Shift, shift 2, 480.0mins 0lvl | 
+day 2	86-Shift, shift 4, 480.0mins 0lvl | 
+day 3	169-Shift, shift 1, 480.0mins 0lvl | 
+day 4	247-Shift, shift 1, 480.0mins 0lvl | 
+day 5	363-Shift, shift 2, 480.0mins 0lvl | 
+day 6	437-Shift, shift 1, 480.0mins 0lvl | 
+day 7	479-Shift, shift 1, 480.0mins 0lvl | 
+15 - 0 lvl hours: 8.0
+day 1	42-Shift, shift 4, 480.0mins 0lvl | 
+day 2	115-Shift, shift 4, 480.0mins 0lvl | 
+day 3	167-Shift, shift 2, 480.0mins 0lvl | 
+day 4	288-Shift, shift 2, 480.0mins 0lvl | 
+day 5	313-Shift, shift 3, 480.0mins 0lvl | 
+day 6	405-Shift, shift 2, 480.0mins 0lvl | 
+day 7	494-Shift, shift 4, 480.0mins 0lvl | 
+16 - 0 lvl hours: 8.0
+day 1	17-Shift, shift 3, 480.0mins 0lvl | 
+day 2	112-Shift, shift 2, 480.0mins 0lvl | 
+day 3	188-Shift, shift 2, 480.0mins 0lvl | 
+day 4	226-Shift, shift 1, 480.0mins 0lvl | 
+day 5	334-Shift, shift 4, 480.0mins 0lvl | 
+day 6	386-Shift, shift 1, 480.0mins 0lvl | 
+day 7	485-Shift, shift 3, 480.0mins 0lvl | 
+17 - 0 lvl hours: 8.0
+day 1	10-Shift, shift 2, 480.0mins 0lvl | 
+day 2	105-Shift, shift 3, 480.0mins 0lvl | 
+day 3	181-Shift, shift 2, 480.0mins 0lvl | 
+day 4	264-Shift, shift 4, 480.0mins 0lvl | 
+day 5	324-Shift, shift 1, 480.0mins 0lvl | 
+day 6	401-Shift, shift 2, 480.0mins 0lvl | 
+day 7	476-Shift, shift 3, 480.0mins 0lvl | 
+18 - 0 lvl hours: 8.0
+day 1	38-Shift, shift 3, 480.0mins 0lvl | 
+day 2	109-Shift, shift 2, 480.0mins 0lvl | 
+day 3	204-Shift, shift 2, 480.0mins 0lvl | 
+day 4	253-Shift, shift 4, 480.0mins 0lvl | 
+day 5	353-Shift, shift 2, 480.0mins 0lvl | 
+day 6	429-Shift, shift 1, 480.0mins 0lvl | 
+day 7	508-Shift, shift 1, 480.0mins 0lvl | 
+19 - 0 lvl hours: 8.0
+day 1	74-Shift, shift 4, 480.0mins 0lvl | 
+day 2	149-Shift, shift 2, 480.0mins 0lvl | 
+day 3	223-Shift, shift 4, 480.0mins 0lvl | 
+day 4	294-Shift, shift 3, 480.0mins 0lvl | 
+day 5	375-Shift, shift 1, 480.0mins 0lvl | 
+day 6	419-Shift, shift 1, 480.0mins 0lvl | 
+day 7	514-Shift, shift 1, 480.0mins 0lvl | 
+20 - 0 lvl hours: 8.0
+day 1	8-Shift, shift 2, 480.0mins 0lvl | 
+day 2	103-Shift, shift 4, 480.0mins 0lvl | 
+day 3	172-Shift, shift 2, 480.0mins 0lvl | 
+day 4	227-Shift, shift 1, 480.0mins 0lvl | 
+day 5	304-Shift, shift 4, 480.0mins 0lvl | 
+day 6	379-Shift, shift 3, 480.0mins 0lvl | 
+day 7	473-Shift, shift 2, 480.0mins 0lvl | 
+21 - 0 lvl hours: 8.0
+day 1	11-Shift, shift 2, 480.0mins 0lvl | 
+day 2	108-Shift, shift 4, 480.0mins 0lvl | 
+day 3	182-Shift, shift 3, 480.0mins 0lvl | 
+day 4	250-Shift, shift 2, 480.0mins 0lvl | 
+day 5	331-Shift, shift 4, 480.0mins 0lvl | 
+day 6	404-Shift, shift 3, 480.0mins 0lvl | 
+day 7	478-Shift, shift 3, 480.0mins 0lvl | 
+22 - 0 lvl hours: 8.0
+day 1	67-Shift, shift 2, 480.0mins 0lvl | 
+day 2	142-Shift, shift 1, 480.0mins 0lvl | 
+day 3	189-Shift, shift 4, 480.0mins 0lvl | 
+day 4	266-Shift, shift 1, 480.0mins 0lvl | 
+day 5	372-Shift, shift 2, 480.0mins 0lvl | 
+day 6	447-Shift, shift 4, 480.0mins 0lvl | 
+day 7	462-Shift, shift 2, 480.0mins 0lvl | 
+23 - 0 lvl hours: 8.0
+day 1	27-Shift, shift 4, 480.0mins 0lvl | 
+day 2	121-Shift, shift 3, 480.0mins 0lvl | 
+day 3	180-Shift, shift 2, 480.0mins 0lvl | 
+day 4	246-Shift, shift 4, 480.0mins 0lvl | 
+day 5	348-Shift, shift 2, 480.0mins 0lvl | 
+day 6	400-Shift, shift 4, 480.0mins 0lvl | 
+day 7	496-Shift, shift 4, 480.0mins 0lvl | 
+24 - 0 lvl hours: 8.0
+day 1	44-Shift, shift 4, 480.0mins 0lvl | 
+day 2	130-Shift, shift 4, 480.0mins 0lvl | 
+day 3	161-Shift, shift 4, 480.0mins 0lvl | 
+day 4	256-Shift, shift 1, 480.0mins 0lvl | 
+day 5	357-Shift, shift 2, 480.0mins 0lvl | 
+day 6	432-Shift, shift 4, 480.0mins 0lvl | 
+day 7	487-Shift, shift 3, 480.0mins 0lvl | 
+25 - 0 lvl hours: 8.0
+day 1	55-Shift, shift 2, 480.0mins 0lvl | 
+day 2	106-Shift, shift 2, 480.0mins 0lvl | 
+day 3	214-Shift, shift 4, 480.0mins 0lvl | 
+day 4	271-Shift, shift 2, 480.0mins 0lvl | 
+day 5	366-Shift, shift 3, 480.0mins 0lvl | 
+day 6	381-Shift, shift 3, 480.0mins 0lvl | 
+day 7	452-Shift, shift 2, 480.0mins 0lvl | 
+26 - 0 lvl hours: 8.0
+day 1	9-Shift, shift 2, 480.0mins 0lvl | 
+day 2	104-Shift, shift 2, 480.0mins 0lvl | 
+day 3	176-Shift, shift 4, 480.0mins 0lvl | 
+day 4	260-Shift, shift 3, 480.0mins 0lvl | 
+day 5	312-Shift, shift 1, 480.0mins 0lvl | 
+day 6	406-Shift, shift 2, 480.0mins 0lvl | 
+day 7	471-Shift, shift 3, 480.0mins 0lvl | 
+27 - 0 lvl hours: 8.0
+day 1	12-Shift, shift 1, 480.0mins 0lvl | 
+day 2	99-Shift, shift 4, 480.0mins 0lvl | 
+day 3	184-Shift, shift 2, 480.0mins 0lvl | 
+day 4	273-Shift, shift 2, 480.0mins 0lvl | 
+day 5	310-Shift, shift 4, 480.0mins 0lvl | 
+day 6	409-Shift, shift 3, 480.0mins 0lvl | 
+day 7	480-Shift, shift 1, 480.0mins 0lvl | 
+28 - 0 lvl hours: 8.0
+day 1	57-Shift, shift 4, 480.0mins 0lvl | 
+day 2	132-Shift, shift 3, 480.0mins 0lvl | 
+day 3	218-Shift, shift 4, 480.0mins 0lvl | 
+day 4	242-Shift, shift 1, 480.0mins 0lvl | 
+day 5	323-Shift, shift 4, 480.0mins 0lvl | 
+day 6	407-Shift, shift 2, 480.0mins 0lvl | 
+day 7	519-Shift, shift 3, 480.0mins 0lvl | 
+29 - 0 lvl hours: 8.0
+day 1	32-Shift, shift 4, 480.0mins 0lvl | 
+day 2	84-Shift, shift 3, 480.0mins 0lvl | 
+day 3	154-Shift, shift 2, 480.0mins 0lvl | 
+day 4	232-Shift, shift 1, 480.0mins 0lvl | 
+day 5	349-Shift, shift 3, 480.0mins 0lvl | 
+day 6	426-Shift, shift 2, 480.0mins 0lvl | 
+day 7	503-Shift, shift 3, 480.0mins 0lvl | 
+30 - 0 lvl hours: 8.0
+day 1	2-Shift, shift 4, 480.0mins 0lvl | 
+day 2	83-Shift, shift 1, 480.0mins 0lvl | 
+day 3	164-Shift, shift 4, 480.0mins 0lvl | 
+day 4	236-Shift, shift 2, 480.0mins 0lvl | 
+day 5	311-Shift, shift 1, 480.0mins 0lvl | 
+day 6	395-Shift, shift 3, 480.0mins 0lvl | 
+day 7	458-Shift, shift 4, 480.0mins 0lvl | 
+31 - 0 lvl hours: 8.0
+day 1	64-Shift, shift 2, 480.0mins 0lvl | 
+day 2	139-Shift, shift 2, 480.0mins 0lvl | 
+day 3	170-Shift, shift 2, 480.0mins 0lvl | 
+day 4	241-Shift, shift 1, 480.0mins 0lvl | 
+day 5	341-Shift, shift 2, 480.0mins 0lvl | 
+day 6	443-Shift, shift 2, 480.0mins 0lvl | 
+day 7	456-Shift, shift 2, 480.0mins 0lvl | 
+32 - 0 lvl hours: 8.0
+day 1	28-Shift, shift 3, 480.0mins 0lvl | 
+day 2	94-Shift, shift 1, 480.0mins 0lvl | 
+day 3	196-Shift, shift 3, 480.0mins 0lvl | 
+day 4	281-Shift, shift 3, 480.0mins 0lvl | 
+day 5	345-Shift, shift 3, 480.0mins 0lvl | 
+day 6	424-Shift, shift 4, 480.0mins 0lvl | 
+day 7	498-Shift, shift 1, 480.0mins 0lvl | 
+33 - 0 lvl hours: 8.0
+day 1	45-Shift, shift 1, 480.0mins 0lvl | 
+day 2	81-Shift, shift 1, 480.0mins 0lvl | 
+day 3	207-Shift, shift 1, 480.0mins 0lvl | 
+day 4	268-Shift, shift 3, 480.0mins 0lvl | 
+day 5	358-Shift, shift 3, 480.0mins 0lvl | 
+day 6	389-Shift, shift 2, 480.0mins 0lvl | 
+day 7	488-Shift, shift 4, 480.0mins 0lvl | 
+34 - 0 lvl hours: 8.0
+day 1	36-Shift, shift 3, 480.0mins 0lvl | 
+day 2	127-Shift, shift 4, 480.0mins 0lvl | 
+day 3	203-Shift, shift 1, 480.0mins 0lvl | 
+day 4	245-Shift, shift 4, 480.0mins 0lvl | 
+day 5	352-Shift, shift 2, 480.0mins 0lvl | 
+day 6	397-Shift, shift 1, 480.0mins 0lvl | 
+day 7	509-Shift, shift 3, 480.0mins 0lvl | 
+35 - 0 lvl hours: 8.0
+day 1	68-Shift, shift 2, 480.0mins 0lvl | 
+day 2	143-Shift, shift 3, 480.0mins 0lvl | 
+day 3	202-Shift, shift 1, 480.0mins 0lvl | 
+day 4	295-Shift, shift 1, 480.0mins 0lvl | 
+day 5	326-Shift, shift 4, 480.0mins 0lvl | 
+day 6	448-Shift, shift 3, 480.0mins 0lvl | 
+day 7	523-Shift, shift 4, 480.0mins 0lvl | 
+36 - 0 lvl hours: 8.0
+day 1	34-Shift, shift 4, 480.0mins 0lvl | 
+day 2	89-Shift, shift 1, 480.0mins 0lvl | 
+day 3	178-Shift, shift 1, 480.0mins 0lvl | 
+day 4	285-Shift, shift 2, 480.0mins 0lvl | 
+day 5	351-Shift, shift 4, 480.0mins 0lvl | 
+day 6	427-Shift, shift 3, 480.0mins 0lvl | 
+day 7	510-Shift, shift 1, 480.0mins 0lvl | 
+37 - 0 lvl hours: 8.0
+day 1	41-Shift, shift 4, 480.0mins 0lvl | 
+day 2	128-Shift, shift 1, 480.0mins 0lvl | 
+day 3	174-Shift, shift 1, 480.0mins 0lvl | 
+day 4	287-Shift, shift 1, 480.0mins 0lvl | 
+day 5	356-Shift, shift 3, 480.0mins 0lvl | 
+day 6	376-Shift, shift 2, 480.0mins 0lvl | 
+day 7	475-Shift, shift 3, 480.0mins 0lvl | 
+38 - 0 lvl hours: 8.0
+day 1	6-Shift, shift 1, 480.0mins 0lvl | 
+day 2	96-Shift, shift 1, 480.0mins 0lvl | 
+day 3	175-Shift, shift 2, 480.0mins 0lvl | 
+day 4	255-Shift, shift 4, 480.0mins 0lvl | 
+day 5	322-Shift, shift 1, 480.0mins 0lvl | 
+day 6	398-Shift, shift 1, 480.0mins 0lvl | 
+day 7	468-Shift, shift 1, 480.0mins 0lvl | 
+39 - 0 lvl hours: 8.0
+day 1	72-Shift, shift 3, 480.0mins 0lvl | 
+day 2	147-Shift, shift 4, 480.0mins 0lvl | 
+day 3	224-Shift, shift 3, 480.0mins 0lvl | 
+day 4	233-Shift, shift 1, 480.0mins 0lvl | 
+day 5	374-Shift, shift 1, 480.0mins 0lvl | 
+day 6	433-Shift, shift 4, 480.0mins 0lvl | 
+day 7	525-Shift, shift 3, 480.0mins 0lvl | 
+40 - 0 lvl hours: 8.0
+day 1	13-Shift, shift 2, 480.0mins 0lvl | 
+day 2	111-Shift, shift 4, 480.0mins 0lvl | 
+day 3	156-Shift, shift 3, 480.0mins 0lvl | 
+day 4	261-Shift, shift 4, 480.0mins 0lvl | 
+day 5	332-Shift, shift 1, 480.0mins 0lvl | 
+day 6	385-Shift, shift 4, 480.0mins 0lvl | 
+day 7	472-Shift, shift 3, 480.0mins 0lvl | 
+41 - 0 lvl hours: 8.0
+day 1	53-Shift, shift 1, 480.0mins 0lvl | 
+day 2	95-Shift, shift 3, 480.0mins 0lvl | 
+day 3	177-Shift, shift 1, 480.0mins 0lvl | 
+day 4	239-Shift, shift 4, 480.0mins 0lvl | 
+day 5	364-Shift, shift 4, 480.0mins 0lvl | 
+day 6	438-Shift, shift 4, 480.0mins 0lvl | 
+day 7	492-Shift, shift 3, 480.0mins 0lvl | 
+42 - 0 lvl hours: 8.0
+day 1	21-Shift, shift 3, 480.0mins 0lvl | 
+day 2	116-Shift, shift 1, 480.0mins 0lvl | 
+day 3	194-Shift, shift 3, 480.0mins 0lvl | 
+day 4	277-Shift, shift 2, 480.0mins 0lvl | 
+day 5	340-Shift, shift 3, 480.0mins 0lvl | 
+day 6	396-Shift, shift 3, 480.0mins 0lvl | 
+day 7	493-Shift, shift 4, 480.0mins 0lvl | 
+43 - 0 lvl hours: 8.0
+day 1	46-Shift, shift 2, 480.0mins 0lvl | 
+day 2	131-Shift, shift 3, 480.0mins 0lvl | 
+day 3	151-Shift, shift 3, 480.0mins 0lvl | 
+day 4	248-Shift, shift 4, 480.0mins 0lvl | 
+day 5	338-Shift, shift 3, 480.0mins 0lvl | 
+day 6	434-Shift, shift 3, 480.0mins 0lvl | 
+day 7	460-Shift, shift 2, 480.0mins 0lvl | 
+44 - 0 lvl hours: 8.0
+day 1	47-Shift, shift 4, 480.0mins 0lvl | 
+day 2	124-Shift, shift 2, 480.0mins 0lvl | 
+day 3	208-Shift, shift 4, 480.0mins 0lvl | 
+day 4	243-Shift, shift 1, 480.0mins 0lvl | 
+day 5	359-Shift, shift 3, 480.0mins 0lvl | 
+day 6	435-Shift, shift 2, 480.0mins 0lvl | 
+day 7	453-Shift, shift 2, 480.0mins 0lvl | 
+45 - 0 lvl hours: 8.0
+day 1	62-Shift, shift 3, 480.0mins 0lvl | 
+day 2	137-Shift, shift 4, 480.0mins 0lvl | 
+day 3	222-Shift, shift 2, 480.0mins 0lvl | 
+day 4	262-Shift, shift 4, 480.0mins 0lvl | 
+day 5	309-Shift, shift 2, 480.0mins 0lvl | 
+day 6	442-Shift, shift 2, 480.0mins 0lvl | 
+day 7	459-Shift, shift 2, 480.0mins 0lvl | 
+46 - 0 lvl hours: 8.0
+day 1	60-Shift, shift 2, 480.0mins 0lvl | 
+day 2	135-Shift, shift 1, 480.0mins 0lvl | 
+day 3	221-Shift, shift 4, 480.0mins 0lvl | 
+day 4	292-Shift, shift 3, 480.0mins 0lvl | 
+day 5	314-Shift, shift 3, 480.0mins 0lvl | 
+day 6	420-Shift, shift 2, 480.0mins 0lvl | 
+day 7	522-Shift, shift 4, 480.0mins 0lvl | 
+47 - 0 lvl hours: 8.0
+day 1	5-Shift, shift 2, 480.0mins 0lvl | 
+day 2	80-Shift, shift 3, 480.0mins 0lvl | 
+day 3	173-Shift, shift 2, 480.0mins 0lvl | 
+day 4	254-Shift, shift 2, 480.0mins 0lvl | 
+day 5	321-Shift, shift 3, 480.0mins 0lvl | 
+day 6	394-Shift, shift 4, 480.0mins 0lvl | 
+day 7	466-Shift, shift 3, 480.0mins 0lvl | 
+48 - 0 lvl hours: 8.0
+day 1	7-Shift, shift 3, 480.0mins 0lvl | 
+day 2	102-Shift, shift 2, 480.0mins 0lvl | 
+day 3	153-Shift, shift 4, 480.0mins 0lvl | 
+day 4	258-Shift, shift 4, 480.0mins 0lvl | 
+day 5	320-Shift, shift 4, 480.0mins 0lvl | 
+day 6	392-Shift, shift 3, 480.0mins 0lvl | 
+day 7	470-Shift, shift 3, 480.0mins 0lvl | 
+49 - 0 lvl hours: 8.0
+day 1	75-Shift, shift 3, 480.0mins 0lvl | 
+day 2	150-Shift, shift 2, 480.0mins 0lvl | 
+day 3	225-Shift, shift 3, 480.0mins 0lvl | 
+day 4	283-Shift, shift 4, 480.0mins 0lvl | 
+day 5	330-Shift, shift 3, 480.0mins 0lvl | 
+day 6	450-Shift, shift 3, 480.0mins 0lvl | 
+day 7	501-Shift, shift 4, 480.0mins 0lvl | 
+50 - 0 lvl hours: 8.0
+day 1	58-Shift, shift 3, 480.0mins 0lvl | 
+day 2	133-Shift, shift 1, 480.0mins 0lvl | 
+day 3	159-Shift, shift 4, 480.0mins 0lvl | 
+day 4	240-Shift, shift 3, 480.0mins 0lvl | 
+day 5	368-Shift, shift 2, 480.0mins 0lvl | 
+day 6	441-Shift, shift 4, 480.0mins 0lvl | 
+day 7	499-Shift, shift 3, 480.0mins 0lvl | 
+51 - 0 lvl hours: 8.0
+day 1	54-Shift, shift 4, 480.0mins 0lvl | 
+day 2	98-Shift, shift 2, 480.0mins 0lvl | 
+day 3	162-Shift, shift 2, 480.0mins 0lvl | 
+day 4	284-Shift, shift 3, 480.0mins 0lvl | 
+day 5	365-Shift, shift 3, 480.0mins 0lvl | 
+day 6	439-Shift, shift 4, 480.0mins 0lvl | 
+day 7	477-Shift, shift 3, 480.0mins 0lvl | 
+52 - 0 lvl hours: 8.0
+day 1	69-Shift, shift 2, 480.0mins 0lvl | 
+day 2	144-Shift, shift 2, 480.0mins 0lvl | 
+day 3	211-Shift, shift 1, 480.0mins 0lvl | 
+day 4	297-Shift, shift 3, 480.0mins 0lvl | 
+day 5	373-Shift, shift 4, 480.0mins 0lvl | 
+day 6	449-Shift, shift 3, 480.0mins 0lvl | 
+day 7	457-Shift, shift 3, 480.0mins 0lvl | 
+53 - 0 lvl hours: 8.0
+day 1	20-Shift, shift 1, 480.0mins 0lvl | 
+day 2	114-Shift, shift 3, 480.0mins 0lvl | 
+day 3	190-Shift, shift 4, 480.0mins 0lvl | 
+day 4	234-Shift, shift 4, 480.0mins 0lvl | 
+day 5	339-Shift, shift 4, 480.0mins 0lvl | 
+day 6	418-Shift, shift 3, 480.0mins 0lvl | 
+day 7	491-Shift, shift 4, 480.0mins 0lvl | 
+54 - 0 lvl hours: 8.0
+day 1	43-Shift, shift 3, 480.0mins 0lvl | 
+day 2	78-Shift, shift 3, 480.0mins 0lvl | 
+day 3	199-Shift, shift 1, 480.0mins 0lvl | 
+day 4	269-Shift, shift 2, 480.0mins 0lvl | 
+day 5	319-Shift, shift 1, 480.0mins 0lvl | 
+day 6	431-Shift, shift 3, 480.0mins 0lvl | 
+day 7	515-Shift, shift 3, 480.0mins 0lvl | 
+55 - 0 lvl hours: 8.0
+day 1	29-Shift, shift 4, 480.0mins 0lvl | 
+day 2	123-Shift, shift 2, 480.0mins 0lvl | 
+day 3	193-Shift, shift 1, 480.0mins 0lvl | 
+day 4	228-Shift, shift 4, 480.0mins 0lvl | 
+day 5	303-Shift, shift 2, 480.0mins 0lvl | 
+day 6	382-Shift, shift 4, 480.0mins 0lvl | 
+day 7	500-Shift, shift 3, 480.0mins 0lvl | 
+56 - 0 lvl hours: 8.0
+day 1	71-Shift, shift 3, 480.0mins 0lvl | 
+day 2	146-Shift, shift 2, 480.0mins 0lvl | 
+day 3	217-Shift, shift 3, 480.0mins 0lvl | 
+day 4	299-Shift, shift 4, 480.0mins 0lvl | 
+day 5	329-Shift, shift 1, 480.0mins 0lvl | 
+day 6	446-Shift, shift 3, 480.0mins 0lvl | 
+day 7	524-Shift, shift 3, 480.0mins 0lvl | 
+57 - 0 lvl hours: 8.0
+day 1	61-Shift, shift 2, 480.0mins 0lvl | 
+day 2	136-Shift, shift 3, 480.0mins 0lvl | 
+day 3	185-Shift, shift 1, 480.0mins 0lvl | 
+day 4	275-Shift, shift 2, 480.0mins 0lvl | 
+day 5	369-Shift, shift 2, 480.0mins 0lvl | 
+day 6	380-Shift, shift 2, 480.0mins 0lvl | 
+day 7	469-Shift, shift 4, 480.0mins 0lvl | 
+58 - 0 lvl hours: 8.0
+day 1	70-Shift, shift 4, 480.0mins 0lvl | 
+day 2	145-Shift, shift 3, 480.0mins 0lvl | 
+day 3	215-Shift, shift 2, 480.0mins 0lvl | 
+day 4	298-Shift, shift 1, 480.0mins 0lvl | 
+day 5	336-Shift, shift 2, 480.0mins 0lvl | 
+day 6	384-Shift, shift 4, 480.0mins 0lvl | 
+day 7	495-Shift, shift 3, 480.0mins 0lvl | 
+59 - 0 lvl hours: 8.0
+day 1	15-Shift, shift 1, 480.0mins 0lvl | 
+day 2	110-Shift, shift 1, 480.0mins 0lvl | 
+day 3	160-Shift, shift 4, 480.0mins 0lvl | 
+day 4	237-Shift, shift 1, 480.0mins 0lvl | 
+day 5	335-Shift, shift 3, 480.0mins 0lvl | 
+day 6	412-Shift, shift 1, 480.0mins 0lvl | 
+day 7	484-Shift, shift 4, 480.0mins 0lvl | 
+60 - 0 lvl hours: 8.0
+day 1	48-Shift, shift 3, 480.0mins 0lvl | 
+day 2	82-Shift, shift 2, 480.0mins 0lvl | 
+day 3	209-Shift, shift 2, 480.0mins 0lvl | 
+day 4	289-Shift, shift 4, 480.0mins 0lvl | 
+day 5	360-Shift, shift 3, 480.0mins 0lvl | 
+day 6	436-Shift, shift 2, 480.0mins 0lvl | 
+day 7	504-Shift, shift 4, 480.0mins 0lvl | 
+61 - 0 lvl hours: 8.0
+day 1	23-Shift, shift 4, 480.0mins 0lvl | 
+day 2	118-Shift, shift 1, 480.0mins 0lvl | 
+day 3	165-Shift, shift 2, 480.0mins 0lvl | 
+day 4	257-Shift, shift 1, 480.0mins 0lvl | 
+day 5	343-Shift, shift 3, 480.0mins 0lvl | 
+day 6	422-Shift, shift 4, 480.0mins 0lvl | 
+day 7	483-Shift, shift 3, 480.0mins 0lvl | 
+62 - 0 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	91-Shift, shift 2, 480.0mins 0lvl | 
+day 3	166-Shift, shift 1, 480.0mins 0lvl | 
+day 4	251-Shift, shift 1, 480.0mins 0lvl | 
+day 5	302-Shift, shift 1, 480.0mins 0lvl | 
+day 6	391-Shift, shift 4, 480.0mins 0lvl | 
+day 7	463-Shift, shift 4, 480.0mins 0lvl | 
+63 - 0 lvl hours: 8.0
+day 1	31-Shift, shift 4, 480.0mins 0lvl | 
+day 2	122-Shift, shift 3, 480.0mins 0lvl | 
+day 3	198-Shift, shift 2, 480.0mins 0lvl | 
+day 4	265-Shift, shift 4, 480.0mins 0lvl | 
+day 5	347-Shift, shift 3, 480.0mins 0lvl | 
+day 6	402-Shift, shift 4, 480.0mins 0lvl | 
+day 7	502-Shift, shift 3, 480.0mins 0lvl | 
+64 - 0 lvl hours: 8.0
+day 1	39-Shift, shift 2, 480.0mins 0lvl | 
+day 2	129-Shift, shift 4, 480.0mins 0lvl | 
+day 3	205-Shift, shift 3, 480.0mins 0lvl | 
+day 4	259-Shift, shift 2, 480.0mins 0lvl | 
+day 5	346-Shift, shift 1, 480.0mins 0lvl | 
+day 6	388-Shift, shift 3, 480.0mins 0lvl | 
+day 7	513-Shift, shift 2, 480.0mins 0lvl | 
+65 - 0 lvl hours: 8.0
+day 1	56-Shift, shift 1, 480.0mins 0lvl | 
+day 2	107-Shift, shift 3, 480.0mins 0lvl | 
+day 3	216-Shift, shift 4, 480.0mins 0lvl | 
+day 4	249-Shift, shift 3, 480.0mins 0lvl | 
+day 5	367-Shift, shift 2, 480.0mins 0lvl | 
+day 6	393-Shift, shift 3, 480.0mins 0lvl | 
+day 7	507-Shift, shift 1, 480.0mins 0lvl | 
+66 - 0 lvl hours: 8.0
+day 1	30-Shift, shift 2, 480.0mins 0lvl | 
+day 2	88-Shift, shift 1, 480.0mins 0lvl | 
+day 3	197-Shift, shift 3, 480.0mins 0lvl | 
+day 4	244-Shift, shift 3, 480.0mins 0lvl | 
+day 5	325-Shift, shift 2, 480.0mins 0lvl | 
+day 6	403-Shift, shift 2, 480.0mins 0lvl | 
+day 7	481-Shift, shift 3, 480.0mins 0lvl | 
+67 - 0 lvl hours: 8.0
+day 1	63-Shift, shift 2, 480.0mins 0lvl | 
+day 2	138-Shift, shift 2, 480.0mins 0lvl | 
+day 3	157-Shift, shift 4, 480.0mins 0lvl | 
+day 4	293-Shift, shift 1, 480.0mins 0lvl | 
+day 5	370-Shift, shift 3, 480.0mins 0lvl | 
+day 6	417-Shift, shift 2, 480.0mins 0lvl | 
+day 7	520-Shift, shift 2, 480.0mins 0lvl | 
+68 - 0 lvl hours: 8.0
+day 1	25-Shift, shift 2, 480.0mins 0lvl | 
+day 2	119-Shift, shift 3, 480.0mins 0lvl | 
+day 3	191-Shift, shift 3, 480.0mins 0lvl | 
+day 4	263-Shift, shift 2, 480.0mins 0lvl | 
+day 5	328-Shift, shift 2, 480.0mins 0lvl | 
+day 6	423-Shift, shift 3, 480.0mins 0lvl | 
+day 7	461-Shift, shift 4, 480.0mins 0lvl | 
+69 - 0 lvl hours: 8.0
+day 1	18-Shift, shift 3, 480.0mins 0lvl | 
+day 2	113-Shift, shift 2, 480.0mins 0lvl | 
+day 3	152-Shift, shift 2, 480.0mins 0lvl | 
+day 4	276-Shift, shift 1, 480.0mins 0lvl | 
+day 5	301-Shift, shift 1, 480.0mins 0lvl | 
+day 6	413-Shift, shift 1, 480.0mins 0lvl | 
+day 7	486-Shift, shift 4, 480.0mins 0lvl | 
+70 - 0 lvl hours: 8.0
+day 1	66-Shift, shift 1, 480.0mins 0lvl | 
+day 2	141-Shift, shift 3, 480.0mins 0lvl | 
+day 3	183-Shift, shift 3, 480.0mins 0lvl | 
+day 4	296-Shift, shift 2, 480.0mins 0lvl | 
+day 5	371-Shift, shift 2, 480.0mins 0lvl | 
+day 6	445-Shift, shift 4, 480.0mins 0lvl | 
+day 7	467-Shift, shift 4, 480.0mins 0lvl | 
+71 - 0 lvl hours: 8.0
+day 1	35-Shift, shift 4, 480.0mins 0lvl | 
+day 2	126-Shift, shift 4, 480.0mins 0lvl | 
+day 3	155-Shift, shift 1, 480.0mins 0lvl | 
+day 4	270-Shift, shift 2, 480.0mins 0lvl | 
+day 5	305-Shift, shift 1, 480.0mins 0lvl | 
+day 6	414-Shift, shift 4, 480.0mins 0lvl | 
+day 7	506-Shift, shift 4, 480.0mins 0lvl | 
+72 - 0 lvl hours: 8.0
+day 1	51-Shift, shift 3, 480.0mins 0lvl | 
+day 2	87-Shift, shift 1, 480.0mins 0lvl | 
+day 3	210-Shift, shift 4, 480.0mins 0lvl | 
+day 4	274-Shift, shift 3, 480.0mins 0lvl | 
+day 5	361-Shift, shift 1, 480.0mins 0lvl | 
+day 6	421-Shift, shift 2, 480.0mins 0lvl | 
+day 7	517-Shift, shift 2, 480.0mins 0lvl | 
+73 - 0 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	76-Shift, shift 2, 480.0mins 0lvl | 
+day 3	158-Shift, shift 4, 480.0mins 0lvl | 
+day 4	238-Shift, shift 1, 480.0mins 0lvl | 
+day 5	307-Shift, shift 1, 480.0mins 0lvl | 
+day 6	383-Shift, shift 4, 480.0mins 0lvl | 
+day 7	455-Shift, shift 3, 480.0mins 0lvl | 
+74 - 0 lvl hours: 8.0
+day 1	19-Shift, shift 2, 480.0mins 0lvl | 
+day 2	90-Shift, shift 1, 480.0mins 0lvl | 
+day 3	163-Shift, shift 3, 480.0mins 0lvl | 
+day 4	279-Shift, shift 4, 480.0mins 0lvl | 
+day 5	337-Shift, shift 3, 480.0mins 0lvl | 
+day 6	411-Shift, shift 1, 480.0mins 0lvl | 
+day 7	490-Shift, shift 2, 480.0mins 0lvl | 
+75 - 0 lvl hours: 8.0
+day 1	37-Shift, shift 2, 480.0mins 0lvl | 
+day 2	97-Shift, shift 3, 480.0mins 0lvl | 
+day 3	201-Shift, shift 3, 480.0mins 0lvl | 
+day 4	235-Shift, shift 4, 480.0mins 0lvl | 
+day 5	355-Shift, shift 1, 480.0mins 0lvl | 
+day 6	428-Shift, shift 1, 480.0mins 0lvl | 
+day 7	511-Shift, shift 2, 480.0mins 0lvl | 
+Cost = 3120.0
+Coverage = 59.19047619047619 Penalty = 0.4080952380952381
+Preferences = 59.19047619047619
+1 - 0 lvl hours: 8.0
+day 1	55-Shift, shift 1, 480.0mins 0lvl | 
+day 2	85-Shift, shift 1, 480.0mins 0lvl | 
+day 3	167-Shift, shift 1, 480.0mins 0lvl | 
+day 4	290-Shift, shift 2, 480.0mins 0lvl | 
+day 5	306-Shift, shift 4, 480.0mins 0lvl | 
+day 6	438-Shift, shift 1, 480.0mins 0lvl | 
+day 7	471-Shift, shift 4, 480.0mins 0lvl | 
+2 - 0 lvl hours: 8.0
+day 1	13-Shift, shift 4, 480.0mins 0lvl | 
+day 2	98-Shift, shift 4, 480.0mins 0lvl | 
+day 3	155-Shift, shift 3, 480.0mins 0lvl | 
+day 4	259-Shift, shift 4, 480.0mins 0lvl | 
+day 5	325-Shift, shift 2, 480.0mins 0lvl | 
+day 6	401-Shift, shift 3, 480.0mins 0lvl | 
+day 7	458-Shift, shift 2, 480.0mins 0lvl | 
+3 - 0 lvl hours: 8.0
+day 1	4-Shift, shift 1, 480.0mins 0lvl | 
+day 2	81-Shift, shift 4, 480.0mins 0lvl | 
+day 3	177-Shift, shift 2, 480.0mins 0lvl | 
+day 4	242-Shift, shift 2, 480.0mins 0lvl | 
+day 5	321-Shift, shift 2, 480.0mins 0lvl | 
+day 6	392-Shift, shift 4, 480.0mins 0lvl | 
+day 7	467-Shift, shift 2, 480.0mins 0lvl | 
+4 - 0 lvl hours: 8.0
+day 1	11-Shift, shift 4, 480.0mins 0lvl | 
+day 2	100-Shift, shift 2, 480.0mins 0lvl | 
+day 3	175-Shift, shift 4, 480.0mins 0lvl | 
+day 4	256-Shift, shift 4, 480.0mins 0lvl | 
+day 5	329-Shift, shift 4, 480.0mins 0lvl | 
+day 6	400-Shift, shift 2, 480.0mins 0lvl | 
+day 7	481-Shift, shift 2, 480.0mins 0lvl | 
+5 - 0 lvl hours: 8.0
+day 1	67-Shift, shift 1, 480.0mins 0lvl | 
+day 2	142-Shift, shift 4, 480.0mins 0lvl | 
+day 3	166-Shift, shift 4, 480.0mins 0lvl | 
+day 4	244-Shift, shift 1, 480.0mins 0lvl | 
+day 5	349-Shift, shift 2, 480.0mins 0lvl | 
+day 6	447-Shift, shift 4, 480.0mins 0lvl | 
+day 7	519-Shift, shift 3, 480.0mins 0lvl | 
+6 - 0 lvl hours: 8.0
+day 1	62-Shift, shift 4, 480.0mins 0lvl | 
+day 2	125-Shift, shift 3, 480.0mins 0lvl | 
+day 3	174-Shift, shift 2, 480.0mins 0lvl | 
+day 4	293-Shift, shift 3, 480.0mins 0lvl | 
+day 5	368-Shift, shift 2, 480.0mins 0lvl | 
+day 6	385-Shift, shift 4, 480.0mins 0lvl | 
+day 7	520-Shift, shift 3, 480.0mins 0lvl | 
+7 - 0 lvl hours: 8.0
+day 1	63-Shift, shift 4, 480.0mins 0lvl | 
+day 2	141-Shift, shift 2, 480.0mins 0lvl | 
+day 3	154-Shift, shift 2, 480.0mins 0lvl | 
+day 4	297-Shift, shift 3, 480.0mins 0lvl | 
+day 5	301-Shift, shift 2, 480.0mins 0lvl | 
+day 6	443-Shift, shift 2, 480.0mins 0lvl | 
+day 7	461-Shift, shift 3, 480.0mins 0lvl | 
+8 - 0 lvl hours: 8.0
+day 1	16-Shift, shift 2, 480.0mins 0lvl | 
+day 2	110-Shift, shift 2, 480.0mins 0lvl | 
+day 3	180-Shift, shift 3, 480.0mins 0lvl | 
+day 4	265-Shift, shift 3, 480.0mins 0lvl | 
+day 5	318-Shift, shift 1, 480.0mins 0lvl | 
+day 6	407-Shift, shift 1, 480.0mins 0lvl | 
+day 7	472-Shift, shift 3, 480.0mins 0lvl | 
+9 - 0 lvl hours: 8.0
+day 1	10-Shift, shift 2, 480.0mins 0lvl | 
+day 2	96-Shift, shift 2, 480.0mins 0lvl | 
+day 3	183-Shift, shift 3, 480.0mins 0lvl | 
+day 4	249-Shift, shift 2, 480.0mins 0lvl | 
+day 5	328-Shift, shift 3, 480.0mins 0lvl | 
+day 6	398-Shift, shift 2, 480.0mins 0lvl | 
+day 7	473-Shift, shift 3, 480.0mins 0lvl | 
+10 - 0 lvl hours: 8.0
+day 1	43-Shift, shift 1, 480.0mins 0lvl | 
+day 2	133-Shift, shift 3, 480.0mins 0lvl | 
+day 3	197-Shift, shift 3, 480.0mins 0lvl | 
+day 4	235-Shift, shift 3, 480.0mins 0lvl | 
+day 5	350-Shift, shift 3, 480.0mins 0lvl | 
+day 6	435-Shift, shift 1, 480.0mins 0lvl | 
+day 7	474-Shift, shift 3, 480.0mins 0lvl | 
+11 - 0 lvl hours: 8.0
+day 1	23-Shift, shift 2, 480.0mins 0lvl | 
+day 2	117-Shift, shift 2, 480.0mins 0lvl | 
+day 3	162-Shift, shift 3, 480.0mins 0lvl | 
+day 4	272-Shift, shift 2, 480.0mins 0lvl | 
+day 5	339-Shift, shift 2, 480.0mins 0lvl | 
+day 6	412-Shift, shift 1, 480.0mins 0lvl | 
+day 7	483-Shift, shift 4, 480.0mins 0lvl | 
+12 - 0 lvl hours: 8.0
+day 1	33-Shift, shift 3, 480.0mins 0lvl | 
+day 2	107-Shift, shift 3, 480.0mins 0lvl | 
+day 3	179-Shift, shift 4, 480.0mins 0lvl | 
+day 4	282-Shift, shift 3, 480.0mins 0lvl | 
+day 5	324-Shift, shift 3, 480.0mins 0lvl | 
+day 6	378-Shift, shift 3, 480.0mins 0lvl | 
+day 7	502-Shift, shift 2, 480.0mins 0lvl | 
+13 - 0 lvl hours: 8.0
+day 1	6-Shift, shift 4, 480.0mins 0lvl | 
+day 2	92-Shift, shift 4, 480.0mins 0lvl | 
+day 3	182-Shift, shift 1, 480.0mins 0lvl | 
+day 4	248-Shift, shift 3, 480.0mins 0lvl | 
+day 5	322-Shift, shift 2, 480.0mins 0lvl | 
+day 6	388-Shift, shift 3, 480.0mins 0lvl | 
+day 7	470-Shift, shift 1, 480.0mins 0lvl | 
+14 - 0 lvl hours: 8.0
+day 1	61-Shift, shift 2, 480.0mins 0lvl | 
+day 2	122-Shift, shift 2, 480.0mins 0lvl | 
+day 3	172-Shift, shift 2, 480.0mins 0lvl | 
+day 4	294-Shift, shift 4, 480.0mins 0lvl | 
+day 5	319-Shift, shift 3, 480.0mins 0lvl | 
+day 6	387-Shift, shift 4, 480.0mins 0lvl | 
+day 7	516-Shift, shift 3, 480.0mins 0lvl | 
+15 - 0 lvl hours: 8.0
+day 1	2-Shift, shift 4, 480.0mins 0lvl | 
+day 2	77-Shift, shift 4, 480.0mins 0lvl | 
+day 3	153-Shift, shift 4, 480.0mins 0lvl | 
+day 4	241-Shift, shift 4, 480.0mins 0lvl | 
+day 5	312-Shift, shift 2, 480.0mins 0lvl | 
+day 6	386-Shift, shift 3, 480.0mins 0lvl | 
+day 7	465-Shift, shift 2, 480.0mins 0lvl | 
+16 - 0 lvl hours: 8.0
+day 1	21-Shift, shift 1, 480.0mins 0lvl | 
+day 2	106-Shift, shift 4, 480.0mins 0lvl | 
+day 3	198-Shift, shift 4, 480.0mins 0lvl | 
+day 4	251-Shift, shift 2, 480.0mins 0lvl | 
+day 5	337-Shift, shift 1, 480.0mins 0lvl | 
+day 6	418-Shift, shift 3, 480.0mins 0lvl | 
+day 7	491-Shift, shift 4, 480.0mins 0lvl | 
+17 - 0 lvl hours: 8.0
+day 1	9-Shift, shift 1, 480.0mins 0lvl | 
+day 2	95-Shift, shift 1, 480.0mins 0lvl | 
+day 3	190-Shift, shift 1, 480.0mins 0lvl | 
+day 4	257-Shift, shift 2, 480.0mins 0lvl | 
+day 5	327-Shift, shift 2, 480.0mins 0lvl | 
+day 6	395-Shift, shift 2, 480.0mins 0lvl | 
+day 7	453-Shift, shift 3, 480.0mins 0lvl | 
+18 - 0 lvl hours: 8.0
+day 1	36-Shift, shift 3, 480.0mins 0lvl | 
+day 2	99-Shift, shift 3, 480.0mins 0lvl | 
+day 3	211-Shift, shift 2, 480.0mins 0lvl | 
+day 4	233-Shift, shift 4, 480.0mins 0lvl | 
+day 5	351-Shift, shift 4, 480.0mins 0lvl | 
+day 6	425-Shift, shift 4, 480.0mins 0lvl | 
+day 7	464-Shift, shift 1, 480.0mins 0lvl | 
+19 - 0 lvl hours: 8.0
+day 1	42-Shift, shift 3, 480.0mins 0lvl | 
+day 2	111-Shift, shift 3, 480.0mins 0lvl | 
+day 3	213-Shift, shift 4, 480.0mins 0lvl | 
+day 4	279-Shift, shift 2, 480.0mins 0lvl | 
+day 5	353-Shift, shift 1, 480.0mins 0lvl | 
+day 6	434-Shift, shift 3, 480.0mins 0lvl | 
+day 7	462-Shift, shift 2, 480.0mins 0lvl | 
+20 - 0 lvl hours: 8.0
+day 1	26-Shift, shift 2, 480.0mins 0lvl | 
+day 2	119-Shift, shift 1, 480.0mins 0lvl | 
+day 3	184-Shift, shift 4, 480.0mins 0lvl | 
+day 4	229-Shift, shift 3, 480.0mins 0lvl | 
+day 5	308-Shift, shift 3, 480.0mins 0lvl | 
+day 6	427-Shift, shift 1, 480.0mins 0lvl | 
+day 7	496-Shift, shift 3, 480.0mins 0lvl | 
+21 - 0 lvl hours: 8.0
+day 1	65-Shift, shift 4, 480.0mins 0lvl | 
+day 2	134-Shift, shift 4, 480.0mins 0lvl | 
+day 3	189-Shift, shift 1, 480.0mins 0lvl | 
+day 4	250-Shift, shift 1, 480.0mins 0lvl | 
+day 5	370-Shift, shift 1, 480.0mins 0lvl | 
+day 6	444-Shift, shift 3, 480.0mins 0lvl | 
+day 7	504-Shift, shift 2, 480.0mins 0lvl | 
+22 - 0 lvl hours: 8.0
+day 1	75-Shift, shift 4, 480.0mins 0lvl | 
+day 2	150-Shift, shift 3, 480.0mins 0lvl | 
+day 3	225-Shift, shift 4, 480.0mins 0lvl | 
+day 4	300-Shift, shift 3, 480.0mins 0lvl | 
+day 5	357-Shift, shift 2, 480.0mins 0lvl | 
+day 6	422-Shift, shift 4, 480.0mins 0lvl | 
+day 7	525-Shift, shift 1, 480.0mins 0lvl | 
+23 - 0 lvl hours: 8.0
+day 1	37-Shift, shift 1, 480.0mins 0lvl | 
+day 2	130-Shift, shift 2, 480.0mins 0lvl | 
+day 3	151-Shift, shift 4, 480.0mins 0lvl | 
+day 4	252-Shift, shift 1, 480.0mins 0lvl | 
+day 5	352-Shift, shift 4, 480.0mins 0lvl | 
+day 6	432-Shift, shift 1, 480.0mins 0lvl | 
+day 7	505-Shift, shift 3, 480.0mins 0lvl | 
+24 - 0 lvl hours: 8.0
+day 1	32-Shift, shift 4, 480.0mins 0lvl | 
+day 2	126-Shift, shift 3, 480.0mins 0lvl | 
+day 3	209-Shift, shift 2, 480.0mins 0lvl | 
+day 4	268-Shift, shift 1, 480.0mins 0lvl | 
+day 5	347-Shift, shift 2, 480.0mins 0lvl | 
+day 6	381-Shift, shift 2, 480.0mins 0lvl | 
+day 7	455-Shift, shift 4, 480.0mins 0lvl | 
+25 - 0 lvl hours: 8.0
+day 1	53-Shift, shift 2, 480.0mins 0lvl | 
+day 2	82-Shift, shift 1, 480.0mins 0lvl | 
+day 3	165-Shift, shift 3, 480.0mins 0lvl | 
+day 4	263-Shift, shift 2, 480.0mins 0lvl | 
+day 5	361-Shift, shift 2, 480.0mins 0lvl | 
+day 6	390-Shift, shift 1, 480.0mins 0lvl | 
+day 7	515-Shift, shift 1, 480.0mins 0lvl | 
+26 - 0 lvl hours: 8.0
+day 1	29-Shift, shift 4, 480.0mins 0lvl | 
+day 2	120-Shift, shift 3, 480.0mins 0lvl | 
+day 3	204-Shift, shift 4, 480.0mins 0lvl | 
+day 4	232-Shift, shift 4, 480.0mins 0lvl | 
+day 5	342-Shift, shift 2, 480.0mins 0lvl | 
+day 6	409-Shift, shift 3, 480.0mins 0lvl | 
+day 7	500-Shift, shift 3, 480.0mins 0lvl | 
+27 - 0 lvl hours: 8.0
+day 1	7-Shift, shift 3, 480.0mins 0lvl | 
+day 2	80-Shift, shift 1, 480.0mins 0lvl | 
+day 3	185-Shift, shift 3, 480.0mins 0lvl | 
+day 4	260-Shift, shift 3, 480.0mins 0lvl | 
+day 5	315-Shift, shift 1, 480.0mins 0lvl | 
+day 6	382-Shift, shift 1, 480.0mins 0lvl | 
+day 7	452-Shift, shift 2, 480.0mins 0lvl | 
+28 - 0 lvl hours: 8.0
+day 1	57-Shift, shift 1, 480.0mins 0lvl | 
+day 2	94-Shift, shift 2, 480.0mins 0lvl | 
+day 3	192-Shift, shift 4, 480.0mins 0lvl | 
+day 4	295-Shift, shift 1, 480.0mins 0lvl | 
+day 5	365-Shift, shift 2, 480.0mins 0lvl | 
+day 6	441-Shift, shift 1, 480.0mins 0lvl | 
+day 7	513-Shift, shift 3, 480.0mins 0lvl | 
+29 - 0 lvl hours: 8.0
+day 1	25-Shift, shift 3, 480.0mins 0lvl | 
+day 2	101-Shift, shift 4, 480.0mins 0lvl | 
+day 3	205-Shift, shift 2, 480.0mins 0lvl | 
+day 4	275-Shift, shift 3, 480.0mins 0lvl | 
+day 5	320-Shift, shift 2, 480.0mins 0lvl | 
+day 6	426-Shift, shift 2, 480.0mins 0lvl | 
+day 7	495-Shift, shift 1, 480.0mins 0lvl | 
+30 - 0 lvl hours: 8.0
+day 1	48-Shift, shift 1, 480.0mins 0lvl | 
+day 2	138-Shift, shift 1, 480.0mins 0lvl | 
+day 3	199-Shift, shift 3, 480.0mins 0lvl | 
+day 4	289-Shift, shift 4, 480.0mins 0lvl | 
+day 5	302-Shift, shift 1, 480.0mins 0lvl | 
+day 6	411-Shift, shift 1, 480.0mins 0lvl | 
+day 7	512-Shift, shift 3, 480.0mins 0lvl | 
+31 - 0 lvl hours: 8.0
+day 1	59-Shift, shift 4, 480.0mins 0lvl | 
+day 2	114-Shift, shift 3, 480.0mins 0lvl | 
+day 3	218-Shift, shift 1, 480.0mins 0lvl | 
+day 4	264-Shift, shift 2, 480.0mins 0lvl | 
+day 5	323-Shift, shift 3, 480.0mins 0lvl | 
+day 6	442-Shift, shift 3, 480.0mins 0lvl | 
+day 7	457-Shift, shift 3, 480.0mins 0lvl | 
+32 - 0 lvl hours: 8.0
+day 1	38-Shift, shift 1, 480.0mins 0lvl | 
+day 2	90-Shift, shift 4, 480.0mins 0lvl | 
+day 3	212-Shift, shift 2, 480.0mins 0lvl | 
+day 4	228-Shift, shift 4, 480.0mins 0lvl | 
+day 5	345-Shift, shift 2, 480.0mins 0lvl | 
+day 6	376-Shift, shift 4, 480.0mins 0lvl | 
+day 7	509-Shift, shift 3, 480.0mins 0lvl | 
+33 - 0 lvl hours: 8.0
+day 1	40-Shift, shift 2, 480.0mins 0lvl | 
+day 2	131-Shift, shift 4, 480.0mins 0lvl | 
+day 3	202-Shift, shift 1, 480.0mins 0lvl | 
+day 4	286-Shift, shift 2, 480.0mins 0lvl | 
+day 5	314-Shift, shift 1, 480.0mins 0lvl | 
+day 6	433-Shift, shift 2, 480.0mins 0lvl | 
+day 7	459-Shift, shift 2, 480.0mins 0lvl | 
+34 - 0 lvl hours: 8.0
+day 1	74-Shift, shift 4, 480.0mins 0lvl | 
+day 2	149-Shift, shift 1, 480.0mins 0lvl | 
+day 3	224-Shift, shift 1, 480.0mins 0lvl | 
+day 4	285-Shift, shift 2, 480.0mins 0lvl | 
+day 5	303-Shift, shift 3, 480.0mins 0lvl | 
+day 6	450-Shift, shift 2, 480.0mins 0lvl | 
+day 7	521-Shift, shift 1, 480.0mins 0lvl | 
+35 - 0 lvl hours: 8.0
+day 1	45-Shift, shift 3, 480.0mins 0lvl | 
+day 2	108-Shift, shift 2, 480.0mins 0lvl | 
+day 3	181-Shift, shift 4, 480.0mins 0lvl | 
+day 4	238-Shift, shift 4, 480.0mins 0lvl | 
+day 5	343-Shift, shift 1, 480.0mins 0lvl | 
+day 6	430-Shift, shift 3, 480.0mins 0lvl | 
+day 7	511-Shift, shift 1, 480.0mins 0lvl | 
+36 - 0 lvl hours: 8.0
+day 1	58-Shift, shift 3, 480.0mins 0lvl | 
+day 2	102-Shift, shift 2, 480.0mins 0lvl | 
+day 3	217-Shift, shift 4, 480.0mins 0lvl | 
+day 4	266-Shift, shift 3, 480.0mins 0lvl | 
+day 5	366-Shift, shift 1, 480.0mins 0lvl | 
+day 6	415-Shift, shift 2, 480.0mins 0lvl | 
+day 7	482-Shift, shift 3, 480.0mins 0lvl | 
+37 - 0 lvl hours: 8.0
+day 1	27-Shift, shift 3, 480.0mins 0lvl | 
+day 2	86-Shift, shift 1, 480.0mins 0lvl | 
+day 3	200-Shift, shift 3, 480.0mins 0lvl | 
+day 4	277-Shift, shift 2, 480.0mins 0lvl | 
+day 5	311-Shift, shift 3, 480.0mins 0lvl | 
+day 6	393-Shift, shift 3, 480.0mins 0lvl | 
+day 7	497-Shift, shift 2, 480.0mins 0lvl | 
+38 - 0 lvl hours: 8.0
+day 1	31-Shift, shift 2, 480.0mins 0lvl | 
+day 2	124-Shift, shift 4, 480.0mins 0lvl | 
+day 3	208-Shift, shift 2, 480.0mins 0lvl | 
+day 4	278-Shift, shift 2, 480.0mins 0lvl | 
+day 5	346-Shift, shift 1, 480.0mins 0lvl | 
+day 6	428-Shift, shift 2, 480.0mins 0lvl | 
+day 7	501-Shift, shift 1, 480.0mins 0lvl | 
+39 - 0 lvl hours: 8.0
+day 1	15-Shift, shift 1, 480.0mins 0lvl | 
+day 2	109-Shift, shift 1, 480.0mins 0lvl | 
+day 3	193-Shift, shift 3, 480.0mins 0lvl | 
+day 4	262-Shift, shift 2, 480.0mins 0lvl | 
+day 5	331-Shift, shift 4, 480.0mins 0lvl | 
+day 6	404-Shift, shift 4, 480.0mins 0lvl | 
+day 7	486-Shift, shift 2, 480.0mins 0lvl | 
+40 - 0 lvl hours: 8.0
+day 1	17-Shift, shift 3, 480.0mins 0lvl | 
+day 2	112-Shift, shift 2, 480.0mins 0lvl | 
+day 3	194-Shift, shift 1, 480.0mins 0lvl | 
+day 4	267-Shift, shift 4, 480.0mins 0lvl | 
+day 5	334-Shift, shift 3, 480.0mins 0lvl | 
+day 6	414-Shift, shift 2, 480.0mins 0lvl | 
+day 7	488-Shift, shift 4, 480.0mins 0lvl | 
+41 - 0 lvl hours: 8.0
+day 1	52-Shift, shift 1, 480.0mins 0lvl | 
+day 2	140-Shift, shift 1, 480.0mins 0lvl | 
+day 3	161-Shift, shift 2, 480.0mins 0lvl | 
+day 4	231-Shift, shift 2, 480.0mins 0lvl | 
+day 5	359-Shift, shift 4, 480.0mins 0lvl | 
+day 6	413-Shift, shift 3, 480.0mins 0lvl | 
+day 7	478-Shift, shift 3, 480.0mins 0lvl | 
+42 - 0 lvl hours: 8.0
+day 1	54-Shift, shift 4, 480.0mins 0lvl | 
+day 2	84-Shift, shift 4, 480.0mins 0lvl | 
+day 3	216-Shift, shift 3, 480.0mins 0lvl | 
+day 4	292-Shift, shift 4, 480.0mins 0lvl | 
+day 5	362-Shift, shift 3, 480.0mins 0lvl | 
+day 6	437-Shift, shift 3, 480.0mins 0lvl | 
+day 7	484-Shift, shift 3, 480.0mins 0lvl | 
+43 - 0 lvl hours: 8.0
+day 1	28-Shift, shift 2, 480.0mins 0lvl | 
+day 2	121-Shift, shift 3, 480.0mins 0lvl | 
+day 3	191-Shift, shift 3, 480.0mins 0lvl | 
+day 4	281-Shift, shift 1, 480.0mins 0lvl | 
+day 5	341-Shift, shift 2, 480.0mins 0lvl | 
+day 6	421-Shift, shift 2, 480.0mins 0lvl | 
+day 7	476-Shift, shift 2, 480.0mins 0lvl | 
+44 - 0 lvl hours: 8.0
+day 1	50-Shift, shift 1, 480.0mins 0lvl | 
+day 2	139-Shift, shift 4, 480.0mins 0lvl | 
+day 3	210-Shift, shift 3, 480.0mins 0lvl | 
+day 4	255-Shift, shift 3, 480.0mins 0lvl | 
+day 5	358-Shift, shift 3, 480.0mins 0lvl | 
+day 6	436-Shift, shift 2, 480.0mins 0lvl | 
+day 7	490-Shift, shift 2, 480.0mins 0lvl | 
+45 - 0 lvl hours: 8.0
+day 1	51-Shift, shift 3, 480.0mins 0lvl | 
+day 2	83-Shift, shift 2, 480.0mins 0lvl | 
+day 3	170-Shift, shift 1, 480.0mins 0lvl | 
+day 4	236-Shift, shift 2, 480.0mins 0lvl | 
+day 5	360-Shift, shift 3, 480.0mins 0lvl | 
+day 6	419-Shift, shift 4, 480.0mins 0lvl | 
+day 7	514-Shift, shift 4, 480.0mins 0lvl | 
+46 - 0 lvl hours: 8.0
+day 1	19-Shift, shift 3, 480.0mins 0lvl | 
+day 2	88-Shift, shift 1, 480.0mins 0lvl | 
+day 3	159-Shift, shift 4, 480.0mins 0lvl | 
+day 4	243-Shift, shift 3, 480.0mins 0lvl | 
+day 5	317-Shift, shift 3, 480.0mins 0lvl | 
+day 6	417-Shift, shift 1, 480.0mins 0lvl | 
+day 7	466-Shift, shift 2, 480.0mins 0lvl | 
+47 - 0 lvl hours: 8.0
+day 1	8-Shift, shift 4, 480.0mins 0lvl | 
+day 2	93-Shift, shift 4, 480.0mins 0lvl | 
+day 3	186-Shift, shift 3, 480.0mins 0lvl | 
+day 4	261-Shift, shift 3, 480.0mins 0lvl | 
+day 5	326-Shift, shift 2, 480.0mins 0lvl | 
+day 6	397-Shift, shift 2, 480.0mins 0lvl | 
+day 7	475-Shift, shift 2, 480.0mins 0lvl | 
+48 - 0 lvl hours: 8.0
+day 1	72-Shift, shift 1, 480.0mins 0lvl | 
+day 2	147-Shift, shift 4, 480.0mins 0lvl | 
+day 3	221-Shift, shift 1, 480.0mins 0lvl | 
+day 4	227-Shift, shift 1, 480.0mins 0lvl | 
+day 5	374-Shift, shift 1, 480.0mins 0lvl | 
+day 6	383-Shift, shift 3, 480.0mins 0lvl | 
+day 7	524-Shift, shift 3, 480.0mins 0lvl | 
+49 - 0 lvl hours: 8.0
+day 1	64-Shift, shift 1, 480.0mins 0lvl | 
+day 2	129-Shift, shift 4, 480.0mins 0lvl | 
+day 3	219-Shift, shift 3, 480.0mins 0lvl | 
+day 4	298-Shift, shift 3, 480.0mins 0lvl | 
+day 5	369-Shift, shift 3, 480.0mins 0lvl | 
+day 6	379-Shift, shift 1, 480.0mins 0lvl | 
+day 7	487-Shift, shift 4, 480.0mins 0lvl | 
+50 - 0 lvl hours: 8.0
+day 1	49-Shift, shift 2, 480.0mins 0lvl | 
+day 2	78-Shift, shift 1, 480.0mins 0lvl | 
+day 3	215-Shift, shift 4, 480.0mins 0lvl | 
+day 4	253-Shift, shift 1, 480.0mins 0lvl | 
+day 5	356-Shift, shift 3, 480.0mins 0lvl | 
+day 6	391-Shift, shift 4, 480.0mins 0lvl | 
+day 7	503-Shift, shift 4, 480.0mins 0lvl | 
+51 - 0 lvl hours: 8.0
+day 1	20-Shift, shift 2, 480.0mins 0lvl | 
+day 2	115-Shift, shift 1, 480.0mins 0lvl | 
+day 3	196-Shift, shift 1, 480.0mins 0lvl | 
+day 4	271-Shift, shift 3, 480.0mins 0lvl | 
+day 5	336-Shift, shift 1, 480.0mins 0lvl | 
+day 6	403-Shift, shift 4, 480.0mins 0lvl | 
+day 7	489-Shift, shift 2, 480.0mins 0lvl | 
+52 - 0 lvl hours: 8.0
+day 1	34-Shift, shift 2, 480.0mins 0lvl | 
+day 2	127-Shift, shift 4, 480.0mins 0lvl | 
+day 3	206-Shift, shift 4, 480.0mins 0lvl | 
+day 4	283-Shift, shift 3, 480.0mins 0lvl | 
+day 5	338-Shift, shift 3, 480.0mins 0lvl | 
+day 6	431-Shift, shift 2, 480.0mins 0lvl | 
+day 7	479-Shift, shift 4, 480.0mins 0lvl | 
+53 - 0 lvl hours: 8.0
+day 1	69-Shift, shift 2, 480.0mins 0lvl | 
+day 2	144-Shift, shift 3, 480.0mins 0lvl | 
+day 3	163-Shift, shift 4, 480.0mins 0lvl | 
+day 4	299-Shift, shift 3, 480.0mins 0lvl | 
+day 5	371-Shift, shift 2, 480.0mins 0lvl | 
+day 6	396-Shift, shift 3, 480.0mins 0lvl | 
+day 7	522-Shift, shift 4, 480.0mins 0lvl | 
+54 - 0 lvl hours: 8.0
+day 1	73-Shift, shift 4, 480.0mins 0lvl | 
+day 2	148-Shift, shift 4, 480.0mins 0lvl | 
+day 3	223-Shift, shift 2, 480.0mins 0lvl | 
+day 4	254-Shift, shift 4, 480.0mins 0lvl | 
+day 5	375-Shift, shift 2, 480.0mins 0lvl | 
+day 6	449-Shift, shift 4, 480.0mins 0lvl | 
+day 7	492-Shift, shift 3, 480.0mins 0lvl | 
+55 - 0 lvl hours: 8.0
+day 1	18-Shift, shift 4, 480.0mins 0lvl | 
+day 2	113-Shift, shift 3, 480.0mins 0lvl | 
+day 3	195-Shift, shift 2, 480.0mins 0lvl | 
+day 4	269-Shift, shift 4, 480.0mins 0lvl | 
+day 5	335-Shift, shift 2, 480.0mins 0lvl | 
+day 6	410-Shift, shift 3, 480.0mins 0lvl | 
+day 7	493-Shift, shift 2, 480.0mins 0lvl | 
+56 - 0 lvl hours: 8.0
+day 1	5-Shift, shift 4, 480.0mins 0lvl | 
+day 2	87-Shift, shift 2, 480.0mins 0lvl | 
+day 3	178-Shift, shift 2, 480.0mins 0lvl | 
+day 4	246-Shift, shift 2, 480.0mins 0lvl | 
+day 5	313-Shift, shift 3, 480.0mins 0lvl | 
+day 6	394-Shift, shift 3, 480.0mins 0lvl | 
+day 7	480-Shift, shift 1, 480.0mins 0lvl | 
+57 - 0 lvl hours: 8.0
+day 1	44-Shift, shift 3, 480.0mins 0lvl | 
+day 2	91-Shift, shift 1, 480.0mins 0lvl | 
+day 3	214-Shift, shift 1, 480.0mins 0lvl | 
+day 4	258-Shift, shift 3, 480.0mins 0lvl | 
+day 5	304-Shift, shift 4, 480.0mins 0lvl | 
+day 6	406-Shift, shift 4, 480.0mins 0lvl | 
+day 7	510-Shift, shift 2, 480.0mins 0lvl | 
+58 - 0 lvl hours: 8.0
+day 1	39-Shift, shift 4, 480.0mins 0lvl | 
+day 2	105-Shift, shift 4, 480.0mins 0lvl | 
+day 3	203-Shift, shift 4, 480.0mins 0lvl | 
+day 4	276-Shift, shift 1, 480.0mins 0lvl | 
+day 5	310-Shift, shift 2, 480.0mins 0lvl | 
+day 6	402-Shift, shift 4, 480.0mins 0lvl | 
+day 7	506-Shift, shift 2, 480.0mins 0lvl | 
+59 - 0 lvl hours: 8.0
+day 1	66-Shift, shift 4, 480.0mins 0lvl | 
+day 2	135-Shift, shift 3, 480.0mins 0lvl | 
+day 3	220-Shift, shift 1, 480.0mins 0lvl | 
+day 4	280-Shift, shift 2, 480.0mins 0lvl | 
+day 5	364-Shift, shift 2, 480.0mins 0lvl | 
+day 6	445-Shift, shift 1, 480.0mins 0lvl | 
+day 7	517-Shift, shift 3, 480.0mins 0lvl | 
+60 - 0 lvl hours: 8.0
+day 1	71-Shift, shift 3, 480.0mins 0lvl | 
+day 2	146-Shift, shift 1, 480.0mins 0lvl | 
+day 3	187-Shift, shift 2, 480.0mins 0lvl | 
+day 4	274-Shift, shift 1, 480.0mins 0lvl | 
+day 5	373-Shift, shift 4, 480.0mins 0lvl | 
+day 6	448-Shift, shift 2, 480.0mins 0lvl | 
+day 7	523-Shift, shift 1, 480.0mins 0lvl | 
+61 - 0 lvl hours: 8.0
+day 1	35-Shift, shift 2, 480.0mins 0lvl | 
+day 2	128-Shift, shift 2, 480.0mins 0lvl | 
+day 3	160-Shift, shift 3, 480.0mins 0lvl | 
+day 4	284-Shift, shift 2, 480.0mins 0lvl | 
+day 5	348-Shift, shift 3, 480.0mins 0lvl | 
+day 6	429-Shift, shift 1, 480.0mins 0lvl | 
+day 7	454-Shift, shift 4, 480.0mins 0lvl | 
+62 - 0 lvl hours: 8.0
+day 1	46-Shift, shift 1, 480.0mins 0lvl | 
+day 2	136-Shift, shift 1, 480.0mins 0lvl | 
+day 3	171-Shift, shift 1, 480.0mins 0lvl | 
+day 4	287-Shift, shift 2, 480.0mins 0lvl | 
+day 5	355-Shift, shift 2, 480.0mins 0lvl | 
+day 6	416-Shift, shift 4, 480.0mins 0lvl | 
+day 7	507-Shift, shift 1, 480.0mins 0lvl | 
+63 - 0 lvl hours: 8.0
+day 1	70-Shift, shift 3, 480.0mins 0lvl | 
+day 2	145-Shift, shift 4, 480.0mins 0lvl | 
+day 3	164-Shift, shift 2, 480.0mins 0lvl | 
+day 4	270-Shift, shift 4, 480.0mins 0lvl | 
+day 5	372-Shift, shift 2, 480.0mins 0lvl | 
+day 6	408-Shift, shift 1, 480.0mins 0lvl | 
+day 7	460-Shift, shift 1, 480.0mins 0lvl | 
+64 - 0 lvl hours: 8.0
+day 1	14-Shift, shift 2, 480.0mins 0lvl | 
+day 2	103-Shift, shift 2, 480.0mins 0lvl | 
+day 3	188-Shift, shift 3, 480.0mins 0lvl | 
+day 4	234-Shift, shift 3, 480.0mins 0lvl | 
+day 5	309-Shift, shift 3, 480.0mins 0lvl | 
+day 6	405-Shift, shift 3, 480.0mins 0lvl | 
+day 7	477-Shift, shift 2, 480.0mins 0lvl | 
+65 - 0 lvl hours: 8.0
+day 1	3-Shift, shift 2, 480.0mins 0lvl | 
+day 2	79-Shift, shift 2, 480.0mins 0lvl | 
+day 3	152-Shift, shift 4, 480.0mins 0lvl | 
+day 4	239-Shift, shift 3, 480.0mins 0lvl | 
+day 5	316-Shift, shift 2, 480.0mins 0lvl | 
+day 6	389-Shift, shift 3, 480.0mins 0lvl | 
+day 7	469-Shift, shift 2, 480.0mins 0lvl | 
+66 - 0 lvl hours: 8.0
+day 1	47-Shift, shift 2, 480.0mins 0lvl | 
+day 2	137-Shift, shift 2, 480.0mins 0lvl | 
+day 3	201-Shift, shift 4, 480.0mins 0lvl | 
+day 4	288-Shift, shift 3, 480.0mins 0lvl | 
+day 5	354-Shift, shift 3, 480.0mins 0lvl | 
+day 6	423-Shift, shift 1, 480.0mins 0lvl | 
+day 7	456-Shift, shift 4, 480.0mins 0lvl | 
+67 - 0 lvl hours: 8.0
+day 1	24-Shift, shift 3, 480.0mins 0lvl | 
+day 2	118-Shift, shift 3, 480.0mins 0lvl | 
+day 3	157-Shift, shift 3, 480.0mins 0lvl | 
+day 4	273-Shift, shift 4, 480.0mins 0lvl | 
+day 5	340-Shift, shift 2, 480.0mins 0lvl | 
+day 6	424-Shift, shift 3, 480.0mins 0lvl | 
+day 7	494-Shift, shift 3, 480.0mins 0lvl | 
+68 - 0 lvl hours: 8.0
+day 1	56-Shift, shift 2, 480.0mins 0lvl | 
+day 2	89-Shift, shift 4, 480.0mins 0lvl | 
+day 3	207-Shift, shift 1, 480.0mins 0lvl | 
+day 4	291-Shift, shift 4, 480.0mins 0lvl | 
+day 5	363-Shift, shift 2, 480.0mins 0lvl | 
+day 6	440-Shift, shift 4, 480.0mins 0lvl | 
+day 7	508-Shift, shift 3, 480.0mins 0lvl | 
+69 - 0 lvl hours: 8.0
+day 1	1-Shift, shift 2, 480.0mins 0lvl | 
+day 2	76-Shift, shift 1, 480.0mins 0lvl | 
+day 3	158-Shift, shift 1, 480.0mins 0lvl | 
+day 4	240-Shift, shift 2, 480.0mins 0lvl | 
+day 5	305-Shift, shift 3, 480.0mins 0lvl | 
+day 6	377-Shift, shift 4, 480.0mins 0lvl | 
+day 7	463-Shift, shift 4, 480.0mins 0lvl | 
+70 - 0 lvl hours: 8.0
+day 1	22-Shift, shift 4, 480.0mins 0lvl | 
+day 2	104-Shift, shift 1, 480.0mins 0lvl | 
+day 3	168-Shift, shift 2, 480.0mins 0lvl | 
+day 4	237-Shift, shift 3, 480.0mins 0lvl | 
+day 5	332-Shift, shift 1, 480.0mins 0lvl | 
+day 6	420-Shift, shift 4, 480.0mins 0lvl | 
+day 7	468-Shift, shift 4, 480.0mins 0lvl | 
+71 - 0 lvl hours: 8.0
+day 1	60-Shift, shift 1, 480.0mins 0lvl | 
+day 2	116-Shift, shift 3, 480.0mins 0lvl | 
+day 3	222-Shift, shift 1, 480.0mins 0lvl | 
+day 4	296-Shift, shift 3, 480.0mins 0lvl | 
+day 5	367-Shift, shift 2, 480.0mins 0lvl | 
+day 6	380-Shift, shift 4, 480.0mins 0lvl | 
+day 7	451-Shift, shift 4, 480.0mins 0lvl | 
+72 - 0 lvl hours: 8.0
+day 1	12-Shift, shift 3, 480.0mins 0lvl | 
+day 2	97-Shift, shift 4, 480.0mins 0lvl | 
+day 3	173-Shift, shift 1, 480.0mins 0lvl | 
+day 4	245-Shift, shift 3, 480.0mins 0lvl | 
+day 5	330-Shift, shift 1, 480.0mins 0lvl | 
+day 6	399-Shift, shift 2, 480.0mins 0lvl | 
+day 7	485-Shift, shift 2, 480.0mins 0lvl | 
+73 - 0 lvl hours: 8.0
+day 1	30-Shift, shift 2, 480.0mins 0lvl | 
+day 2	123-Shift, shift 1, 480.0mins 0lvl | 
+day 3	176-Shift, shift 3, 480.0mins 0lvl | 
+day 4	230-Shift, shift 1, 480.0mins 0lvl | 
+day 5	344-Shift, shift 4, 480.0mins 0lvl | 
+day 6	384-Shift, shift 2, 480.0mins 0lvl | 
+day 7	498-Shift, shift 1, 480.0mins 0lvl | 
+74 - 0 lvl hours: 8.0
+day 1	41-Shift, shift 2, 480.0mins 0lvl | 
+day 2	132-Shift, shift 2, 480.0mins 0lvl | 
+day 3	169-Shift, shift 2, 480.0mins 0lvl | 
+day 4	226-Shift, shift 1, 480.0mins 0lvl | 
+day 5	333-Shift, shift 1, 480.0mins 0lvl | 
+day 6	439-Shift, shift 3, 480.0mins 0lvl | 
+day 7	499-Shift, shift 3, 480.0mins 0lvl | 
+75 - 0 lvl hours: 8.0
+day 1	68-Shift, shift 2, 480.0mins 0lvl | 
+day 2	143-Shift, shift 2, 480.0mins 0lvl | 
+day 3	156-Shift, shift 2, 480.0mins 0lvl | 
+day 4	247-Shift, shift 2, 480.0mins 0lvl | 
+day 5	307-Shift, shift 4, 480.0mins 0lvl | 
+day 6	446-Shift, shift 2, 480.0mins 0lvl | 
+day 7	518-Shift, shift 4, 480.0mins 0lvl | 
+Cost = 3216.0
+Coverage = 59.14285714285714 Penalty = 0.4085714285714286
+Preferences = 59.14285714285714
+1 - 0 lvl hours: 8.0
+day 1	13-Shift, shift 4, 480.0mins 0lvl | 
+day 2	95-Shift, shift 3, 480.0mins 0lvl | 
+day 3	171-Shift, shift 4, 480.0mins 0lvl | 
+day 4	260-Shift, shift 1, 480.0mins 0lvl | 
+day 5	333-Shift, shift 3, 480.0mins 0lvl | 
+day 6	402-Shift, shift 1, 480.0mins 0lvl | 
+day 7	484-Shift, shift 3, 480.0mins 0lvl | 
+2 - 0 lvl hours: 8.0
+day 1	23-Shift, shift 3, 480.0mins 0lvl | 
+day 2	78-Shift, shift 1, 480.0mins 0lvl | 
+day 3	169-Shift, shift 3, 480.0mins 0lvl | 
+day 4	230-Shift, shift 1, 480.0mins 0lvl | 
+day 5	341-Shift, shift 2, 480.0mins 0lvl | 
+day 6	414-Shift, shift 3, 480.0mins 0lvl | 
+day 7	491-Shift, shift 2, 480.0mins 0lvl | 
+3 - 0 lvl hours: 8.0
+day 1	71-Shift, shift 4, 480.0mins 0lvl | 
+day 2	146-Shift, shift 1, 480.0mins 0lvl | 
+day 3	221-Shift, shift 1, 480.0mins 0lvl | 
+day 4	237-Shift, shift 3, 480.0mins 0lvl | 
+day 5	374-Shift, shift 3, 480.0mins 0lvl | 
+day 6	447-Shift, shift 1, 480.0mins 0lvl | 
+day 7	477-Shift, shift 1, 480.0mins 0lvl | 
+4 - 0 lvl hours: 8.0
+day 1	30-Shift, shift 2, 480.0mins 0lvl | 
+day 2	104-Shift, shift 1, 480.0mins 0lvl | 
+day 3	195-Shift, shift 2, 480.0mins 0lvl | 
+day 4	233-Shift, shift 4, 480.0mins 0lvl | 
+day 5	347-Shift, shift 3, 480.0mins 0lvl | 
+day 6	381-Shift, shift 4, 480.0mins 0lvl | 
+day 7	463-Shift, shift 4, 480.0mins 0lvl | 
+5 - 0 lvl hours: 8.0
+day 1	45-Shift, shift 3, 480.0mins 0lvl | 
+day 2	133-Shift, shift 3, 480.0mins 0lvl | 
+day 3	203-Shift, shift 4, 480.0mins 0lvl | 
+day 4	241-Shift, shift 1, 480.0mins 0lvl | 
+day 5	364-Shift, shift 2, 480.0mins 0lvl | 
+day 6	435-Shift, shift 1, 480.0mins 0lvl | 
+day 7	502-Shift, shift 1, 480.0mins 0lvl | 
+6 - 0 lvl hours: 8.0
+day 1	73-Shift, shift 4, 480.0mins 0lvl | 
+day 2	148-Shift, shift 2, 480.0mins 0lvl | 
+day 3	223-Shift, shift 2, 480.0mins 0lvl | 
+day 4	292-Shift, shift 2, 480.0mins 0lvl | 
+day 5	375-Shift, shift 1, 480.0mins 0lvl | 
+day 6	395-Shift, shift 2, 480.0mins 0lvl | 
+day 7	523-Shift, shift 4, 480.0mins 0lvl | 
+7 - 0 lvl hours: 8.0
+day 1	40-Shift, shift 4, 480.0mins 0lvl | 
+day 2	88-Shift, shift 2, 480.0mins 0lvl | 
+day 3	208-Shift, shift 3, 480.0mins 0lvl | 
+day 4	236-Shift, shift 4, 480.0mins 0lvl | 
+day 5	322-Shift, shift 2, 480.0mins 0lvl | 
+day 6	418-Shift, shift 1, 480.0mins 0lvl | 
+day 7	499-Shift, shift 2, 480.0mins 0lvl | 
+8 - 0 lvl hours: 8.0
+day 1	22-Shift, shift 2, 480.0mins 0lvl | 
+day 2	122-Shift, shift 2, 480.0mins 0lvl | 
+day 3	188-Shift, shift 3, 480.0mins 0lvl | 
+day 4	267-Shift, shift 4, 480.0mins 0lvl | 
+day 5	329-Shift, shift 1, 480.0mins 0lvl | 
+day 6	411-Shift, shift 1, 480.0mins 0lvl | 
+day 7	490-Shift, shift 4, 480.0mins 0lvl | 
+9 - 0 lvl hours: 8.0
+day 1	66-Shift, shift 4, 480.0mins 0lvl | 
+day 2	141-Shift, shift 2, 480.0mins 0lvl | 
+day 3	190-Shift, shift 1, 480.0mins 0lvl | 
+day 4	296-Shift, shift 4, 480.0mins 0lvl | 
+day 5	361-Shift, shift 1, 480.0mins 0lvl | 
+day 6	434-Shift, shift 2, 480.0mins 0lvl | 
+day 7	518-Shift, shift 4, 480.0mins 0lvl | 
+10 - 0 lvl hours: 8.0
+day 1	12-Shift, shift 2, 480.0mins 0lvl | 
+day 2	110-Shift, shift 1, 480.0mins 0lvl | 
+day 3	156-Shift, shift 4, 480.0mins 0lvl | 
+day 4	257-Shift, shift 4, 480.0mins 0lvl | 
+day 5	331-Shift, shift 4, 480.0mins 0lvl | 
+day 6	387-Shift, shift 3, 480.0mins 0lvl | 
+day 7	473-Shift, shift 2, 480.0mins 0lvl | 
+11 - 0 lvl hours: 8.0
+day 1	19-Shift, shift 2, 480.0mins 0lvl | 
+day 2	100-Shift, shift 4, 480.0mins 0lvl | 
+day 3	184-Shift, shift 1, 480.0mins 0lvl | 
+day 4	244-Shift, shift 1, 480.0mins 0lvl | 
+day 5	337-Shift, shift 4, 480.0mins 0lvl | 
+day 6	409-Shift, shift 2, 480.0mins 0lvl | 
+day 7	488-Shift, shift 3, 480.0mins 0lvl | 
+12 - 0 lvl hours: 8.0
+day 1	21-Shift, shift 2, 480.0mins 0lvl | 
+day 2	77-Shift, shift 1, 480.0mins 0lvl | 
+day 3	161-Shift, shift 4, 480.0mins 0lvl | 
+day 4	251-Shift, shift 4, 480.0mins 0lvl | 
+day 5	339-Shift, shift 2, 480.0mins 0lvl | 
+day 6	390-Shift, shift 1, 480.0mins 0lvl | 
+day 7	453-Shift, shift 2, 480.0mins 0lvl | 
+13 - 0 lvl hours: 8.0
+day 1	31-Shift, shift 2, 480.0mins 0lvl | 
+day 2	125-Shift, shift 4, 480.0mins 0lvl | 
+day 3	196-Shift, shift 2, 480.0mins 0lvl | 
+day 4	281-Shift, shift 4, 480.0mins 0lvl | 
+day 5	301-Shift, shift 4, 480.0mins 0lvl | 
+day 6	423-Shift, shift 2, 480.0mins 0lvl | 
+day 7	475-Shift, shift 2, 480.0mins 0lvl | 
+14 - 0 lvl hours: 8.0
+day 1	72-Shift, shift 1, 480.0mins 0lvl | 
+day 2	147-Shift, shift 2, 480.0mins 0lvl | 
+day 3	222-Shift, shift 4, 480.0mins 0lvl | 
+day 4	285-Shift, shift 2, 480.0mins 0lvl | 
+day 5	340-Shift, shift 1, 480.0mins 0lvl | 
+day 6	439-Shift, shift 2, 480.0mins 0lvl | 
+day 7	522-Shift, shift 2, 480.0mins 0lvl | 
+15 - 0 lvl hours: 8.0
+day 1	48-Shift, shift 2, 480.0mins 0lvl | 
+day 2	83-Shift, shift 3, 480.0mins 0lvl | 
+day 3	159-Shift, shift 4, 480.0mins 0lvl | 
+day 4	245-Shift, shift 2, 480.0mins 0lvl | 
+day 5	307-Shift, shift 1, 480.0mins 0lvl | 
+day 6	391-Shift, shift 3, 480.0mins 0lvl | 
+day 7	504-Shift, shift 1, 480.0mins 0lvl | 
+16 - 0 lvl hours: 8.0
+day 1	1-Shift, shift 1, 480.0mins 0lvl | 
+day 2	76-Shift, shift 4, 480.0mins 0lvl | 
+day 3	160-Shift, shift 2, 480.0mins 0lvl | 
+day 4	226-Shift, shift 2, 480.0mins 0lvl | 
+day 5	303-Shift, shift 1, 480.0mins 0lvl | 
+day 6	384-Shift, shift 2, 480.0mins 0lvl | 
+day 7	454-Shift, shift 2, 480.0mins 0lvl | 
+17 - 0 lvl hours: 8.0
+day 1	58-Shift, shift 3, 480.0mins 0lvl | 
+day 2	116-Shift, shift 3, 480.0mins 0lvl | 
+day 3	170-Shift, shift 1, 480.0mins 0lvl | 
+day 4	290-Shift, shift 4, 480.0mins 0lvl | 
+day 5	335-Shift, shift 1, 480.0mins 0lvl | 
+day 6	392-Shift, shift 1, 480.0mins 0lvl | 
+day 7	472-Shift, shift 2, 480.0mins 0lvl | 
+18 - 0 lvl hours: 8.0
+day 1	59-Shift, shift 2, 480.0mins 0lvl | 
+day 2	117-Shift, shift 3, 480.0mins 0lvl | 
+day 3	217-Shift, shift 2, 480.0mins 0lvl | 
+day 4	291-Shift, shift 4, 480.0mins 0lvl | 
+day 5	342-Shift, shift 3, 480.0mins 0lvl | 
+day 6	413-Shift, shift 3, 480.0mins 0lvl | 
+day 7	459-Shift, shift 2, 480.0mins 0lvl | 
+19 - 0 lvl hours: 8.0
+day 1	17-Shift, shift 2, 480.0mins 0lvl | 
+day 2	92-Shift, shift 2, 480.0mins 0lvl | 
+day 3	181-Shift, shift 3, 480.0mins 0lvl | 
+day 4	239-Shift, shift 3, 480.0mins 0lvl | 
+day 5	316-Shift, shift 4, 480.0mins 0lvl | 
+day 6	403-Shift, shift 3, 480.0mins 0lvl | 
+day 7	462-Shift, shift 2, 480.0mins 0lvl | 
+20 - 0 lvl hours: 8.0
+day 1	32-Shift, shift 4, 480.0mins 0lvl | 
+day 2	108-Shift, shift 1, 480.0mins 0lvl | 
+day 3	197-Shift, shift 3, 480.0mins 0lvl | 
+day 4	268-Shift, shift 4, 480.0mins 0lvl | 
+day 5	327-Shift, shift 4, 480.0mins 0lvl | 
+day 6	426-Shift, shift 3, 480.0mins 0lvl | 
+day 7	452-Shift, shift 2, 480.0mins 0lvl | 
+21 - 0 lvl hours: 8.0
+day 1	7-Shift, shift 4, 480.0mins 0lvl | 
+day 2	86-Shift, shift 1, 480.0mins 0lvl | 
+day 3	167-Shift, shift 3, 480.0mins 0lvl | 
+day 4	254-Shift, shift 4, 480.0mins 0lvl | 
+day 5	320-Shift, shift 3, 480.0mins 0lvl | 
+day 6	396-Shift, shift 2, 480.0mins 0lvl | 
+day 7	466-Shift, shift 3, 480.0mins 0lvl | 
+22 - 0 lvl hours: 8.0
+day 1	56-Shift, shift 4, 480.0mins 0lvl | 
+day 2	135-Shift, shift 4, 480.0mins 0lvl | 
+day 3	215-Shift, shift 3, 480.0mins 0lvl | 
+day 4	234-Shift, shift 3, 480.0mins 0lvl | 
+day 5	368-Shift, shift 1, 480.0mins 0lvl | 
+day 6	383-Shift, shift 4, 480.0mins 0lvl | 
+day 7	513-Shift, shift 2, 480.0mins 0lvl | 
+23 - 0 lvl hours: 8.0
+day 1	74-Shift, shift 2, 480.0mins 0lvl | 
+day 2	149-Shift, shift 4, 480.0mins 0lvl | 
+day 3	224-Shift, shift 4, 480.0mins 0lvl | 
+day 4	300-Shift, shift 3, 480.0mins 0lvl | 
+day 5	319-Shift, shift 3, 480.0mins 0lvl | 
+day 6	449-Shift, shift 4, 480.0mins 0lvl | 
+day 7	525-Shift, shift 1, 480.0mins 0lvl | 
+24 - 0 lvl hours: 8.0
+day 1	70-Shift, shift 1, 480.0mins 0lvl | 
+day 2	145-Shift, shift 4, 480.0mins 0lvl | 
+day 3	207-Shift, shift 3, 480.0mins 0lvl | 
+day 4	242-Shift, shift 4, 480.0mins 0lvl | 
+day 5	314-Shift, shift 4, 480.0mins 0lvl | 
+day 6	446-Shift, shift 2, 480.0mins 0lvl | 
+day 7	521-Shift, shift 4, 480.0mins 0lvl | 
+25 - 0 lvl hours: 8.0
+day 1	26-Shift, shift 4, 480.0mins 0lvl | 
+day 2	123-Shift, shift 4, 480.0mins 0lvl | 
+day 3	191-Shift, shift 2, 480.0mins 0lvl | 
+day 4	269-Shift, shift 2, 480.0mins 0lvl | 
+day 5	346-Shift, shift 3, 480.0mins 0lvl | 
+day 6	419-Shift, shift 4, 480.0mins 0lvl | 
+day 7	494-Shift, shift 3, 480.0mins 0lvl | 
+26 - 0 lvl hours: 8.0
+day 1	34-Shift, shift 1, 480.0mins 0lvl | 
+day 2	126-Shift, shift 4, 480.0mins 0lvl | 
+day 3	199-Shift, shift 2, 480.0mins 0lvl | 
+day 4	235-Shift, shift 3, 480.0mins 0lvl | 
+day 5	348-Shift, shift 1, 480.0mins 0lvl | 
+day 6	420-Shift, shift 4, 480.0mins 0lvl | 
+day 7	479-Shift, shift 3, 480.0mins 0lvl | 
+27 - 0 lvl hours: 8.0
+day 1	9-Shift, shift 3, 480.0mins 0lvl | 
+day 2	91-Shift, shift 4, 480.0mins 0lvl | 
+day 3	168-Shift, shift 1, 480.0mins 0lvl | 
+day 4	227-Shift, shift 3, 480.0mins 0lvl | 
+day 5	324-Shift, shift 4, 480.0mins 0lvl | 
+day 6	399-Shift, shift 2, 480.0mins 0lvl | 
+day 7	467-Shift, shift 1, 480.0mins 0lvl | 
+28 - 0 lvl hours: 8.0
+day 1	42-Shift, shift 1, 480.0mins 0lvl | 
+day 2	102-Shift, shift 4, 480.0mins 0lvl | 
+day 3	187-Shift, shift 2, 480.0mins 0lvl | 
+day 4	274-Shift, shift 1, 480.0mins 0lvl | 
+day 5	309-Shift, shift 1, 480.0mins 0lvl | 
+day 6	404-Shift, shift 1, 480.0mins 0lvl | 
+day 7	500-Shift, shift 1, 480.0mins 0lvl | 
+29 - 0 lvl hours: 8.0
+day 1	8-Shift, shift 1, 480.0mins 0lvl | 
+day 2	84-Shift, shift 3, 480.0mins 0lvl | 
+day 3	157-Shift, shift 4, 480.0mins 0lvl | 
+day 4	255-Shift, shift 1, 480.0mins 0lvl | 
+day 5	323-Shift, shift 2, 480.0mins 0lvl | 
+day 6	398-Shift, shift 4, 480.0mins 0lvl | 
+day 7	480-Shift, shift 2, 480.0mins 0lvl | 
+30 - 0 lvl hours: 8.0
+day 1	35-Shift, shift 4, 480.0mins 0lvl | 
+day 2	98-Shift, shift 3, 480.0mins 0lvl | 
+day 3	201-Shift, shift 3, 480.0mins 0lvl | 
+day 4	279-Shift, shift 3, 480.0mins 0lvl | 
+day 5	315-Shift, shift 1, 480.0mins 0lvl | 
+day 6	380-Shift, shift 2, 480.0mins 0lvl | 
+day 7	497-Shift, shift 1, 480.0mins 0lvl | 
+31 - 0 lvl hours: 8.0
+day 1	38-Shift, shift 2, 480.0mins 0lvl | 
+day 2	109-Shift, shift 4, 480.0mins 0lvl | 
+day 3	193-Shift, shift 3, 480.0mins 0lvl | 
+day 4	262-Shift, shift 3, 480.0mins 0lvl | 
+day 5	356-Shift, shift 1, 480.0mins 0lvl | 
+day 6	431-Shift, shift 2, 480.0mins 0lvl | 
+day 7	468-Shift, shift 1, 480.0mins 0lvl | 
+32 - 0 lvl hours: 8.0
+day 1	62-Shift, shift 4, 480.0mins 0lvl | 
+day 2	137-Shift, shift 3, 480.0mins 0lvl | 
+day 3	220-Shift, shift 1, 480.0mins 0lvl | 
+day 4	231-Shift, shift 2, 480.0mins 0lvl | 
+day 5	363-Shift, shift 4, 480.0mins 0lvl | 
+day 6	445-Shift, shift 1, 480.0mins 0lvl | 
+day 7	515-Shift, shift 3, 480.0mins 0lvl | 
+33 - 0 lvl hours: 8.0
+day 1	49-Shift, shift 4, 480.0mins 0lvl | 
+day 2	134-Shift, shift 2, 480.0mins 0lvl | 
+day 3	211-Shift, shift 4, 480.0mins 0lvl | 
+day 4	271-Shift, shift 4, 480.0mins 0lvl | 
+day 5	344-Shift, shift 3, 480.0mins 0lvl | 
+day 6	393-Shift, shift 4, 480.0mins 0lvl | 
+day 7	470-Shift, shift 2, 480.0mins 0lvl | 
+34 - 0 lvl hours: 8.0
+day 1	55-Shift, shift 3, 480.0mins 0lvl | 
+day 2	106-Shift, shift 1, 480.0mins 0lvl | 
+day 3	172-Shift, shift 1, 480.0mins 0lvl | 
+day 4	276-Shift, shift 2, 480.0mins 0lvl | 
+day 5	313-Shift, shift 1, 480.0mins 0lvl | 
+day 6	408-Shift, shift 1, 480.0mins 0lvl | 
+day 7	508-Shift, shift 4, 480.0mins 0lvl | 
+35 - 0 lvl hours: 8.0
+day 1	41-Shift, shift 1, 480.0mins 0lvl | 
+day 2	132-Shift, shift 3, 480.0mins 0lvl | 
+day 3	155-Shift, shift 4, 480.0mins 0lvl | 
+day 4	282-Shift, shift 2, 480.0mins 0lvl | 
+day 5	359-Shift, shift 1, 480.0mins 0lvl | 
+day 6	432-Shift, shift 2, 480.0mins 0lvl | 
+day 7	492-Shift, shift 4, 480.0mins 0lvl | 
+36 - 0 lvl hours: 8.0
+day 1	33-Shift, shift 1, 480.0mins 0lvl | 
+day 2	127-Shift, shift 1, 480.0mins 0lvl | 
+day 3	198-Shift, shift 1, 480.0mins 0lvl | 
+day 4	273-Shift, shift 1, 480.0mins 0lvl | 
+day 5	332-Shift, shift 3, 480.0mins 0lvl | 
+day 6	428-Shift, shift 2, 480.0mins 0lvl | 
+day 7	496-Shift, shift 1, 480.0mins 0lvl | 
+37 - 0 lvl hours: 8.0
+day 1	57-Shift, shift 4, 480.0mins 0lvl | 
+day 2	114-Shift, shift 4, 480.0mins 0lvl | 
+day 3	216-Shift, shift 3, 480.0mins 0lvl | 
+day 4	270-Shift, shift 3, 480.0mins 0lvl | 
+day 5	369-Shift, shift 3, 480.0mins 0lvl | 
+day 6	441-Shift, shift 2, 480.0mins 0lvl | 
+day 7	483-Shift, shift 4, 480.0mins 0lvl | 
+38 - 0 lvl hours: 8.0
+day 1	47-Shift, shift 2, 480.0mins 0lvl | 
+day 2	81-Shift, shift 3, 480.0mins 0lvl | 
+day 3	180-Shift, shift 4, 480.0mins 0lvl | 
+day 4	253-Shift, shift 1, 480.0mins 0lvl | 
+day 5	325-Shift, shift 2, 480.0mins 0lvl | 
+day 6	437-Shift, shift 1, 480.0mins 0lvl | 
+day 7	503-Shift, shift 2, 480.0mins 0lvl | 
+39 - 0 lvl hours: 8.0
+day 1	14-Shift, shift 3, 480.0mins 0lvl | 
+day 2	112-Shift, shift 4, 480.0mins 0lvl | 
+day 3	175-Shift, shift 3, 480.0mins 0lvl | 
+day 4	261-Shift, shift 3, 480.0mins 0lvl | 
+day 5	321-Shift, shift 2, 480.0mins 0lvl | 
+day 6	405-Shift, shift 1, 480.0mins 0lvl | 
+day 7	469-Shift, shift 3, 480.0mins 0lvl | 
+40 - 0 lvl hours: 8.0
+day 1	25-Shift, shift 1, 480.0mins 0lvl | 
+day 2	121-Shift, shift 2, 480.0mins 0lvl | 
+day 3	177-Shift, shift 1, 480.0mins 0lvl | 
+day 4	272-Shift, shift 1, 480.0mins 0lvl | 
+day 5	305-Shift, shift 3, 480.0mins 0lvl | 
+day 6	416-Shift, shift 3, 480.0mins 0lvl | 
+day 7	493-Shift, shift 2, 480.0mins 0lvl | 
+41 - 0 lvl hours: 8.0
+day 1	37-Shift, shift 2, 480.0mins 0lvl | 
+day 2	129-Shift, shift 4, 480.0mins 0lvl | 
+day 3	205-Shift, shift 3, 480.0mins 0lvl | 
+day 4	275-Shift, shift 1, 480.0mins 0lvl | 
+day 5	355-Shift, shift 3, 480.0mins 0lvl | 
+day 6	430-Shift, shift 4, 480.0mins 0lvl | 
+day 7	476-Shift, shift 4, 480.0mins 0lvl | 
+42 - 0 lvl hours: 8.0
+day 1	10-Shift, shift 1, 480.0mins 0lvl | 
+day 2	97-Shift, shift 4, 480.0mins 0lvl | 
+day 3	173-Shift, shift 2, 480.0mins 0lvl | 
+day 4	256-Shift, shift 1, 480.0mins 0lvl | 
+day 5	328-Shift, shift 1, 480.0mins 0lvl | 
+day 6	400-Shift, shift 4, 480.0mins 0lvl | 
+day 7	460-Shift, shift 2, 480.0mins 0lvl | 
+43 - 0 lvl hours: 8.0
+day 1	54-Shift, shift 1, 480.0mins 0lvl | 
+day 2	105-Shift, shift 1, 480.0mins 0lvl | 
+day 3	200-Shift, shift 1, 480.0mins 0lvl | 
+day 4	289-Shift, shift 4, 480.0mins 0lvl | 
+day 5	358-Shift, shift 4, 480.0mins 0lvl | 
+day 6	440-Shift, shift 3, 480.0mins 0lvl | 
+day 7	512-Shift, shift 2, 480.0mins 0lvl | 
+44 - 0 lvl hours: 8.0
+day 1	68-Shift, shift 1, 480.0mins 0lvl | 
+day 2	143-Shift, shift 4, 480.0mins 0lvl | 
+day 3	192-Shift, shift 1, 480.0mins 0lvl | 
+day 4	297-Shift, shift 4, 480.0mins 0lvl | 
+day 5	362-Shift, shift 2, 480.0mins 0lvl | 
+day 6	427-Shift, shift 1, 480.0mins 0lvl | 
+day 7	520-Shift, shift 2, 480.0mins 0lvl | 
+45 - 0 lvl hours: 8.0
+day 1	69-Shift, shift 2, 480.0mins 0lvl | 
+day 2	144-Shift, shift 4, 480.0mins 0lvl | 
+day 3	206-Shift, shift 3, 480.0mins 0lvl | 
+day 4	298-Shift, shift 4, 480.0mins 0lvl | 
+day 5	373-Shift, shift 1, 480.0mins 0lvl | 
+day 6	444-Shift, shift 4, 480.0mins 0lvl | 
+day 7	509-Shift, shift 1, 480.0mins 0lvl | 
+46 - 0 lvl hours: 8.0
+day 1	29-Shift, shift 3, 480.0mins 0lvl | 
+day 2	124-Shift, shift 4, 480.0mins 0lvl | 
+day 3	186-Shift, shift 4, 480.0mins 0lvl | 
+day 4	243-Shift, shift 3, 480.0mins 0lvl | 
+day 5	302-Shift, shift 2, 480.0mins 0lvl | 
+day 6	421-Shift, shift 4, 480.0mins 0lvl | 
+day 7	458-Shift, shift 2, 480.0mins 0lvl | 
+47 - 0 lvl hours: 8.0
+day 1	5-Shift, shift 2, 480.0mins 0lvl | 
+day 2	89-Shift, shift 4, 480.0mins 0lvl | 
+day 3	165-Shift, shift 3, 480.0mins 0lvl | 
+day 4	248-Shift, shift 3, 480.0mins 0lvl | 
+day 5	317-Shift, shift 1, 480.0mins 0lvl | 
+day 6	389-Shift, shift 1, 480.0mins 0lvl | 
+day 7	465-Shift, shift 1, 480.0mins 0lvl | 
+48 - 0 lvl hours: 8.0
+day 1	4-Shift, shift 4, 480.0mins 0lvl | 
+day 2	79-Shift, shift 4, 480.0mins 0lvl | 
+day 3	163-Shift, shift 4, 480.0mins 0lvl | 
+day 4	240-Shift, shift 4, 480.0mins 0lvl | 
+day 5	312-Shift, shift 1, 480.0mins 0lvl | 
+day 6	388-Shift, shift 2, 480.0mins 0lvl | 
+day 7	457-Shift, shift 2, 480.0mins 0lvl | 
+49 - 0 lvl hours: 8.0
+day 1	60-Shift, shift 1, 480.0mins 0lvl | 
+day 2	130-Shift, shift 4, 480.0mins 0lvl | 
+day 3	219-Shift, shift 2, 480.0mins 0lvl | 
+day 4	293-Shift, shift 4, 480.0mins 0lvl | 
+day 5	370-Shift, shift 3, 480.0mins 0lvl | 
+day 6	442-Shift, shift 2, 480.0mins 0lvl | 
+day 7	514-Shift, shift 3, 480.0mins 0lvl | 
+50 - 0 lvl hours: 8.0
+day 1	27-Shift, shift 2, 480.0mins 0lvl | 
+day 2	85-Shift, shift 3, 480.0mins 0lvl | 
+day 3	178-Shift, shift 4, 480.0mins 0lvl | 
+day 4	278-Shift, shift 3, 480.0mins 0lvl | 
+day 5	326-Shift, shift 4, 480.0mins 0lvl | 
+day 6	412-Shift, shift 4, 480.0mins 0lvl | 
+day 7	495-Shift, shift 4, 480.0mins 0lvl | 
+51 - 0 lvl hours: 8.0
+day 1	65-Shift, shift 3, 480.0mins 0lvl | 
+day 2	140-Shift, shift 4, 480.0mins 0lvl | 
+day 3	154-Shift, shift 1, 480.0mins 0lvl | 
+day 4	259-Shift, shift 3, 480.0mins 0lvl | 
+day 5	352-Shift, shift 4, 480.0mins 0lvl | 
+day 6	448-Shift, shift 2, 480.0mins 0lvl | 
+day 7	517-Shift, shift 3, 480.0mins 0lvl | 
+52 - 0 lvl hours: 8.0
+day 1	67-Shift, shift 1, 480.0mins 0lvl | 
+day 2	142-Shift, shift 1, 480.0mins 0lvl | 
+day 3	183-Shift, shift 2, 480.0mins 0lvl | 
+day 4	295-Shift, shift 2, 480.0mins 0lvl | 
+day 5	304-Shift, shift 3, 480.0mins 0lvl | 
+day 6	379-Shift, shift 4, 480.0mins 0lvl | 
+day 7	519-Shift, shift 2, 480.0mins 0lvl | 
+53 - 0 lvl hours: 8.0
+day 1	11-Shift, shift 4, 480.0mins 0lvl | 
+day 2	107-Shift, shift 1, 480.0mins 0lvl | 
+day 3	174-Shift, shift 3, 480.0mins 0lvl | 
+day 4	232-Shift, shift 4, 480.0mins 0lvl | 
+day 5	330-Shift, shift 3, 480.0mins 0lvl | 
+day 6	401-Shift, shift 1, 480.0mins 0lvl | 
+day 7	482-Shift, shift 4, 480.0mins 0lvl | 
+54 - 0 lvl hours: 8.0
+day 1	20-Shift, shift 2, 480.0mins 0lvl | 
+day 2	120-Shift, shift 4, 480.0mins 0lvl | 
+day 3	185-Shift, shift 3, 480.0mins 0lvl | 
+day 4	266-Shift, shift 2, 480.0mins 0lvl | 
+day 5	338-Shift, shift 1, 480.0mins 0lvl | 
+day 6	410-Shift, shift 3, 480.0mins 0lvl | 
+day 7	489-Shift, shift 3, 480.0mins 0lvl | 
+55 - 0 lvl hours: 8.0
+day 1	61-Shift, shift 2, 480.0mins 0lvl | 
+day 2	136-Shift, shift 4, 480.0mins 0lvl | 
+day 3	218-Shift, shift 3, 480.0mins 0lvl | 
+day 4	238-Shift, shift 1, 480.0mins 0lvl | 
+day 5	371-Shift, shift 4, 480.0mins 0lvl | 
+day 6	422-Shift, shift 3, 480.0mins 0lvl | 
+day 7	451-Shift, shift 4, 480.0mins 0lvl | 
+56 - 0 lvl hours: 8.0
+day 1	46-Shift, shift 3, 480.0mins 0lvl | 
+day 2	80-Shift, shift 4, 480.0mins 0lvl | 
+day 3	204-Shift, shift 3, 480.0mins 0lvl | 
+day 4	258-Shift, shift 1, 480.0mins 0lvl | 
+day 5	354-Shift, shift 3, 480.0mins 0lvl | 
+day 6	436-Shift, shift 3, 480.0mins 0lvl | 
+day 7	471-Shift, shift 1, 480.0mins 0lvl | 
+57 - 0 lvl hours: 8.0
+day 1	53-Shift, shift 4, 480.0mins 0lvl | 
+day 2	99-Shift, shift 2, 480.0mins 0lvl | 
+day 3	214-Shift, shift 3, 480.0mins 0lvl | 
+day 4	288-Shift, shift 4, 480.0mins 0lvl | 
+day 5	367-Shift, shift 4, 480.0mins 0lvl | 
+day 6	429-Shift, shift 4, 480.0mins 0lvl | 
+day 7	511-Shift, shift 3, 480.0mins 0lvl | 
+58 - 0 lvl hours: 8.0
+day 1	44-Shift, shift 1, 480.0mins 0lvl | 
+day 2	101-Shift, shift 2, 480.0mins 0lvl | 
+day 3	210-Shift, shift 4, 480.0mins 0lvl | 
+day 4	283-Shift, shift 4, 480.0mins 0lvl | 
+day 5	360-Shift, shift 4, 480.0mins 0lvl | 
+day 6	433-Shift, shift 2, 480.0mins 0lvl | 
+day 7	478-Shift, shift 2, 480.0mins 0lvl | 
+59 - 0 lvl hours: 8.0
+day 1	24-Shift, shift 1, 480.0mins 0lvl | 
+day 2	103-Shift, shift 1, 480.0mins 0lvl | 
+day 3	189-Shift, shift 1, 480.0mins 0lvl | 
+day 4	229-Shift, shift 1, 480.0mins 0lvl | 
+day 5	345-Shift, shift 3, 480.0mins 0lvl | 
+day 6	417-Shift, shift 2, 480.0mins 0lvl | 
+day 7	487-Shift, shift 3, 480.0mins 0lvl | 
+60 - 0 lvl hours: 8.0
+day 1	50-Shift, shift 1, 480.0mins 0lvl | 
+day 2	93-Shift, shift 4, 480.0mins 0lvl | 
+day 3	164-Shift, shift 3, 480.0mins 0lvl | 
+day 4	284-Shift, shift 1, 480.0mins 0lvl | 
+day 5	365-Shift, shift 3, 480.0mins 0lvl | 
+day 6	415-Shift, shift 4, 480.0mins 0lvl | 
+day 7	506-Shift, shift 3, 480.0mins 0lvl | 
+61 - 0 lvl hours: 8.0
+day 1	52-Shift, shift 4, 480.0mins 0lvl | 
+day 2	96-Shift, shift 4, 480.0mins 0lvl | 
+day 3	213-Shift, shift 3, 480.0mins 0lvl | 
+day 4	287-Shift, shift 2, 480.0mins 0lvl | 
+day 5	366-Shift, shift 2, 480.0mins 0lvl | 
+day 6	438-Shift, shift 2, 480.0mins 0lvl | 
+day 7	510-Shift, shift 2, 480.0mins 0lvl | 
+62 - 0 lvl hours: 8.0
+day 1	36-Shift, shift 2, 480.0mins 0lvl | 
+day 2	128-Shift, shift 2, 480.0mins 0lvl | 
+day 3	202-Shift, shift 2, 480.0mins 0lvl | 
+day 4	250-Shift, shift 1, 480.0mins 0lvl | 
+day 5	351-Shift, shift 1, 480.0mins 0lvl | 
+day 6	376-Shift, shift 3, 480.0mins 0lvl | 
+day 7	498-Shift, shift 4, 480.0mins 0lvl | 
+63 - 0 lvl hours: 8.0
+day 1	3-Shift, shift 1, 480.0mins 0lvl | 
+day 2	82-Shift, shift 3, 480.0mins 0lvl | 
+day 3	162-Shift, shift 3, 480.0mins 0lvl | 
+day 4	247-Shift, shift 3, 480.0mins 0lvl | 
+day 5	310-Shift, shift 2, 480.0mins 0lvl | 
+day 6	385-Shift, shift 3, 480.0mins 0lvl | 
+day 7	456-Shift, shift 4, 480.0mins 0lvl | 
+64 - 0 lvl hours: 8.0
+day 1	64-Shift, shift 4, 480.0mins 0lvl | 
+day 2	139-Shift, shift 1, 480.0mins 0lvl | 
+day 3	153-Shift, shift 3, 480.0mins 0lvl | 
+day 4	228-Shift, shift 4, 480.0mins 0lvl | 
+day 5	372-Shift, shift 1, 480.0mins 0lvl | 
+day 6	443-Shift, shift 2, 480.0mins 0lvl | 
+day 7	516-Shift, shift 3, 480.0mins 0lvl | 
+65 - 0 lvl hours: 8.0
+day 1	2-Shift, shift 2, 480.0mins 0lvl | 
+day 2	87-Shift, shift 4, 480.0mins 0lvl | 
+day 3	158-Shift, shift 4, 480.0mins 0lvl | 
+day 4	246-Shift, shift 4, 480.0mins 0lvl | 
+day 5	308-Shift, shift 3, 480.0mins 0lvl | 
+day 6	386-Shift, shift 2, 480.0mins 0lvl | 
+day 7	455-Shift, shift 2, 480.0mins 0lvl | 
+66 - 0 lvl hours: 8.0
+day 1	63-Shift, shift 2, 480.0mins 0lvl | 
+day 2	138-Shift, shift 2, 480.0mins 0lvl | 
+day 3	152-Shift, shift 2, 480.0mins 0lvl | 
+day 4	294-Shift, shift 1, 480.0mins 0lvl | 
+day 5	343-Shift, shift 3, 480.0mins 0lvl | 
+day 6	382-Shift, shift 4, 480.0mins 0lvl | 
+day 7	505-Shift, shift 2, 480.0mins 0lvl | 
+67 - 0 lvl hours: 8.0
+day 1	15-Shift, shift 4, 480.0mins 0lvl | 
+day 2	113-Shift, shift 2, 480.0mins 0lvl | 
+day 3	176-Shift, shift 2, 480.0mins 0lvl | 
+day 4	263-Shift, shift 4, 480.0mins 0lvl | 
+day 5	311-Shift, shift 1, 480.0mins 0lvl | 
+day 6	406-Shift, shift 1, 480.0mins 0lvl | 
+day 7	485-Shift, shift 1, 480.0mins 0lvl | 
+68 - 0 lvl hours: 8.0
+day 1	6-Shift, shift 3, 480.0mins 0lvl | 
+day 2	90-Shift, shift 2, 480.0mins 0lvl | 
+day 3	166-Shift, shift 2, 480.0mins 0lvl | 
+day 4	252-Shift, shift 2, 480.0mins 0lvl | 
+day 5	318-Shift, shift 1, 480.0mins 0lvl | 
+day 6	394-Shift, shift 2, 480.0mins 0lvl | 
+day 7	461-Shift, shift 2, 480.0mins 0lvl | 
+69 - 0 lvl hours: 8.0
+day 1	16-Shift, shift 2, 480.0mins 0lvl | 
+day 2	115-Shift, shift 3, 480.0mins 0lvl | 
+day 3	179-Shift, shift 1, 480.0mins 0lvl | 
+day 4	264-Shift, shift 3, 480.0mins 0lvl | 
+day 5	336-Shift, shift 2, 480.0mins 0lvl | 
+day 6	378-Shift, shift 4, 480.0mins 0lvl | 
+day 7	486-Shift, shift 1, 480.0mins 0lvl | 
+70 - 0 lvl hours: 8.0
+day 1	75-Shift, shift 2, 480.0mins 0lvl | 
+day 2	150-Shift, shift 4, 480.0mins 0lvl | 
+day 3	225-Shift, shift 2, 480.0mins 0lvl | 
+day 4	299-Shift, shift 3, 480.0mins 0lvl | 
+day 5	349-Shift, shift 1, 480.0mins 0lvl | 
+day 6	450-Shift, shift 4, 480.0mins 0lvl | 
+day 7	524-Shift, shift 3, 480.0mins 0lvl | 
+71 - 0 lvl hours: 8.0
+day 1	43-Shift, shift 4, 480.0mins 0lvl | 
+day 2	118-Shift, shift 4, 480.0mins 0lvl | 
+day 3	209-Shift, shift 3, 480.0mins 0lvl | 
+day 4	277-Shift, shift 2, 480.0mins 0lvl | 
+day 5	350-Shift, shift 1, 480.0mins 0lvl | 
+day 6	377-Shift, shift 1, 480.0mins 0lvl | 
+day 7	501-Shift, shift 2, 480.0mins 0lvl | 
+72 - 0 lvl hours: 8.0
+day 1	18-Shift, shift 4, 480.0mins 0lvl | 
+day 2	119-Shift, shift 4, 480.0mins 0lvl | 
+day 3	182-Shift, shift 2, 480.0mins 0lvl | 
+day 4	265-Shift, shift 2, 480.0mins 0lvl | 
+day 5	334-Shift, shift 4, 480.0mins 0lvl | 
+day 6	407-Shift, shift 1, 480.0mins 0lvl | 
+day 7	464-Shift, shift 3, 480.0mins 0lvl | 
+73 - 0 lvl hours: 8.0
+day 1	39-Shift, shift 1, 480.0mins 0lvl | 
+day 2	131-Shift, shift 1, 480.0mins 0lvl | 
+day 3	151-Shift, shift 4, 480.0mins 0lvl | 
+day 4	249-Shift, shift 1, 480.0mins 0lvl | 
+day 5	357-Shift, shift 2, 480.0mins 0lvl | 
+day 6	424-Shift, shift 1, 480.0mins 0lvl | 
+day 7	481-Shift, shift 3, 480.0mins 0lvl | 
+74 - 0 lvl hours: 8.0
+day 1	28-Shift, shift 2, 480.0mins 0lvl | 
+day 2	111-Shift, shift 2, 480.0mins 0lvl | 
+day 3	194-Shift, shift 1, 480.0mins 0lvl | 
+day 4	280-Shift, shift 1, 480.0mins 0lvl | 
+day 5	306-Shift, shift 4, 480.0mins 0lvl | 
+day 6	397-Shift, shift 3, 480.0mins 0lvl | 
+day 7	474-Shift, shift 4, 480.0mins 0lvl | 
+75 - 0 lvl hours: 8.0
+day 1	51-Shift, shift 2, 480.0mins 0lvl | 
+day 2	94-Shift, shift 3, 480.0mins 0lvl | 
+day 3	212-Shift, shift 1, 480.0mins 0lvl | 
+day 4	286-Shift, shift 1, 480.0mins 0lvl | 
+day 5	353-Shift, shift 3, 480.0mins 0lvl | 
+day 6	425-Shift, shift 1, 480.0mins 0lvl | 
+day 7	507-Shift, shift 4, 480.0mins 0lvl | 
+Cost = 3056.0
+Coverage = 58.19047619047619 Penalty = 0.4180952380952381
+Preferences = 58.19047619047619
